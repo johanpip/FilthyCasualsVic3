@@ -1,0 +1,45 @@
+﻿CHARACTERS = {
+	c:TRS = {
+		create_character = {
+			first_name = "Dorina"
+			last_name = "Rakoczy"
+			female = yes
+			culture = cu:romanian
+			religion = rel:chalcedonian
+			birth_date = 1649.1.18
+			traits = {
+				experienced_political_operator wrathful 
+			}
+		}
+
+		create_character = {
+			first_name = "Janos"
+			last_name = "Erdody"
+			heir = yes
+			culture = cu:romanian
+			religion = rel:chalcedonian
+			birth_date = 1666.2.21
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Leopold_I"
+			last_name = "Erdody"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:romanian
+			religion = rel:chalcedonian
+			birth_date = 1647.2.16
+			traits = {
+				ambitious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

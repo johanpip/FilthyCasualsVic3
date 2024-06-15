@@ -1,0 +1,63 @@
+﻿CHARACTERS = {
+	c:BOH = {
+		create_character = {
+			first_name = "Jaromir_Pika"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1633.11.18
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Karel_Jiskra"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1648.6.9
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Katerina"
+			last_name = "von_Laiming"
+			female = yes
+			culture = cu:ceskobavorsky
+			religion = rel:hussite
+			birth_date = 1626.7.21
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Petr_I"
+			last_name = "von_Rehlinger"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:ceskobavorsky
+			religion = rel:hussite
+			birth_date = 1636.4.9
+			traits = {
+				basic_diplomat cruel 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Jan_Jiri_Pika"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1628.3.15
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+	}
+}

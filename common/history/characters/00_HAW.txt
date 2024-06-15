@@ -1,0 +1,54 @@
+﻿CHARACTERS = {
+	c:HAW = {
+		create_character = {
+			first_name = "Kanoa"
+			last_name = "Makaleka"
+			heir = yes
+			female = yes
+			culture = cu:hawaiian
+			religion = rel:animist
+			birth_date = 1653.9.8
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Kamea"
+			last_name = "Makaleka"
+			female = yes
+			culture = cu:hawaiian
+			religion = rel:animist
+			birth_date = 1649.3.5
+			traits = {
+				basic_colonial_administrator cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Palani_I"
+			last_name = "Akeakamai"
+			ruler = yes
+			culture = cu:hawaiian
+			religion = rel:animist
+			birth_date = 1652.5.15
+			traits = {
+				hedonist 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Kimo_Keahi"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1623.6.19
+			traits = {
+				grifter 
+			}
+		}
+
+	}
+}

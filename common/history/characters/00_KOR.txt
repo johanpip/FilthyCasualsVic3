@@ -1,0 +1,69 @@
+﻿CHARACTERS = {
+	c:KOR = {
+		create_character = {
+			first_name = "Gu_Kwon"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1638.7.25
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Yakyong_Yun"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1636.6.10
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Gu_Jeon"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1641.3.24
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Jongmu_Hwang"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1641.4.18
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Hyejeong"
+			last_name = "Yi"
+			heir = yes
+			female = yes
+			culture = cu:korean
+			religion = rel:mahayana
+			birth_date = 1639.10.5
+			traits = {
+				hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Hongwi_III"
+			last_name = "Yi"
+			ruler = yes
+			culture = cu:korean
+			religion = rel:mahayana
+			birth_date = 1604.12.16
+			traits = {
+				basic_political_operator cruel 
+			}
+		}
+
+	}
+}

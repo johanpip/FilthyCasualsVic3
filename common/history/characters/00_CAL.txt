@@ -1,0 +1,65 @@
+﻿CHARACTERS = {
+	c:CAL = {
+		create_character = {
+			first_name = "Conn_Sterne"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1641.6.1
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Criomhthann_Wentworth"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1634.9.5
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Conchobhar"
+			last_name = "O__Cathail"
+			heir = yes
+			culture = cu:neo-usa_north_colony-vestmenn
+			religion = rel:protestant
+			birth_date = 1660.8.21
+			traits = {
+				experienced_colonial_administrator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Saraid"
+			last_name = "DA!l_gCais"
+			female = yes
+			culture = cu:neo-usa_north_colony-vestmenn
+			religion = rel:protestant
+			birth_date = 1637.6.18
+			traits = {
+				hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Turlough_V"
+			last_name = "O__Cathail"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:neo-usa_north_colony-vestmenn
+			religion = rel:protestant
+			birth_date = 1632.5.25
+			traits = {
+				persistent 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:W80 = {
+		create_character = {
+			first_name = "Huyen_Tran"
+			last_name = "Panduranga"
+			female = yes
+			culture = cu:sumatran
+			religion = rel:animist
+			birth_date = 1617.11.29
+			traits = {
+				ambitious experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Ko_cheng"
+			last_name = "Vijaya"
+			heir = yes
+			culture = cu:sumatran
+			religion = rel:animist
+			birth_date = 1648.12.2
+			traits = {
+				basic_political_operator imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Po_Rattirai_I"
+			last_name = "Vijaya"
+			ruler = yes
+			culture = cu:sumatran
+			religion = rel:animist
+			birth_date = 1633.12.2
+			traits = {
+				basic_colonial_administrator imperious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

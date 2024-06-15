@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:ARP = {
+		create_character = {
+			first_name = "Cheenlenten_Clackamas"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1647.4.10
+			traits = {
+				imposing 
+			}
+		}
+
+		create_character = {
+			first_name = "Misstanstur"
+			last_name = "Clowwewalla"
+			female = yes
+			culture = cu:metis
+			religion = rel:protestant
+			birth_date = 1631.8.14
+			traits = {
+				cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Comcomly"
+			last_name = "Atfalati"
+			heir = yes
+			culture = cu:metis
+			religion = rel:protestant
+			birth_date = 1652.6.28
+			traits = {
+				charismatic experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Sallaf_I"
+			last_name = "Atfalati"
+			ruler = yes
+			culture = cu:metis
+			religion = rel:protestant
+			birth_date = 1629.1.30
+			traits = {
+				imperious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

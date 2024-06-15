@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:SWI = {
+		create_character = {
+			first_name = "Werner_II"
+			last_name = "von_Wunstorf"
+			ruler = yes
+			culture = cu:alemannic
+			religion = rel:hussite
+			birth_date = 1652.10.27
+			traits = {
+				arrogant 
+			}
+		}
+
+	}
+}

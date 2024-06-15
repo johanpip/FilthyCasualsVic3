@@ -1,0 +1,14 @@
+﻿DIPLOMACY = {
+	c:VEN = {
+		create_diplomatic_pact = {
+			country = c:W60
+			type = trade_agreement
+		}
+	}
+	c:V65 = {
+		create_diplomatic_pact = {
+			country = c:W60
+			type = trade_agreement
+		}
+	}
+}

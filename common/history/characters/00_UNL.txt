@@ -1,0 +1,52 @@
+﻿CHARACTERS = {
+	c:UNL = {
+		create_character = {
+			first_name = "Marie"
+			last_name = "de_la_Tour"
+			female = yes
+			culture = cu:west_latin
+			religion = rel:chalcedonian
+			birth_date = 1638.4.28
+			traits = {
+				basic_diplomat hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Philippe"
+			last_name = "Jimena"
+			heir = yes
+			culture = cu:west_latin
+			religion = rel:chalcedonian
+			birth_date = 1666.12.5
+			traits = {
+				basic_political_operator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Philippe_VI"
+			last_name = "Jimena"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:west_latin
+			religion = rel:chalcedonian
+			birth_date = 1646.12.5
+			traits = {
+				tactful 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Louis-Joseph_de_Ternant"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1634.11.26
+		}
+
+	}
+}

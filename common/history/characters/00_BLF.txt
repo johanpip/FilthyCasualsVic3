@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:BLF = {
+		create_character = {
+			first_name = "Mekasto_Ahahpitape"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:animist
+			birth_date = 1574.2.17
+			traits = {
+				basic_diplomat senile 
+			}
+		}
+
+	}
+}

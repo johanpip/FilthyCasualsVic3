@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:CMI = {
+		create_character = {
+			first_name = "Chiraprapha"
+			last_name = "Lamphun"
+			female = yes
+			culture = cu:khmer
+			religion = rel:mahayana
+			birth_date = 1644.9.16
+			traits = {
+				basic_political_operator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Ku_Na"
+			last_name = "Khmer"
+			heir = yes
+			culture = cu:khmer
+			religion = rel:mahayana
+			birth_date = 1665.8.1
+			traits = {
+				basic_colonial_administrator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Ku_Na_V"
+			last_name = "Khmer"
+			ruler = yes
+			culture = cu:khmer
+			religion = rel:mahayana
+			birth_date = 1650.8.1
+			traits = {
+				basic_colonial_administrator reserved 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

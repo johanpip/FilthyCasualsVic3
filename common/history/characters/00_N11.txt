@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:N11 = {
+		create_character = {
+			first_name = "Madockawando_Pemigewasset"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:animist
+			birth_date = 1470.6.6
+			traits = {
+				basic_diplomat senile 
+			}
+		}
+
+	}
+}

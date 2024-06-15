@@ -1,0 +1,50 @@
+﻿CHARACTERS = {
+	c:MCR = {
+		create_character = {
+			first_name = "Motohito"
+			last_name = "Katsura"
+			heir = yes
+			culture = cu:japanese
+			religion = rel:mahayana
+			birth_date = 1647.1.5
+			traits = {
+				cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Fusahito_Mogami"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1607.9.27
+		}
+
+		create_character = {
+			first_name = "Toshiko"
+			last_name = "Fushimi"
+			female = yes
+			culture = cu:japanese
+			religion = rel:mahayana
+			birth_date = 1613.4.6
+			traits = {
+				tactful 
+			}
+		}
+
+		create_character = {
+			first_name = "Yoshimasa_I"
+			last_name = "Katsura"
+			ruler = yes
+			culture = cu:japanese
+			religion = rel:mahayana
+			birth_date = 1616.5.17
+			traits = {
+				cautious experienced_political_operator 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

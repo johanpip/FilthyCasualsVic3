@@ -1,0 +1,83 @@
+﻿CHARACTERS = {
+	c:CLM = {
+		create_character = {
+			first_name = "Fedelma"
+			last_name = "Tordenskiold"
+			female = yes
+			culture = cu:cajun
+			religion = rel:chalcedonian
+			birth_date = 1652.10.22
+			traits = {
+				expert_colonial_administrator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Turlough"
+			last_name = "Poitiers"
+			heir = yes
+			culture = cu:cajun
+			religion = rel:chalcedonian
+			birth_date = 1673.7.7
+			traits = {
+				basic_political_operator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Muiris_FitzMaurice"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1655.4.28
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Tadhg_I"
+			last_name = "Poitiers"
+			ruler = yes
+			culture = cu:cajun
+			religion = rel:chalcedonian
+			birth_date = 1654.10.1
+			traits = {
+				charismatic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Aonghus_Meade"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1632.2.21
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Aed_Digby"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1630.8.29
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Art_Martyn"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1643.1.22
+			traits = {
+				wrathful 
+			}
+		}
+
+	}
+}
