@@ -1514,7 +1514,7 @@ CAN = {
 	color = { 94 117 186 }
 	country_type = colonial
 	tier = grand_principality
-	cultures = { neo-canada_colony-vinlander }
+	cultures = { vinlander }
 	religion = protestant
 	capital = STATE_QUEBEC
 }
@@ -8404,7 +8404,7 @@ V25 = {
 	color = { 94 117 55 }
 	country_type = colonial
 	tier = hegemony
-	cultures = { neo-usa_south_colony-vinlander }
+	cultures = { vinlander }
 	religion = protestant
 	capital = STATE_FLORIDA
 }
@@ -10471,7 +10471,7 @@ X45 = {
 	color = { 134 166 128 }
 	country_type = colonial
 	tier = principality
-	cultures = { neo-usa_north_colony-vinlander }
+	cultures = { vinlander }
 	religion = protestant
 	capital = STATE_MONTANA
 }

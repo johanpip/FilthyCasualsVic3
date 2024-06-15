@@ -82,7 +82,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_south_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -1712,7 +1712,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_north_colony-vestmenn
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:paiute
 		add_homeland = cu:pueblo
 		add_homeland = cu:siouan
@@ -1982,7 +1982,7 @@
 			owned_provinces = { x44578C x700080 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -2503,7 +2503,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_south_colony-vestmenn
-		add_homeland = cu:neo-usa_south_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -3221,7 +3221,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_INDIANA = {
 		create_state = {
@@ -3230,7 +3230,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:siouan
 	}
 	s:STATE_INDIAN_OCEAN_TERRITORY = {
@@ -3531,7 +3531,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_north_colony-vestmenn
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:X45
 	}
 	s:STATE_KANTO = {
@@ -3644,7 +3644,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:metis
 		add_homeland = cu:muskogean
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_KENYA = {
 		create_state = {
@@ -4035,7 +4035,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_south_colony-vestmenn
-		add_homeland = cu:neo-usa_south_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -4210,7 +4210,7 @@
 		add_homeland = cu:cree
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-vestmenn
-		add_homeland = cu:neo-canada_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:siouan
 		add_claim = c:CAN
 		add_claim = c:NEW
@@ -4242,7 +4242,7 @@
 			owned_provinces = { x0E3435 x16482D x3CC08F x576240 x5E6C0F x708080 x888194 xAEB9F5 xF08000 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -4254,7 +4254,7 @@
 		}
 		add_homeland = cu:algonquian
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_MATO_GROSSO = {
 		create_state = {
@@ -4412,7 +4412,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_MIDDLE_EGYPT = {
 		create_state = {
@@ -4466,7 +4466,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:dakota
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:siouan
 		add_claim = c:CAN
 		add_claim = c:X45
@@ -4510,7 +4510,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_south_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -4532,7 +4532,7 @@
 		}
 		add_homeland = cu:algonquian
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_MOCAMBIQUE = {
 		create_state = {
@@ -4596,7 +4596,7 @@
 		}
 		add_homeland = cu:dakota
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:paiute
 		add_homeland = cu:siouan
 		add_claim = c:CAL
@@ -5265,7 +5265,7 @@
 		}
 		add_homeland = cu:iroquoian
 		add_homeland = cu:neo-usa_south_colony-vestmenn
-		add_homeland = cu:neo-usa_south_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -5403,7 +5403,7 @@
 		}
 		add_homeland = cu:anglo_canadian
 		add_homeland = cu:inuit
-		add_homeland = cu:neo-canada_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:CAN
 		add_claim = c:NEW
 	}
@@ -5434,7 +5434,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_OKHOTSK = {
 		create_state = {
@@ -5502,7 +5502,7 @@
 		add_homeland = cu:iroquoian
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-vestmenn
-		add_homeland = cu:neo-canada_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:siouan
 		add_claim = c:CAN
 		add_claim = c:NEW
@@ -6889,7 +6889,7 @@
 			owned_provinces = { x0070C0 x007602 x1FA379 x2C6AA0 x31E5D4 x3B0FAE x47BF09 x6F7B23 x7AAA59 x8998F6 x8E69FE x9B1B8B xAF8C38 xD4D27E xD641CB xE2F040 xF5B3A1 xF83D99 xF93340 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-usa_south_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -6912,7 +6912,7 @@
 		add_homeland = cu:dakota
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_north_colony-vestmenn
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:CAL
 		add_claim = c:CAN
 		add_claim = c:X45
@@ -7156,7 +7156,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:muskogean
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_TEXAS = {
 		create_state = {
@@ -7737,7 +7737,7 @@
 		}
 		add_homeland = cu:muskogean
 		add_homeland = cu:neo-usa_south_colony-vestmenn
-		add_homeland = cu:neo-usa_south_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -8092,7 +8092,7 @@
 			owned_provinces = { x06D57E x08D472 x0F5821 x2EA16C x30C000 x364F38 x366DF2 x38925B x43DB99 x579843 x7416CB x7755AD x82CE19 x845FC0 x999738 xAD371C xB04000 xB865A2 xCB120B }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_WINDWARD_COAST = {
 		create_state = {
@@ -8171,7 +8171,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_north_colony-vestmenn
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:paiute
 		add_homeland = cu:siouan
 		add_claim = c:CAL

@@ -13,7 +13,7 @@ alan = {
 	graphics = european
 }
 
-neo-usa_south_colony-vinlander = {
+vinlander = {
 	color = { 139 88 65 }
 	religion = "protestant"
 	traits = { european_heritage scandinavian_culture_group north_american_group }
