@@ -1496,7 +1496,7 @@ CAL = {
 	color = { 245 147 54 }
 	country_type = colonial
 	tier = kingdom
-	cultures = { neo-usa_north_colony-stillemenn }
+	cultures = { stillemenn }
 	religion = protestant
 	capital = STATE_CALIFORNIA
 }
@@ -10489,7 +10489,7 @@ X47 = {
 	color = { 133 165 127 }
 	country_type = colonial
 	tier = principality
-	cultures = { neo-usa_north_colony-vestmenn }
+	cultures = { stillemenn }
 	religion = protestant
 	capital = STATE_IDAHO
 }

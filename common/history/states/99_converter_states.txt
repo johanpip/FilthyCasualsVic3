@@ -532,7 +532,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:apache
-		add_homeland = cu:neo-texas_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:oodham
 		add_homeland = cu:pueblo
 		add_claim = c:CAL
@@ -1314,7 +1314,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:hokan
-		add_homeland = cu:neo-usa_north_colony-stillemenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:oodham
 		add_homeland = cu:paiute
 		add_homeland = cu:penutian
@@ -1596,7 +1596,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:neo-mexico_colony-hellulander
-		add_homeland = cu:neo-mexico_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_claim = c:UCA
 	}
 	s:STATE_CHONGQING = {
@@ -1711,7 +1711,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:vinlander
 		add_homeland = cu:paiute
 		add_homeland = cu:pueblo
@@ -1931,7 +1931,7 @@
 			owned_provinces = { x708000 xEBA646 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -3198,7 +3198,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_north_colony-halendingur
-		add_homeland = cu:neo-usa_north_colony-stillemenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:nez_perce
 		add_homeland = cu:paiute
 		add_homeland = cu:penutian
@@ -3530,7 +3530,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:vinlander
 		add_claim = c:X45
 	}
@@ -4845,7 +4845,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:franco_canadian
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
 	}
 	s:STATE_NEW_MEXICO = {
 		create_state = {
@@ -4854,8 +4854,8 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:apache
-		add_homeland = cu:neo-texas_colony-stillemenn
-		add_homeland = cu:neo-texas_colony-vestmenn
+		add_homeland = cu:stillemenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:pueblo
 		add_claim = c:UCA
 		add_claim = c:X45
@@ -5297,7 +5297,7 @@
 		}
 		add_homeland = cu:dakota
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:siouan
 		add_claim = c:CAL
 		add_claim = c:CAN
@@ -5462,7 +5462,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:metis
-		add_homeland = cu:neo-texas_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -5534,7 +5534,7 @@
 		}
 		add_homeland = cu:athabaskan
 		add_homeland = cu:neo-usa_north_colony-halendingur
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:nez_perce
 		add_homeland = cu:salish
 		add_claim = c:CAL
@@ -6911,7 +6911,7 @@
 		}
 		add_homeland = cu:dakota
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:vinlander
 		add_claim = c:CAL
 		add_claim = c:CAN
@@ -7177,7 +7177,7 @@
 		add_homeland = cu:apache
 		add_homeland = cu:metis
 		add_homeland = cu:neo-texas_colony-hellulander
-		add_homeland = cu:neo-texas_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_claim = c:UCA
 		add_claim = c:V25
 	}
@@ -7633,7 +7633,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:paiute
 		add_claim = c:CAL
 		add_claim = c:CSC
@@ -7843,8 +7843,8 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:neo-usa_north_colony-halendingur
-		add_homeland = cu:neo-usa_north_colony-stillemenn
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:penutian
 		add_claim = c:CAL
 		add_claim = c:CSC
@@ -8170,7 +8170,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:stillemenn
 		add_homeland = cu:vinlander
 		add_homeland = cu:paiute
 		add_homeland = cu:siouan

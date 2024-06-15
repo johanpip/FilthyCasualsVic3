@@ -24,7 +24,7 @@
 			first_name = "Conchobhar"
 			last_name = "O__Cathail"
 			heir = yes
-			culture = cu:neo-usa_north_colony-vestmenn
+			culture = cu:stillemenn
 			religion = rel:protestant
 			birth_date = 1660.8.21
 			traits = {
@@ -36,7 +36,7 @@
 			first_name = "Saraid"
 			last_name = "DA!l_gCais"
 			female = yes
-			culture = cu:neo-usa_north_colony-vestmenn
+			culture = cu:stillemenn
 			religion = rel:protestant
 			birth_date = 1637.6.18
 			traits = {
@@ -50,7 +50,7 @@
 			ruler = yes
 			is_general = yes
 			commander_rank = commander_rank_1
-			culture = cu:neo-usa_north_colony-vestmenn
+			culture = cu:stillemenn
 			religion = rel:protestant
 			birth_date = 1632.5.25
 			traits = {

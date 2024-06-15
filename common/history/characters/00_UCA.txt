@@ -3,7 +3,7 @@
 		create_character = {
 			first_name = "Conn_Keane"
 			ruler = yes
-			culture = cu:neo-texas_colony-vestmenn
+			culture = cu:stillemenn
 			religion = rel:protestant
 			birth_date = 1624.1.6
 		}
