@@ -1,0 +1,9 @@
+
+V25 = {
+	color = { 94 117 55 }
+	country_type = colonial
+	tier = hegemony
+	cultures = { vinlander }
+	religion = protestant
+	capital = STATE_FLORIDA
+}
