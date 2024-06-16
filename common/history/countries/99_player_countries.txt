@@ -1,39 +1,8 @@
 COUNTRIES = {
 	c:V25 = { #Vinland
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = banking
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = cotton_gin
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = navigation
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
-        add_technology_researched = stock_exchange
+		#Technology
+		effect_starting_technology_tier_3_tech = yes
+
         #PowerStructureLaws
         activate_law = law_type:law_parliamentary_republic
 		activate_law = law_type:law_wealth_voting
@@ -60,6 +29,7 @@ COUNTRIES = {
 		activate_law = law_type:law_no_migration_controls
 		activate_law = law_type:law_slavery_banned
 		
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
 		ig:ig_armed_forces = {
 			set_ig_bolstering = yes
  		}
@@ -78,58 +48,62 @@ COUNTRIES = {
 			institution = institution_schools
 			level = 1
 		}
-    }
 
-	c:BOH = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = atmospheric_engine
-		add_technology_researched = banking
-		add_technology_researched = central_archives
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = cotton_gin
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = dialectics
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = egalitarianism
-		add_technology_researched = empiricism
-		add_technology_researched = enclosure
-		add_technology_researched = general_staff
-		add_technology_researched = gunsmithing
-		add_technology_researched = intensive_agriculture
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = lathe
-		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = mechanical_tools
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = percussion_cap
-		add_technology_researched = power_of_the_purse
-		add_technology_researched = prospecting
-		add_technology_researched = railways
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = screw_frigate
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = stock_exchange
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+    }
+	c:GBR = { #Britannia
+				#Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_monarchy
+		activate_law = law_type:law_census_voting
+        activate_law = law_type:law_national_supremacy
+        activate_law = law_type:law_state_religion
+		activate_law = law_type:law_hereditary_bureaucrats
+        activate_law = law_type:law_national_militia
+        activate_law = law_type:law_national_guard
+        #EconomyLaws
+        activate_law = law_type:law_traditionalism
+        activate_law = law_type:law_protectionism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_serfdom
+		activate_law = law_type:law_no_colonial_affairs
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        activate_law = law_child_labor_allowed
+        activate_law = law_type:law_women_own_property
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_closed_borders
+		activate_law = law_type:law_slavery_banned
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_industrialists = {
+			set_ig_bolstering = yes
+ 		}
+		ig:ig_trade_unions = {
+			set_ig_bolstering = yes
+ 		}
+		set_institution_investment_level = {
+			institution = institution_colonial_affairs
+			level = 1
+		}
+		set_institution_investment_level = {
+			institution = institution_police
+			level = 1
+		}
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 3
+		}
+	}
+
+	c:BOH = { #Bohemia
+		#Technology
+		effect_starting_technology_tier_3_tech = yes
 
         #PowerStructureLaws
         activate_law = law_type:law_monarchy
@@ -156,7 +130,8 @@ COUNTRIES = {
         activate_law = law_type:law_no_social_security
 		activate_law = law_type:law_closed_borders
 		activate_law = law_type:law_slavery_banned
-		
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
 		ig:ig_intelligentsia = {
 			remove_ideology = ideology_republican
  			add_ideology = ideology_constitutionalist
@@ -178,33 +153,109 @@ COUNTRIES = {
 			level = 3
 		}
 	}
+
+	c:ETH = { #Fatimids
+		#Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_theocracy
+		activate_law = law_type:law_autocracy
+        activate_law = law_type:law_national_supremacy
+        activate_law = law_type:law_state_religion
+		activate_law = law_type:law_hereditary_bureaucrats
+        activate_law = law_type:law_national_militia
+        activate_law = law_type:law_national_guard
+        #EconomyLaws
+        activate_law = law_type:law_traditionalism
+        activate_law = law_type:law_protectionism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_homesteading
+		activate_law = law_type:law_colonial_exploitation
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_public_schools
+		activate_law = law_type:law_charitable_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        activate_law = law_child_labor_allowed
+        activate_law = law_type:law_women_own_property
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_closed_borders
+		activate_law = law_type:law_slavery_banned
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_industrialists = {
+			set_ig_bolstering = yes
+ 		}
+		ig:ig_trade_unions = {
+			set_ig_bolstering = yes
+ 		}
+		ig:ig_intelligentsia = {
+			remove_ideology = ideology_republican
+ 			add_ideology = ideology_constitutionalist
+ 		}
+		set_institution_investment_level = {
+			institution = institution_home_affairs
+			level = 1
+		}
+		set_institution_investment_level = {
+			institution = institution_police
+			level = 1
+		}
+	}
+
+	c:W60 = { #RomanumOrientis
+		#Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_theocracy
+		activate_law = law_type:law_autocracy
+        activate_law = law_type:law_national_supremacy
+        activate_law = law_type:law_state_religion
+		activate_law = law_type:law_hereditary_bureaucrats
+        activate_law = law_type:law_national_militia
+        activate_law = law_type:law_national_guard
+        #EconomyLaws
+        activate_law = law_type:law_traditionalism
+        activate_law = law_type:law_protectionism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_homesteading
+		activate_law = law_type:law_colonial_exploitation
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_public_schools
+		activate_law = law_type:law_charitable_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        activate_law = law_child_labor_allowed
+        activate_law = law_type:law_women_own_property
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_closed_borders
+		activate_law = law_type:law_slavery_banned
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_trade_unions = {
+			set_ig_bolstering = yes
+ 		}
+		ig:ig_landowners = {
+			add_ideology = ideology_dummy_pious_02
+ 		}
+		set_institution_investment_level = {
+			institution = institution_colonial_affairs
+			level = 1
+		}
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 3
+		}
+	}
+
     c:W64 = { #Outremer
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = artillery
-		add_technology_researched = centralization
-		add_technology_researched = democracy
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = military_drill
-		add_technology_researched = navigation
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
-        add_technology_researched = currency_standards
+		#Technology
+		effect_starting_technology_tier_3_tech = yes
+
         #PowerStructureLaws
         activate_law = law_type:law_monarchy
 		activate_law = law_type:law_wealth_voting
@@ -231,6 +282,7 @@ COUNTRIES = {
 		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_slavery_banned
 		
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
 		ig:ig_trade_unions = {
 			
  		}
@@ -239,56 +291,97 @@ COUNTRIES = {
  			add_ideology = ideology_constitutionalist
  		}
 	}
+	
+	c:W76 = { #Qing
+		#Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_monarchy
+		activate_law = law_type:law_wealth_voting
+        activate_law = law_type:law_racial_segregation
+        activate_law = law_type:law_state_religion
+		activate_law = law_type:law_appointed_bureaucrats
+        activate_law = law_type:law_professional_army
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_agrarianism
+        activate_law = law_type:law_mercantilism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_serfdom
+		activate_law = law_type:law_colonial_exploitation
+        activate_law = law_type:law_local_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        activate_law = law_child_labor_allowed
+        activate_law = law_type:law_womens_suffrage
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_slavery_banned
+		
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_devout = {
+			remove_ideology = ideology_moralist
+ 			remove_ideology = ideology_pious
+ 			add_ideology = ideology_confucian
+ 		}
+		ig:ig_landowners = {
+			remove_ideology = ideology_paternalistic
+ 			add_ideology = ideology_dummy_pious_02
+ 			add_ideology = ideology_scholar_paternalistic
+ 		}
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 3
+		}
+	}
+	
+	c:X29 = { #BRC
+		#Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_monarchy
+		activate_law = law_type:law_wealth_voting
+        activate_law = law_type:law_racial_segregation
+        activate_law = law_type:law_state_religion
+		activate_law = law_type:law_appointed_bureaucrats
+        activate_law = law_type:law_professional_army
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_agrarianism
+        activate_law = law_type:law_mercantilism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_serfdom
+		activate_law = law_type:law_colonial_exploitation
+        activate_law = law_type:law_local_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        activate_law = law_child_labor_allowed
+        activate_law = law_type:law_womens_suffrage
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_slavery_banned
+		
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_trade_unions = {
+			set_ig_bolstering = yes
+ 		}
+		set_institution_investment_level = {
+			institution = institution_colonial_affairs
+			level = 1
+		}
+	}
+
     c:CAS = { #CastilianDominion
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = atmospheric_engine
-		add_technology_researched = banking
-		add_technology_researched = central_archives
-		add_technology_researched = central_banking
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = cotton_gin
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = dialectics
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = egalitarianism
-		add_technology_researched = empiricism
-		add_technology_researched = enclosure
-		add_technology_researched = general_staff
-		add_technology_researched = gunsmithing
-		add_technology_researched = intensive_agriculture
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = lathe
-		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = mechanical_tools
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = percussion_cap
-		add_technology_researched = power_of_the_purse
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = screw_frigate
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = stock_exchange
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+		#Technology
+		effect_starting_technology_tier_3_tech = yes
 
         #PowerStructureLaws
         activate_law = law_type:law_monarchy
@@ -316,6 +409,7 @@ COUNTRIES = {
 		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_slave_trade
 		
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
 		ig:ig_armed_forces = {
 			set_ig_bolstering = yes
  		}
