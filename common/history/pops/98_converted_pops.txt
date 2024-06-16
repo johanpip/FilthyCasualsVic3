@@ -11685,7 +11685,7 @@
 				size = 685
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 14600
 			}
@@ -11752,7 +11752,7 @@
 				size = 13111
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 12371
 			}
@@ -11762,17 +11762,17 @@
 				size = 14410
 			}
 			create_pop = {
-				culture = neo-mexico_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 7335
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 7457
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 34937
 			}
@@ -11799,22 +11799,22 @@
 				size = 2
 			}
 			create_pop = {
-				culture = neo-mexico_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 65
 			}
 			create_pop = {
-				culture = neo-mexico_colony-halendingur
+				culture = hellulander
 				religion = animist
 				size = 218
 			}
 			create_pop = {
-				culture = neo-mexico_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 250
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 1198
 			}
@@ -14356,22 +14356,22 @@
 				size = 11
 			}
 			create_pop = {
-				culture = neo-mexico_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 453
 			}
 			create_pop = {
-				culture = neo-mexico_colony-halendingur
+				culture = hellulander
 				religion = animist
 				size = 1529
 			}
 			create_pop = {
-				culture = neo-mexico_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 1750
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 8387
 			}
@@ -45617,7 +45617,7 @@
 				size = 9488
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 16332
 			}
@@ -45637,7 +45637,7 @@
 				size = 10443
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 16332
 			}
@@ -45662,7 +45662,7 @@
 				size = 7856
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 13610
 			}
@@ -45739,7 +45739,7 @@
 				size = 5942
 			}
 			create_pop = {
-				culture = neo-mexico_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 26888
 			}
@@ -48553,12 +48553,12 @@
 				size = 330
 			}
 			create_pop = {
-				culture = neo-mexico_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 4377
 			}
 			create_pop = {
-				culture = neo-mexico_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 9072
 			}
@@ -52409,12 +52409,12 @@
 				size = 213
 			}
 			create_pop = {
-				culture = neo-texas_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 20748
 			}
 			create_pop = {
-				culture = neo-texas_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				pop_type = slaves
 				size = 1272
@@ -52442,12 +52442,12 @@
 				size = 56
 			}
 			create_pop = {
-				culture = neo-texas_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 10767
 			}
 			create_pop = {
-				culture = neo-texas_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				pop_type = slaves
 				size = 660
@@ -52708,12 +52708,12 @@
 				size = 704
 			}
 			create_pop = {
-				culture = neo-texas_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 17953
 			}
 			create_pop = {
-				culture = neo-texas_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				pop_type = slaves
 				size = 1101
@@ -52910,12 +52910,12 @@
 				size = 646
 			}
 			create_pop = {
-				culture = neo-texas_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 47050
 			}
 			create_pop = {
-				culture = neo-texas_colony-hellulander
+				culture = hellulander
 				religion = protestant
 				size = 2884
 			}

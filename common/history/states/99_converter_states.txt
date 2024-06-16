@@ -1595,7 +1595,7 @@
 			owned_provinces = { x986D98 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-mexico_colony-hellulander
+		add_homeland = cu:hellulander
 		add_homeland = cu:stillemenn
 		add_claim = c:UCA
 	}
@@ -2024,7 +2024,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:chichimecan
-		add_homeland = cu:neo-mexico_colony-hellulander
+		add_homeland = cu:hellulander
 		add_claim = c:UCA
 	}
 	s:STATE_DZUNGARIA = {
@@ -6202,7 +6202,7 @@
 		}
 		add_homeland = cu:chichimecan
 		add_homeland = cu:mayan
-		add_homeland = cu:neo-mexico_colony-hellulander
+		add_homeland = cu:hellulander
 		add_homeland = cu:otomanguean
 		add_claim = c:UCA
 	}
@@ -6661,7 +6661,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:nahua
-		add_homeland = cu:neo-mexico_colony-halendingur
+		add_homeland = cu:hellulander
 		add_claim = c:UCA
 	}
 	s:STATE_SINDH = {
@@ -7176,7 +7176,7 @@
 		}
 		add_homeland = cu:apache
 		add_homeland = cu:metis
-		add_homeland = cu:neo-texas_colony-hellulander
+		add_homeland = cu:hellulander
 		add_homeland = cu:stillemenn
 		add_claim = c:UCA
 		add_claim = c:V25

@@ -8054,7 +8054,7 @@ UCA = {
 	color = { 204 186 201 }
 	country_type = colonial
 	tier = kingdom
-	cultures = { neo-texas_colony-hellulander }
+	cultures = { hellulander }
 	religion = protestant
 	capital = STATE_TEXAS
 }
