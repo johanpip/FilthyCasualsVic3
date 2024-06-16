@@ -34,27 +34,32 @@ COUNTRIES = {
 		add_technology_researched = urban_planning
 		add_technology_researched = urbanization
         add_technology_researched = stock_exchange
-		activate_law = law_type:law_elected_bureaucrats
-		activate_law = law_type:law_right_of_assembly
+        #PowerStructureLaws
+        activate_law = law_type:law_parliamentary_republic
 		activate_law = law_type:law_wealth_voting
-		activate_law = law_type:law_frontier_colonization
-		activate_law = law_type:law_cultural_exclusion
-		activate_law = law_type:law_total_separation
-		activate_law = law_type:law_interventionism
-		activate_law = law_type:law_per_capita_based_taxation
-		activate_law = law_type:law_local_police
-		activate_law = law_type:law_protectionism
-		activate_law = law_type:law_no_migration_controls
-		activate_law = law_type:law_no_health_system
-		activate_law = law_type:law_no_home_affairs
-		activate_law = law_type:law_no_social_security
-		activate_law = law_type:law_no_womens_rights
-		activate_law = law_type:law_no_workers_rights
-		activate_law = law_type:law_parliamentary_republic
-		activate_law = law_type:law_national_militia
-		activate_law = law_type:law_no_schools
-		activate_law = law_type:law_slavery_banned
+        activate_law = law_type:law_cultural_exclusion
+        activate_law = law_type:law_total_separation
+		activate_law = law_type:law_elected_bureaucrats
+        activate_law = law_type:law_national_militia
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_interventionism
+        activate_law = law_type:law_protectionism
+        activate_law = law_type:law_per_capita_based_taxation
 		activate_law = law_type:law_homesteading
+		activate_law = law_type:law_frontier_colonization
+        activate_law = law_type:law_local_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_right_of_assembly
+        activate_law = law_type:law_no_workers_rights
+        activate_law = law_child_labor_allowed
+        activate_law = law_type:law_no_womens_rights
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_no_migration_controls
+		activate_law = law_type:law_slavery_banned
+		
 		ig:ig_armed_forces = {
 			set_ig_bolstering = yes
  		}
@@ -101,27 +106,32 @@ COUNTRIES = {
 		add_technology_researched = urban_planning
 		add_technology_researched = urbanization
         add_technology_researched = currency_standards
+        #PowerStructureLaws
+        activate_law = law_type:law_monarchy
 		activate_law = law_type:law_wealth_voting
-		activate_law = law_type:law_hereditary_bureaucrats
-		activate_law = law_type:law_mercantilism
-		activate_law = law_type:law_per_capita_based_taxation
-		activate_law = law_type:law_national_supremacy
-		activate_law = law_type:law_no_colonial_affairs
-		activate_law = law_type:law_no_health_system
-		activate_law = law_type:law_no_home_affairs
-		activate_law = law_type:law_closed_borders
-		activate_law = law_type:law_no_police
-		activate_law = law_type:law_no_schools
-		activate_law = law_type:law_no_social_security
-		activate_law = law_type:law_no_womens_rights
-		activate_law = law_type:law_no_workers_rights
-		activate_law = law_type:law_monarchy
-		activate_law = law_type:law_professional_army
-		activate_law = law_type:law_right_of_assembly
+        activate_law = law_type:law_racial_segregation
+        activate_law = law_type:law_state_religion
+		activate_law = law_type:law_appointed_bureaucrats
+        activate_law = law_type:law_professional_army
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_agrarianism
+        activate_law = law_type:law_mercantilism
+        activate_law = law_type:law_per_capita_based_taxation
 		activate_law = law_type:law_serfdom
+		activate_law = law_type:law_colonial_exploitation
+        activate_law = law_type:law_local_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        activate_law = law_child_labor_allowed
+        activate_law = law_type:law_womens_suffrage
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_slavery_banned
-		activate_law = law_type:law_state_religion
-		activate_law = law_type:law_traditionalism
+		
 		ig:ig_trade_unions = {
 			
  		}
@@ -180,27 +190,33 @@ COUNTRIES = {
 		add_technology_researched = tech_bureaucracy
 		add_technology_researched = urban_planning
 		add_technology_researched = urbanization
-		activate_law = law_type:law_slave_trade
-		activate_law = law_type:law_colonial_exploitation
-		activate_law = law_type:law_hereditary_bureaucrats
-		activate_law = law_type:law_land_based_taxation
-		activate_law = law_type:law_local_police
-		activate_law = law_type:law_migration_controls
-		activate_law = law_type:law_monarchy
-		activate_law = law_type:law_ethnostate
-		activate_law = law_type:law_no_health_system
-		activate_law = law_type:law_no_home_affairs
-		activate_law = law_type:law_no_schools
-		activate_law = law_type:law_no_social_security
-		activate_law = law_type:law_no_womens_rights
-		activate_law = law_type:law_no_workers_rights
-		activate_law = law_type:law_professional_army
-		activate_law = law_type:law_protectionism
-		activate_law = law_type:law_right_of_assembly
-		activate_law = law_type:law_serfdom
-		activate_law = law_type:law_state_religion
-		activate_law = law_type:law_traditionalism
+
+        #PowerStructureLaws
+        activate_law = law_type:law_monarchy
 		activate_law = law_type:law_landed_voting
+        activate_law = law_type:law_ethnostate
+        activate_law = law_type:law_state_religion
+		activate_law = law_type:law_hereditary_bureaucrats
+        activate_law = law_type:law_professional_army
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_interventionism
+        activate_law = law_type:law_traditionalism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_serfdom
+		activate_law = law_type:law_colonial_exploitation
+        activate_law = law_type:law_local_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        activate_law = law_child_labor_allowed
+        activate_law = law_type:law_no_womens_rights
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_slave_trade
+		
 		ig:ig_armed_forces = {
 			set_ig_bolstering = yes
  		}
