@@ -167,22 +167,22 @@ COUNTRIES = {
         activate_law = law_type:law_national_militia
         activate_law = law_type:law_national_guard
         #EconomyLaws
-        activate_law = law_type:law_traditionalism
+        activate_law = law_type:law_agrarianism
         activate_law = law_type:law_protectionism
         activate_law = law_type:law_per_capita_based_taxation
-		activate_law = law_type:law_homesteading
-		activate_law = law_type:law_colonial_exploitation
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_colonial_resettlement
         activate_law = law_type:law_no_police
-        activate_law = law_type:law_public_schools
-		activate_law = law_type:law_charitable_health_system
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
 		#HumanRightsLaws
         activate_law = law_type:law_censorship
         activate_law = law_type:law_no_workers_rights
         activate_law = law_child_labor_allowed
-        activate_law = law_type:law_women_own_property
+        activate_law = law_type:law_no_womens_rights
         activate_law = law_type:law_no_social_security
 		activate_law = law_type:law_closed_borders
-		activate_law = law_type:law_slavery_banned
+		activate_law = law_type:law_slave_trade
 
 		#InterestGroups,Haven't touched these at all yet, just default converter settings
 		ig:ig_industrialists = {
