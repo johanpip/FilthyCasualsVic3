@@ -1,67 +1,71 @@
 ﻿CHARACTERS = {
 	c:KOR = {
 		create_character = {
-			first_name = "Gu_Kwon"
-			is_admiral = yes
-			commander_rank = commander_rank_1
-			birth_date = 1638.7.25
-			traits = {
-				explorer 
-			}
-		}
-
-		create_character = {
-			first_name = "Yakyong_Yun"
+			first_name = "Gwanghyeon_Noh"
 			is_general = yes
-			commander_rank = commander_rank_2
-			birth_date = 1636.6.10
+			commander_rank = commander_rank_3
+			birth_date = 1802.1.10
 			traits = {
-				surveyor 
-			}
-		}
-
-		create_character = {
-			first_name = "Gu_Jeon"
-			is_general = yes
-			commander_rank = commander_rank_1
-			birth_date = 1641.3.24
-			traits = {
-				grifter 
-			}
-		}
-
-		create_character = {
-			first_name = "Jongmu_Hwang"
-			is_admiral = yes
-			commander_rank = commander_rank_1
-			birth_date = 1641.4.18
-			traits = {
-				cocaine_addiction 
+				expensive_tastes 
 			}
 		}
 
 		create_character = {
 			first_name = "Hyejeong"
-			last_name = "Yi"
-			heir = yes
+			last_name = "Heo"
 			female = yes
 			culture = cu:korean
-			religion = rel:mahayana
-			birth_date = 1639.10.5
+			religion = rel:confucian
+			birth_date = 1810.5.24
 			traits = {
-				hedonist 
+				basic_political_operator innovative 
 			}
 		}
 
 		create_character = {
-			first_name = "Hongwi_III"
+			first_name = "Hongwi"
+			last_name = "Yi"
+			heir = yes
+			culture = cu:korean
+			religion = rel:confucian
+			birth_date = 1830.9.23
+			traits = {
+				experienced_political_operator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Hwon_I"
 			last_name = "Yi"
 			ruler = yes
 			culture = cu:korean
-			religion = rel:mahayana
-			birth_date = 1604.12.16
+			religion = rel:confucian
+			birth_date = 1809.9.20
 			traits = {
-				basic_political_operator cruel 
+				basic_colonial_administrator meticulous 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Jae-u_Na"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1806.1.14
+			traits = {
+				meticulous surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Bu_Seok"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1763.5.22
+			traits = {
+				cocaine_addiction kidney_stones 
 			}
 		}
 

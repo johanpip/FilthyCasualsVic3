@@ -5,9 +5,9 @@
 			ruler = yes
 			culture = cu:paiute
 			religion = rel:protestant
-			birth_date = 1610.4.4
+			birth_date = 1701.4.4
 			traits = {
-				direct 
+				direct senile 
 			}
 		}
 

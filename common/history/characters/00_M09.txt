@@ -5,7 +5,7 @@
 			ruler = yes
 			culture = cu:cree
 			religion = rel:animist
-			birth_date = 1537.3.22
+			birth_date = 1628.3.22
 			traits = {
 				sickly 
 			}

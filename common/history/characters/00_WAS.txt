@@ -1,33 +1,33 @@
 ﻿CHARACTERS = {
 	c:WAS = {
 		create_character = {
-			first_name = "Gulusa_Bayisa"
-			is_general = yes
-			commander_rank = commander_rank_2
-			birth_date = 1656.3.28
-			traits = {
-				expensive_tastes 
-			}
-		}
-
-		create_character = {
-			first_name = "Halil_Ambo"
+			first_name = "Mahdi_Wami"
 			ruler = yes
 			is_general = yes
 			commander_rank = commander_rank_2
 			culture = cu:dynamic-bedouin_arabic-al_misr_arabic-somali-culture-num1
 			religion = rel:shiite
-			birth_date = 1632.5.2
+			birth_date = 1786.5.26
 			traits = {
-				cruel 
+				meticulous 
 			}
 		}
 
 		create_character = {
-			first_name = "Abu-Bakr_Ezana"
+			first_name = "Umar_Degife"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1813.1.28
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Aarif_Ezana"
 			is_admiral = yes
 			commander_rank = commander_rank_1
-			birth_date = 1611.4.23
+			birth_date = 1798.1.28
 			traits = {
 				alcoholic 
 			}

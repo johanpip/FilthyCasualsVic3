@@ -1,71 +1,54 @@
 ﻿CHARACTERS = {
 	c:CAS = {
 		create_character = {
-			first_name = "Miguel_de_Castilla"
+			first_name = "Gutierre_Portocarrero"
 			is_general = yes
-			commander_rank = commander_rank_2
-			birth_date = 1643.2.3
+			commander_rank = commander_rank_4
+			birth_date = 1810.12.15
 			traits = {
-				shellshocked 
+				experienced_offensive_planner 
 			}
 		}
 
 		create_character = {
-			first_name = "Tomas_Portocarrero"
+			first_name = "Enrique_Pizarro"
 			is_general = yes
-			commander_rank = commander_rank_2
-			birth_date = 1644.2.22
+			commander_rank = commander_rank_3
+			birth_date = 1806.9.21
+			traits = {
+				resupply_commander 
+			}
 		}
 
 		create_character = {
-			first_name = "Juan_de_Figueroa"
+			first_name = "Domingo_de_Guzman"
 			is_general = yes
 			commander_rank = commander_rank_1
-			birth_date = 1620.3.18
+			birth_date = 1794.8.26
 			traits = {
-				cocaine_addiction 
+				syphilis 
 			}
 		}
 
 		create_character = {
-			first_name = "Hernando_de_Zuniga"
+			first_name = "Carlos_de_Figueroa"
 			is_general = yes
-			commander_rank = commander_rank_4
-			birth_date = 1630.2.18
+			commander_rank = commander_rank_3
+			birth_date = 1791.9.3
 			traits = {
-				resupply_commander 
+				basic_defensive_strategist 
 			}
 		}
 
 		create_character = {
-			first_name = "Carlos_Pizarro"
-			is_general = yes
-			commander_rank = commander_rank_4
-			birth_date = 1631.4.8
-			traits = {
-				resupply_commander 
-			}
-		}
-
-		create_character = {
-			first_name = "Ignacio_Colon"
-			is_general = yes
-			commander_rank = commander_rank_4
-			birth_date = 1615.6.26
-			traits = {
-				resupply_commander 
-			}
-		}
-
-		create_character = {
-			first_name = "Catalina"
-			last_name = "Vilafermosa"
+			first_name = "Juana"
+			last_name = "de_Niebla"
 			female = yes
 			culture = cu:spanish
 			religion = rel:catholic
-			birth_date = 1626.9.30
+			birth_date = 1806.9.12
 			traits = {
-				reckless 
+				basic_political_operator meticulous 
 			}
 		}
 
@@ -75,26 +58,61 @@
 			heir = yes
 			culture = cu:spanish
 			religion = rel:catholic
-			birth_date = 1645.5.4
+			birth_date = 1827.5.29
 			traits = {
-				experienced_political_operator innovative 
+				trait_child 
 			}
 		}
 
 		create_character = {
-			first_name = "Enrique_VII"
+			first_name = "Juan_II"
 			last_name = "Trastamara"
 			ruler = yes
-			is_general = yes
-			commander_rank = commander_rank_2
 			culture = cu:spanish
 			religion = rel:catholic
-			birth_date = 1630.5.4
+			birth_date = 1812.5.29
 			traits = {
-				basic_political_operator imperious 
+				charismatic masterful_diplomat 
 			}
 			on_created = {
 				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Rodrigo_de_la_Cerda"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1800.12.12
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Alvaro_Ponce_de_Leon"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1799.5.14
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Ramon_Pinzon"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1787.12.8
+		}
+
+		create_character = {
+			first_name = "Gutierre_de_Aguirre"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1781.4.2
+			traits = {
+				expensive_tastes 
 			}
 		}
 

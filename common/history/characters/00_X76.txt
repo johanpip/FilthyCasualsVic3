@@ -1,0 +1,147 @@
+﻿CHARACTERS = {
+	c:X76 = {
+		create_character = {
+			first_name = "Tio"
+			last_name = "Armfelt"
+			female = yes
+			culture = cu:polish
+			religion = rel:vidilist
+			birth_date = 1806.7.2
+			traits = {
+				basic_political_operator bigoted 
+			}
+		}
+
+		create_character = {
+			first_name = "Agate"
+			last_name = "Palemonaitis"
+			heir = yes
+			culture = cu:polish
+			religion = rel:vidilist
+			birth_date = 1834.8.4
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Jusis_I"
+			last_name = "Palemonaitis"
+			ruler = yes
+			culture = cu:polish
+			religion = rel:vidilist
+			birth_date = 1816.8.18
+			traits = {
+				experienced_diplomat meticulous 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Lloyd_Rean"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1798.3.27
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Rein_Pac"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1808.10.9
+		}
+
+		create_character = {
+			first_name = "Cassius_Ash"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1799.1.4
+			traits = {
+				basic_defensive_strategist persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Randolph_Wazy"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1792.1.1
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Crow_Elliot"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1794.1.17
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Ash_Juna"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1806.12.6
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Lloyd_Renne"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1784.2.28
+		}
+
+		create_character = {
+			first_name = "Gaius_Altina"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1783.10.11
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Agate_Ellie"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1802.2.23
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Ash_Ellie"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1800.10.10
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Wazy_Kurt"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1783.7.29
+			traits = {
+				grifter 
+			}
+		}
+
+	}
+}

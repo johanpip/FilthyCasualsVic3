@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:PAT = {
+		create_character = {
+			first_name = "Miguel_Pimentel"
+			ruler = yes
+			culture = cu:platinean
+			religion = rel:catholic
+			birth_date = 1799.8.6
+			traits = {
+				basic_colonial_administrator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Alonso_de_la_Cueva"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1801.2.19
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Miguel_de_Toledo"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1797.3.1
+			traits = {
+				shellshocked 
+			}
+		}
+
+	}
+}

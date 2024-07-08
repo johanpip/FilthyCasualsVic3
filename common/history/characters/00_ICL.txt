@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:ICL = {
+		create_character = {
+			first_name = "Erik_Egilsson"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1792.8.3
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Soren_Magnusson"
+			ruler = yes
+			culture = cu:icelandic
+			religion = rel:protestant
+			birth_date = 1786.11.2
+			traits = {
+				imperious 
+			}
+		}
+
+	}
+}

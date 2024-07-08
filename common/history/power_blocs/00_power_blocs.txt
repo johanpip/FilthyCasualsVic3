@@ -1,0 +1,108 @@
+﻿POWER_BLOCS = {
+	c:CAS = {
+		create_power_bloc = {
+			name = CAS_BLOC
+			map_color = { 193 171 8 }
+			founding_date = 1.1.1
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:NZL
+			member = c:PAT
+			member = c:SPU
+			member = c:W39
+			member = c:W40
+			member = c:W41
+			member = c:X24
+			member = c:X26
+		}
+	}
+
+	c:ETH = {
+		create_power_bloc = {
+			name = ETH_BLOC
+			map_color = { 35 130 50 }
+			founding_date = 1.1.1
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:TUN
+			member = c:W42
+			member = c:W43
+			member = c:WAS
+		}
+	}
+
+	c:X76 = {
+		create_power_bloc = {
+			name = X76_BLOC
+			map_color = { 57 93 121 }
+			founding_date = 1.1.1
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:W44
+			member = c:W45
+			member = c:W46
+			member = c:W47
+			member = c:W48
+			member = c:W49
+			member = c:X28
+		}
+	}
+
+	c:X87 = {
+		create_power_bloc = {
+			name = X87_BLOC
+			map_color = { 255 223 0 }
+			founding_date = 1.1.1
+			identity = identity_trade_league
+			principle = principle_internal_trade_1
+			
+			member = c:W50
+			member = c:W51
+			member = c:W52
+			member = c:W53
+			member = c:W54
+			member = c:W55
+			member = c:W56
+		}
+	}
+
+	c:X91 = {
+		create_power_bloc = {
+			name = X91_BLOC
+			map_color = { 237 152 18 }
+			founding_date = 1.1.1
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:K16
+			member = c:W57
+			member = c:W58
+			member = c:W59
+			member = c:W60
+			member = c:W61
+			member = c:W62
+			member = c:W63
+			member = c:W64
+			member = c:W65
+			member = c:W66
+		}
+	}
+
+	c:X84 = {
+		create_power_bloc = {
+			name = HOLY_ROMAN_EMPIRE_BLOC
+			map_color = { 150 177 161 }
+			founding_date = 962.2.2
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_2
+			
+			member = c:GBR
+			member = c:W87
+			member = c:X45
+		}
+	}
+
+}

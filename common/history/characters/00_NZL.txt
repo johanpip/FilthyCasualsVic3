@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:NZL = {
+		create_character = {
+			first_name = "Bernardo_de_Ayala"
+			ruler = yes
+			culture = cu:spanish
+			religion = rel:catholic
+			birth_date = 1789.7.24
+			traits = {
+				basic_political_operator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Gonzalo_de_Andrade"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1794.12.4
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Hernando_de_Ayala"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1787.1.8
+			traits = {
+				opium_addiction 
+			}
+		}
+
+	}
+}

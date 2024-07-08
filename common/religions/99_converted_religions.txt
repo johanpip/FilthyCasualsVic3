@@ -108,7 +108,7 @@ cathar = {
 catholic = {
 	texture = "gfx/interface/icons/religion_icons/catholic.dds"
 	traits = { christian }
-	color = { 204 153 102 }
+	color = { 204 140 51 }
 }
 caucasian_pagan = {
 	texture = "gfx/interface/icons/religion_icons/caucasian.dds"
@@ -124,6 +124,11 @@ chalcedonian = {
 	texture = "gfx/interface/icons/religion_icons/iconoclast.dds"
 	traits = { christian }
 	color = { 255 0 0 }
+}
+confucian = {
+	texture = "gfx/interface/icons/religion_icons/confucianism.dds"
+	traits = { eastern }
+	color = { 255 166 102 }
 }
 cybelene = {
 	texture = "gfx/interface/icons/religion_icons/cybelene.dds"
@@ -201,7 +206,7 @@ hellenic_pagan_reformed = {
 hindu = {
 	texture = "gfx/interface/icons/religion_icons/hindu.dds"
 	traits = { eastern }
-	color = { 179 102 77 }
+	color = { 204 51 77 }
 	taboos = { meat }
 }
 hussite = {
@@ -375,7 +380,7 @@ oriental_orthodox = {
 orthodox = {
 	texture = "gfx/interface/icons/religion_icons/orthodox.dds"
 	traits = { christian }
-	color = { 158 163 153 }
+	color = { 115 64 128 }
 }
 pagan_religion_reformed = {
 	texture = "gfx/interface/icons/religion_icons/pagan.dds"

@@ -1,51 +1,48 @@
 ﻿CHARACTERS = {
 	c:HAU = {
 		create_character = {
-			first_name = "Gauhar"
-			last_name = "Kanu"
-			female = yes
-			culture = cu:hausa
-			religion = rel:sunni
-			birth_date = 1648.6.12
+			first_name = "Janhazo_Saibou"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1806.9.28
 			traits = {
-				experienced_colonial_administrator tactful 
+				psychological_affliction 
 			}
 		}
 
 		create_character = {
-			first_name = "Shekkarau"
+			first_name = "Bardandoma_Balewa"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1802.3.17
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Muhammad"
 			last_name = "Habe"
 			heir = yes
-			culture = cu:hausa
+			culture = cu:dynamic-zaghawa-culture-num1
 			religion = rel:sunni
-			birth_date = 1674.10.28
+			birth_date = 1823.6.14
 			traits = {
 				basic_political_operator trait_child 
 			}
 		}
 
 		create_character = {
-			first_name = "Chiroma_III"
+			first_name = "Da_uda_Abasama_II"
 			last_name = "Habe"
 			ruler = yes
-			culture = cu:hausa
-			religion = rel:sunni
-			birth_date = 1649.10.28
-			traits = {
-				experienced_colonial_administrator imperious 
-			}
-			on_created = {
-				set_variable = is_married
-			}
-		}
-
-		create_character = {
-			first_name = "Yakubu_Bakara"
 			is_general = yes
-			commander_rank = commander_rank_1
-			birth_date = 1614.11.29
+			commander_rank = commander_rank_2
+			culture = cu:dynamic-zaghawa-culture-num1
+			religion = rel:sunni
+			birth_date = 1788.9.26
 			traits = {
-				alcoholic 
+				meticulous 
 			}
 		}
 

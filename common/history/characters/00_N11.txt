@@ -5,7 +5,7 @@
 			ruler = yes
 			culture = cu:algonquian
 			religion = rel:animist
-			birth_date = 1470.6.6
+			birth_date = 1561.6.6
 			traits = {
 				basic_diplomat senile 
 			}

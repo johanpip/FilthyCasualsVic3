@@ -1,23 +1,23 @@
 ﻿CHARACTERS = {
 	c:TUN = {
 		create_character = {
-			first_name = "Yusuf_Naybet"
+			first_name = "Murad_Saber"
 			ruler = yes
 			culture = cu:spanish
 			religion = rel:catholic
-			birth_date = 1636.10.29
+			birth_date = 1791.5.2
 			traits = {
-				direct 
+				experienced_diplomat innovative 
 			}
 		}
 
 		create_character = {
-			first_name = "Qadir_Bassir"
+			first_name = "Hashim_Badra"
 			is_general = yes
 			commander_rank = commander_rank_2
-			birth_date = 1619.12.24
+			birth_date = 1796.1.28
 			traits = {
-				ambitious 
+				cruel 
 			}
 		}
 
