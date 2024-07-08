@@ -71,7 +71,7 @@ X91 = { #Qing
 }
 
 X76 = { #BRC
-	color = { 154 69 69 }
+	color = { 57 93 121 } #Old BRC Brown 154 69 69
 	country_type = recognized
 	tier = hegemony
 	cultures = { baltoruth }
