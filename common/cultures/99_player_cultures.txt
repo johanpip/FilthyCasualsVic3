@@ -1,4 +1,4 @@
-
+﻿
 alan = { #TesterCulture, if Alan is protestant, this file is working
 	color = { 180 120 180 }
 	religion = "protestant"

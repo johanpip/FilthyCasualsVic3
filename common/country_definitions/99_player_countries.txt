@@ -1,4 +1,4 @@
-BOH = { #Bohemia
+﻿BOH = { #Bohemia
 	color = { 161 139 40 }
 	country_type = recognized
 	tier = hegemony
@@ -76,5 +76,5 @@ X76 = { #BRC
 	tier = hegemony
 	cultures = { baltoruth }
 	religion = vidilist
-	capital = STATE_LITHUANIA
+	capital = STATE_KAUNAS
 }
