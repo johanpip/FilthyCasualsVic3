@@ -195,7 +195,7 @@
 		add_homeland = cu:neo-canada_colony-icelandic
 		add_homeland = cu:stillemenn
 		add_homeland = cu:neo-canada_colony-vestmenn
-		add_homeland = cu:neo-canada_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:CAL
 		add_claim = c:W47
 	}
@@ -3934,7 +3934,7 @@
 		add_homeland = cu:cree
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-vestmenn
-		add_homeland = cu:neo-canada_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:siouan
 		add_claim = c:W47
 	}
@@ -5056,7 +5056,7 @@
 		}
 		add_homeland = cu:anglo_canadian
 		add_homeland = cu:inuit
-		add_homeland = cu:neo-canada_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:W47
 	}
 	s:STATE_OAXACA = {
@@ -5156,7 +5156,7 @@
 		add_homeland = cu:iroquoian
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-vestmenn
-		add_homeland = cu:neo-canada_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:siouan
 		add_claim = c:M09
 		add_claim = c:W47
@@ -5687,7 +5687,7 @@
 		add_homeland = cu:inuit
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-vestmenn
-		add_homeland = cu:neo-canada_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:N11
 		add_claim = c:W47
 	}
@@ -6052,7 +6052,7 @@
 		add_homeland = cu:cree
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-vestmenn
-		add_homeland = cu:neo-canada_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:CAL
 		add_claim = c:IRC
 		add_claim = c:W47
