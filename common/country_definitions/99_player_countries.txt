@@ -34,7 +34,7 @@ ETH = { #Fatimids
 	capital = STATE_LOWER_EGYPT
 }
 
-W33 = { #Vinland
+W47 = { #Vinland
 	color = { 94 117 55 }
 	country_type = recognized
 	tier = hegemony
@@ -43,7 +43,7 @@ W33 = { #Vinland
 	capital = STATE_MISSISSIPPI
 }
 
-X84 = { #RomanumOrientis
+X98 = { #RomanumOrientis
 	color = { 145 20 78 }
 	country_type = recognized
 	tier = hegemony
@@ -52,7 +52,7 @@ X84 = { #RomanumOrientis
 	capital = STATE_EASTERN_THRACE
 }
 
-X87 = { #Outremer
+W03 = { #Outremer
 	color = { 255 223 0 }
 	country_type = recognized
 	tier = hegemony
@@ -61,7 +61,7 @@ X87 = { #Outremer
 	capital = STATE_BAGHDAD
 }
 
-X91 = { #Qing
+W25 = { #Qing
 	color = { 237 152 18 }
 	country_type = recognized
 	tier = hegemony
@@ -70,7 +70,7 @@ X91 = { #Qing
 	capital = STATE_BEIJING
 }
 
-X76 = { #BRC
+X90 = { #BRC
 	color = { 57 93 121 } #Old BRC Brown 154 69 69
 	country_type = recognized
 	tier = hegemony

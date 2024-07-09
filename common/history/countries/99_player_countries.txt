@@ -1,5 +1,5 @@
 ﻿COUNTRIES = {
-	c:W33 = { #Vinland
+	c:W47 = { #Vinland
 		#Technology
 		effect_starting_technology_tier_3_tech = yes
 
@@ -199,7 +199,7 @@
 #		}
 	}
 
-	c:X84 = { #RomanumOrientis
+	c:X98 = { #RomanumOrientis
 		#Technology
 		effect_starting_technology_tier_3_tech = yes
 
@@ -246,7 +246,7 @@
 		#}
 	}
 
-    c:X87 = { #Outremer
+    c:W03 = { #Outremer
 		#Technology
 		effect_starting_technology_tier_3_tech = yes
 
@@ -286,7 +286,7 @@
  		}
 	}
 	
-	c:X91 = { #Qing
+	c:W25 = { #Qing
 		#Technology
 		effect_starting_technology_tier_3_tech = yes
 
@@ -333,7 +333,7 @@
 #		}
 	}
 	
-	c:X76 = { #BRC
+	c:X90 = { #BRC
 		#Technology
 		effect_starting_technology_tier_3_tech = yes
 

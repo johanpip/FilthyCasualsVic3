@@ -852,12 +852,12 @@
 				size = 92
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 41962
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 1107
 			}
@@ -882,12 +882,12 @@
 				size = 297
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 176676
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 4664
 			}
@@ -952,12 +952,12 @@
 				size = 194
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 80672
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 2129
 			}
@@ -982,12 +982,12 @@
 				size = 168
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 65928
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 1741
 			}
@@ -19558,12 +19558,12 @@
 				size = 394
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 14689
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 6743
 			}
@@ -19588,12 +19588,12 @@
 				size = 2116
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 73301
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 33653
 			}
@@ -19718,12 +19718,12 @@
 				size = 2482
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 81924
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 37612
 			}
@@ -19748,12 +19748,12 @@
 				size = 2338
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 84080
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 38602
 			}
@@ -19778,12 +19778,12 @@
 				size = 573
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 23715
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 10887
 			}
@@ -32874,17 +32874,17 @@
 				size = 797
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 69059
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 7854
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = jewish
 				size = 51
 			}
@@ -37321,12 +37321,12 @@
 				size = 1862
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 70892
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 18308
 			}
@@ -37351,12 +37351,12 @@
 				size = 597
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 38671
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 9987
 			}
@@ -37381,12 +37381,12 @@
 				size = 806
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 33415
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 8629
 			}
@@ -37431,12 +37431,12 @@
 				size = 1254
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 57292
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 14796
 			}
@@ -37461,12 +37461,12 @@
 				size = 1558
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 65359
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 16879
 			}
@@ -42717,7 +42717,7 @@
 				size = 1093
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 43988
 			}
@@ -42777,7 +42777,7 @@
 				size = 5037
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 85328
 			}
@@ -42797,7 +42797,7 @@
 				size = 2321
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 36222
 			}
@@ -42837,7 +42837,7 @@
 				size = 2724
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 38483
 			}
@@ -42852,7 +42852,7 @@
 				size = 1944
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 26530
 			}
@@ -55244,17 +55244,17 @@
 				size = 467
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 126220
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 4935
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = jewish
 				size = 271
 			}
@@ -55289,17 +55289,17 @@
 				size = 216
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 71128
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 2781
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = jewish
 				size = 147
 			}
@@ -55324,17 +55324,17 @@
 				size = 186
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 83017
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 3246
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = jewish
 				size = 165
 			}
@@ -55359,17 +55359,17 @@
 				size = 168
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 56481
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 2208
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = jewish
 				size = 118
 			}
@@ -55404,17 +55404,17 @@
 				size = 184
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 74891
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 2928
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = jewish
 				size = 147
 			}
@@ -55439,17 +55439,17 @@
 				size = 210
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 74718
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 2922
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = jewish
 				size = 153
 			}
@@ -63187,7 +63187,7 @@
 				size = 4719
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 68442
 			}
@@ -63202,7 +63202,7 @@
 				size = 7491
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 111266
 			}
@@ -63222,7 +63222,7 @@
 				size = 1587
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 37279
 			}
@@ -63237,7 +63237,7 @@
 				size = 4924
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 76262
 			}
@@ -63262,7 +63262,7 @@
 				size = 7403
 			}
 			create_pop = {
-				culture = neo-usa_south_colony-vinlander
+				culture = vinlander
 				religion = protestant
 				size = 103738
 			}
