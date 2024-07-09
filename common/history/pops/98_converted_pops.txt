@@ -1110,7 +1110,7 @@
 				size = 1442
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 18238
 			}
@@ -1125,12 +1125,12 @@
 				size = 264
 			}
 			create_pop = {
-				culture = neo-canada_colony-icelandic
+				culture = icelandic #neo-canada_colony-icelandic
 				religion = protestant
 				size = 1013
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 7772
 			}
@@ -1145,7 +1145,7 @@
 				size = 775
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 5829
 			}
@@ -1160,12 +1160,12 @@
 				size = 8
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 107
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 193
 			}
@@ -1180,12 +1180,12 @@
 				size = 532
 			}
 			create_pop = {
-				culture = neo-canada_colony-icelandic
+				culture = icelandic #neo-canada_colony-icelandic
 				religion = protestant
 				size = 2031
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 15544
 			}
@@ -1200,7 +1200,7 @@
 				size = 1340
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 10687
 			}
@@ -1215,7 +1215,7 @@
 				size = 695
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 9119
 			}
@@ -1328,7 +1328,7 @@
 				size = 6095
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 8430
 			}
@@ -1363,7 +1363,7 @@
 				size = 6174
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 8430
 			}
@@ -1503,7 +1503,7 @@
 				size = 2388
 			}
 			create_pop = {
-				culture = neo-canada_colony-icelandic
+				culture = icelandic #neo-canada_colony-icelandic
 				religion = protestant
 				size = 34901
 			}
@@ -1528,7 +1528,7 @@
 				size = 12156
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 16859
 			}
@@ -1553,12 +1553,12 @@
 				size = 60
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 838
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 2526
 			}
@@ -3103,32 +3103,32 @@
 				size = 361
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 8228
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 293
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 38864
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 1384
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 40031
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 1426
 			}
@@ -3143,32 +3143,32 @@
 				size = 133
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 1308
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 47
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 16840
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 600
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 16194
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 577
 			}
@@ -3193,32 +3193,32 @@
 				size = 16
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 12310
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 438
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 26839
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 956
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 29948
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 1066
 			}
@@ -3233,32 +3233,32 @@
 				size = 238
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 8347
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 297
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 15390
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 548
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 28778
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 1025
 			}
@@ -3273,32 +3273,32 @@
 				size = 387
 			}
 			create_pop = {
-				culture = neo-colombia_colony-vestmenn
+				culture = marklander
 				religion = protestant
 				size = 2407
 			}
 			create_pop = {
-				culture = neo-colombia_colony-vestmenn
+				culture = marklander
 				religion = protestant
 				size = 86
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 44954
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 1601
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 30583
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 1089
 			}
@@ -3313,32 +3313,32 @@
 				size = 355
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 9208
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 328
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 42790
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 1524
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 39534
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 1408
 			}
@@ -3363,32 +3363,32 @@
 				size = 5
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 4778
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 170
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 9824
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 350
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 12260
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 436
 			}
@@ -5631,12 +5631,12 @@
 				size = 778
 			}
 			create_pop = {
-				culture = neo-mexico_colony-vestmenn
+				culture = stillemenn
 				religion = protestant
 				size = 2368
 			}
 			create_pop = {
-				culture = neo-mexico_colony-icelandic
+				culture = icelandic #neo-mexico_colony-icelandic
 				religion = protestant
 				size = 31485
 			}
@@ -5651,12 +5651,12 @@
 				size = 451
 			}
 			create_pop = {
-				culture = neo-mexico_colony-vestmenn
+				culture = vestlander
 				religion = protestant
 				size = 1508
 			}
 			create_pop = {
-				culture = neo-mexico_colony-icelandic
+				culture = icelandic #neo-mexico_colony-icelandic
 				religion = protestant
 				size = 20036
 			}
@@ -7516,42 +7516,42 @@
 				size = 73
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 2941
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 124
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = vidilist
 				size = 2465
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = vidilist
 				size = 104
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 4575
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 193
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 10082
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 425
 			}
@@ -7566,22 +7566,22 @@
 				size = 231
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 23628
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 997
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 10874
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 459
 			}
@@ -7596,42 +7596,42 @@
 				size = 112
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 5358
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 226
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = vidilist
 				size = 3265
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = vidilist
 				size = 138
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 8559
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 361
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 16507
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 697
 			}
@@ -7656,22 +7656,22 @@
 				size = 12
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 19250
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 813
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 9562
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 404
 			}
@@ -7686,22 +7686,22 @@
 				size = 153
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 17312
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 731
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 8121
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 343
 			}
@@ -7716,22 +7716,22 @@
 				size = 157
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 15821
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 668
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 9529
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 402
 			}
@@ -7746,22 +7746,22 @@
 				size = 33
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 3801
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 160
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 1650
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 70
 			}
@@ -8634,12 +8634,12 @@
 				size = 2523
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 4445
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 9857
 			}
@@ -8704,17 +8704,17 @@
 				size = 93
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 1526
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 1882
 			}
 			create_pop = {
-				culture = neo-canada_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 7880
 			}
@@ -8739,12 +8739,12 @@
 				size = 121
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 1693
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 5104
 			}
@@ -8764,12 +8764,12 @@
 				size = 38
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 3451
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 7532
 			}
@@ -8789,12 +8789,12 @@
 				size = 43
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 3493
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 9060
 			}
@@ -8809,12 +8809,12 @@
 				size = 385
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 4486
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 9763
 			}
@@ -8829,12 +8829,12 @@
 				size = 100
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 3081
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 7976
 			}
@@ -8849,12 +8849,12 @@
 				size = 256
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 3258
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 5861
 			}
@@ -8864,17 +8864,17 @@
 				size = 4384
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 7060
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 9040
 			}
 			create_pop = {
-				culture = neo-canada_colony-halendingur
+				culture = stillemenn
 				religion = catholic
 				size = 15035
 			}
@@ -9862,7 +9862,7 @@
 				size = 2950
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 39793
 			}
@@ -9882,7 +9882,7 @@
 				size = 3995
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 50404
 			}
@@ -9897,7 +9897,7 @@
 				size = 3927
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 39203
 			}
@@ -9912,7 +9912,7 @@
 				size = 3678
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 45419
 			}
@@ -9932,7 +9932,7 @@
 				size = 3571
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 39793
 			}
@@ -9957,7 +9957,7 @@
 				size = 2763
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 34733
 			}
@@ -9972,7 +9972,7 @@
 				size = 13976
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 49903
 			}
@@ -9992,7 +9992,7 @@
 				size = 4602
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 58778
 			}
@@ -10007,7 +10007,7 @@
 				size = 2405
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 32061
 			}
@@ -10027,7 +10027,7 @@
 				size = 3941
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 49656
 			}
@@ -10037,7 +10037,7 @@
 				size = 4646
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 15447
 			}
@@ -10052,7 +10052,7 @@
 				size = 7590
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 84891
 			}
@@ -10072,7 +10072,7 @@
 				size = 6312
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 82824
 			}
@@ -10579,32 +10579,32 @@
 				size = 106
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 24979
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 239
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = chalcedonian
 				size = 14359
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = chalcedonian
 				size = 137
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 53687
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 514
 			}
@@ -10621,32 +10621,32 @@
 				size = 135
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 10511
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 101
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 42243
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 405
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 63315
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 607
 			}
@@ -10661,42 +10661,42 @@
 				size = 86
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 3958
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 38
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 31041
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 297
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 10282
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 99
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 36871
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 353
 			}
@@ -10711,32 +10711,32 @@
 				size = 109
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 7457
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 71
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 41785
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 400
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 39143
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 375
 			}
@@ -14274,7 +14274,7 @@
 				size = 7434
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 70095
 			}
@@ -14294,12 +14294,12 @@
 				size = 1621
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 44840
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 3470
 			}
@@ -14314,7 +14314,7 @@
 				size = 2889
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 26286
 			}
@@ -14665,22 +14665,22 @@
 				size = 6881
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 932
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 32750
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 7789
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 30486
 			}
@@ -14690,22 +14690,22 @@
 				size = 10697
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 19630
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = chalcedonian
 				size = 9451
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 26947
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 42771
 			}
@@ -22195,22 +22195,22 @@
 				size = 57
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 20623
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 277
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 6815
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 92
 			}
@@ -22265,22 +22265,22 @@
 				size = 61
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 8975
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 121
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 27617
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 371
 			}
@@ -22395,32 +22395,32 @@
 				size = 132
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 17379
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 234
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = chalcedonian
 				size = 12281
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = chalcedonian
 				size = 165
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 39813
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 535
 			}
@@ -22535,22 +22535,22 @@
 				size = 1873
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 3837
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = vidilist
 				size = 2440
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 6395
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 11734
 			}
@@ -25111,22 +25111,22 @@
 				size = 3818
 			}
 			create_pop = {
-				culture = neo-central_america_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 1148
 			}
 			create_pop = {
-				culture = neo-central_america_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 1097
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 2627
 			}
 			create_pop = {
-				culture = hellulander
+				culture = marklander
 				religion = protestant
 				size = 28518
 			}
@@ -25146,22 +25146,22 @@
 				size = 6175
 			}
 			create_pop = {
-				culture = neo-central_america_colony-halendingur
-				religion = protestant
+				culture = hellulander
+				religion = animist
 				size = 1930
 			}
 			create_pop = {
-				culture = neo-central_america_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 1790
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 4011
 			}
 			create_pop = {
-				culture = hellulander
+				culture = marklander
 				religion = protestant
 				size = 45628
 			}
@@ -25171,12 +25171,12 @@
 				size = 5282
 			}
 			create_pop = {
-				culture = neo-central_america_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 4549
 			}
 			create_pop = {
-				culture = neo-central_america_colony-halendingur
+				culture = marklander
 				religion = protestant
 				size = 27378
 			}
@@ -25186,17 +25186,17 @@
 				size = 3838
 			}
 			create_pop = {
-				culture = neo-central_america_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 1178
 			}
 			create_pop = {
-				culture = neo-central_america_colony-halendingur
+				culture = hellulander
 				religion = protestant
 				size = 1109
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = hellulander
 				religion = protestant
 				size = 2567
 			}
@@ -25681,17 +25681,17 @@
 				size = 71
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 455
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 756
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 2807
 			}
@@ -25706,12 +25706,12 @@
 				size = 144
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 1132
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 2821
 			}
@@ -26369,7 +26369,7 @@
 				size = 3833
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-icelandic
+				culture = icelandic #neo-usa_north_colony-icelandic
 				religion = protestant
 				size = 47933
 			}
@@ -34347,7 +34347,7 @@
 				size = 2708
 			}
 			create_pop = {
-				culture = neo-canada_colony-icelandic
+				culture = icelandic #neo-canada_colony-icelandic
 				religion = protestant
 				size = 1171
 			}
@@ -34377,7 +34377,7 @@
 				size = 1462
 			}
 			create_pop = {
-				culture = neo-canada_colony-icelandic
+				culture = icelandic #neo-canada_colony-icelandic
 				religion = protestant
 				size = 697
 			}
@@ -36995,22 +36995,22 @@
 				size = 20
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 24182
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 486
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 9606
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 193
 			}
@@ -37025,22 +37025,22 @@
 				size = 154
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 37589
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 756
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 10555
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 212
 			}
@@ -37065,22 +37065,22 @@
 				size = 6
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 29320
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 589
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 7976
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 160
 			}
@@ -37095,22 +37095,22 @@
 				size = 136
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 33702
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 678
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 11063
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 222
 			}
@@ -37175,12 +37175,12 @@
 				size = 122
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 20701
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 416
 			}
@@ -37207,22 +37207,22 @@
 				size = 7
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 32174
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 647
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 13009
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 262
 			}
@@ -37237,22 +37237,22 @@
 				size = 111
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 26950
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 542
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 11700
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = vidilist
 				size = 235
 			}
@@ -37277,22 +37277,22 @@
 				size = 46
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 21570
 			}
 			create_pop = {
-				culture = neo-colombia_colony-danish
+				culture = marklander
 				religion = protestant
 				size = 434
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 58771
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 1182
 			}
@@ -38200,7 +38200,7 @@
 				size = 1319
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-icelandic
+				culture = icelandic #neo-usa_north_colony-icelandic
 				religion = protestant
 				size = 8378
 			}
@@ -40671,12 +40671,12 @@
 				size = 4906
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 37074
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 2
 			}
@@ -40691,12 +40691,12 @@
 				size = 2830
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 23001
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 2
 			}
@@ -40721,12 +40721,12 @@
 				size = 1
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 106381
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 6
 			}
@@ -40741,12 +40741,12 @@
 				size = 2370
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 35804
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 2
 			}
@@ -40766,12 +40766,12 @@
 				size = 9083
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 71879
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 4
 			}
@@ -43944,7 +43944,7 @@
 				size = 4
 			}
 			create_pop = {
-				culture = neo-canada_colony-icelandic
+				culture = icelandic #neo-canada_colony-icelandic
 				religion = protestant
 				size = 2
 			}
@@ -45338,12 +45338,12 @@
 				size = 175
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 3783
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 12120
 			}
@@ -45358,12 +45358,12 @@
 				size = 729
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 3877
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 13511
 			}
@@ -46393,12 +46393,12 @@
 				size = 372
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 154119
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 4033
 			}
@@ -46423,22 +46423,22 @@
 				size = 126
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 135341
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 3542
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 10809
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 283
 			}
@@ -46463,22 +46463,22 @@
 				size = 58
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 111537
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 2919
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 9195
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 241
 			}
@@ -46513,12 +46513,12 @@
 				size = 219
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 95961
 			}
 			create_pop = {
-				culture = neo-central_america_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 2511
 			}
@@ -64145,12 +64145,12 @@
 				size = 614
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 7814
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 20532
 			}
@@ -64180,12 +64180,12 @@
 				size = 455
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 6770
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 18416
 			}
@@ -64205,12 +64205,12 @@
 				size = 182
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 10544
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 30098
 			}
@@ -64225,17 +64225,17 @@
 				size = 245
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 1576
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 2616
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-stillemenn
+				culture = stillemenn
 				religion = protestant
 				size = 9717
 			}
@@ -64250,12 +64250,12 @@
 				size = 488
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 3822
 			}
 			create_pop = {
-				culture = neo-usa_north_colony-halendingur
+				culture = stillemenn
 				religion = protestant
 				size = 9523
 			}
@@ -68221,12 +68221,12 @@
 				size = 380
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 46015
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 857
 			}
@@ -68391,22 +68391,22 @@
 				size = 7
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 25247
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 470
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 5062
 			}
 			create_pop = {
-				culture = neo-colombia_colony-marklander
+				culture = marklander
 				religion = chalcedonian
 				size = 94
 			}
@@ -68423,12 +68423,12 @@
 				size = 75
 			}
 			create_pop = {
-				culture = neo-colombia_colony-vestmenn
+				culture = marklander
 				religion = protestant
 				size = 1871
 			}
 			create_pop = {
-				culture = neo-colombia_colony-vestmenn
+				culture = marklander
 				religion = protestant
 				size = 35
 			}
