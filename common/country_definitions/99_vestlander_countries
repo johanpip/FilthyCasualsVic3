@@ -1,0 +1,17 @@
+﻿UCA = { #Central America
+	color = { 204 186 201 }
+	country_type = colonial
+	tier = principality
+	cultures = { hellulander }
+	religion = protestant
+	capital = STATE_ZACATECAS
+}
+
+CUB = { #Caribbean Islands
+	color = { 140 65 166 }
+	country_type = colonial
+	tier = principality
+	cultures = { neo-caribbean_colony-hellulander }
+	religion = protestant
+	capital = STATE_CUBA
+}

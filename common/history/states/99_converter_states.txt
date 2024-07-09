@@ -678,7 +678,7 @@
 			owned_provinces = { x4EBC79 x686279 x72C072 x7A6FA3 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-caribbean_colony-halendingur
+		add_homeland = cu:norn
 		add_homeland = cu:neo-caribbean_colony-hellulander
 		add_claim = c:CUB
 		add_claim = c:WIN
@@ -1464,7 +1464,7 @@
 			owned_provinces = { x0011AA x003080 x03FA03 x04C43F x0BFD7B x0D5DDD x10C6B4 x120FFD x14A53B x1C9D7D x248F66 x262FDB x27A132 x2B7E93 x30BBDA x3188F7 x37B11F x3A74AB x432FE4 x475D1E x51153D x535D1C x556403 x55FB35 x58817E x5AF2D5 x5CED99 x6050C0 x662FF9 x6D572C x77C161 x7CFB5F x803080 x80773D x80B001 x8910AF x8E9D4F x8FB2D5 x986D98 x9A551F x9BDC42 xADD8B8 xB009D9 xB9D7C8 xBE33DB xBF6399 xC3C402 xC6B997 xC6D1E5 xC7E9EA xC9BA1B xCA959E xCD9190 xD7DEC8 xDA4A32 xE06B52 xE7BA3B xE941BF xECD11D xF82CDC xF97F04 xFE578D }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-mexico_colony-hellulander
+		add_homeland = cu:hellulander
 		add_homeland = cu:neo-mexico_colony-vestmenn
 		add_claim = c:CAL
 		add_claim = c:UCA
@@ -1556,7 +1556,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_north_colony-vestmenn
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:paiute
 		add_homeland = cu:pueblo
 		add_homeland = cu:siouan
@@ -1820,7 +1820,7 @@
 			owned_provinces = { x44578C x700080 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:W47
 	}
 	s:STATE_DIYARBAKIR = {
@@ -1863,7 +1863,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:chichimecan
-		add_homeland = cu:neo-mexico_colony-hellulander
+		add_homeland = cu:hellulander
 		add_claim = c:UCA
 	}
 	s:STATE_DZUNGARIA = {
@@ -2955,7 +2955,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_INDIANA = {
 		create_state = {
@@ -2964,7 +2964,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:siouan
 	}
 	s:STATE_INDIAN_OCEAN_TERRITORY = {
@@ -3249,7 +3249,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_north_colony-vestmenn
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:CAL
 	}
 	s:STATE_KANTO = {
@@ -3351,7 +3351,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:metis
 		add_homeland = cu:muskogean
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_KENYA = {
 		create_state = {
@@ -3965,7 +3965,7 @@
 			owned_provinces = { x0E3435 x16482D x3CC08F x576240 x5E6C0F x708080 x888194 xAEB9F5 xF08000 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:W47
 	}
 	s:STATE_MASSACHUSETTS = {
@@ -3976,7 +3976,7 @@
 		}
 		add_homeland = cu:algonquian
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_MATO_GROSSO = {
 		create_state = {
@@ -4129,7 +4129,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_MIDDLE_EGYPT = {
 		create_state = {
@@ -4179,7 +4179,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:dakota
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:siouan
 		add_claim = c:IRC
 	}
@@ -4227,7 +4227,7 @@
 		}
 		add_homeland = cu:algonquian
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:CAL
 		add_claim = c:UCA
 	}
@@ -4285,7 +4285,7 @@
 		}
 		add_homeland = cu:dakota
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:paiute
 		add_homeland = cu:siouan
 		add_claim = c:BLF
@@ -5096,7 +5096,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_OKHOTSK = {
 		create_state = {
@@ -5827,7 +5827,7 @@
 		}
 		add_homeland = cu:chichimecan
 		add_homeland = cu:mayan
-		add_homeland = cu:neo-mexico_colony-hellulander
+		add_homeland = cu:hellulander
 		add_claim = c:CAL
 		add_claim = c:UCA
 	}
@@ -6268,7 +6268,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:nahua
-		add_homeland = cu:neo-mexico_colony-halendingur
+		add_homeland = cu:hellulander
 		add_claim = c:CAL
 		add_claim = c:UCA
 	}
@@ -6494,7 +6494,7 @@
 		add_homeland = cu:dakota
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_north_colony-vestmenn
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_claim = c:CAL
 		add_claim = c:IRC
 	}
@@ -6775,7 +6775,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:muskogean
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_TEXAS = {
 		create_state = {
@@ -7570,7 +7570,7 @@
 			owned_provinces = { x707080 xD496B1 }
 			state_type = incorporated
 		}
-		add_homeland = cu:caribeno
+		add_homeland = cu:norn
 		add_homeland = cu:neo-caribbean_colony-hellulander
 		add_homeland = cu:neo-caribbean_colony-marklander
 		add_claim = c:CUB
@@ -7646,7 +7646,7 @@
 			owned_provinces = { x06D57E x08D472 x0F5821 x2EA16C x30C000 x364F38 x366DF2 x38925B x43DB99 x579843 x7416CB x7755AD x82CE19 x845FC0 x999738 xAD371C xB04000 xB865A2 xCB120B }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 	}
 	s:STATE_WINDWARD_COAST = {
 		create_state = {
@@ -7729,7 +7729,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:neo-usa_north_colony-vestmenn
-		add_homeland = cu:neo-usa_north_colony-vinlander
+		add_homeland = cu:vinlander
 		add_homeland = cu:paiute
 		add_homeland = cu:siouan
 		add_claim = c:BLF
