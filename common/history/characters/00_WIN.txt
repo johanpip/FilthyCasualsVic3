@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:WIN = {
+		create_character = {
+			first_name = "Rean_Millium"
+			ruler = yes
+			culture = cu:baltoruth
+			religion = rel:vidilist
+			birth_date = 1795.11.2
+			traits = {
+				basic_political_operator persistent 
+			}
+		}
+
+	}
+}

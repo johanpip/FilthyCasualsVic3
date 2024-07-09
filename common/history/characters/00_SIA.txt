@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:SIA = {
+		create_character = {
+			first_name = "Chakkraphat_I"
+			last_name = "Sukhothai"
+			ruler = yes
+			culture = cu:thai
+			religion = rel:mahayana
+			birth_date = 1815.2.20
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

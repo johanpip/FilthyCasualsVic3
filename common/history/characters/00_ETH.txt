@@ -1,6 +1,26 @@
 ﻿CHARACTERS = {
 	c:ETH = {
 		create_character = {
+			first_name = "Benaim_Bayisa"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.6.29
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Abanoub_Eshete"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1798.5.12
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
 			first_name = "Yusuf_Bayisa"
 			is_general = yes
 			commander_rank = commander_rank_2

@@ -1,30 +1,6 @@
 ﻿CHARACTERS = {
 	c:ARP = {
 		create_character = {
-			first_name = "Tahtahtoisneh"
-			last_name = "Cathlapotle"
-			female = yes
-			culture = cu:metis
-			religion = rel:protestant
-			birth_date = 1797.4.4
-			traits = {
-				charismatic experienced_colonial_administrator 
-			}
-		}
-
-		create_character = {
-			first_name = "Comcomly"
-			last_name = "Atfalati"
-			heir = yes
-			culture = cu:metis
-			religion = rel:protestant
-			birth_date = 1816.12.9
-			traits = {
-				direct experienced_political_operator 
-			}
-		}
-
-		create_character = {
 			first_name = "Kawkama_I"
 			last_name = "Atfalati"
 			ruler = yes
@@ -33,19 +9,6 @@
 			birth_date = 1790.10.2
 			traits = {
 				basic_diplomat tactful 
-			}
-			on_created = {
-				set_variable = is_married
-			}
-		}
-
-		create_character = {
-			first_name = "Anta_Atfalati"
-			is_general = yes
-			commander_rank = commander_rank_2
-			birth_date = 1772.4.30
-			traits = {
-				shellshocked 
 			}
 		}
 

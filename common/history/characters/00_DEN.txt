@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:DEN = {
+		create_character = {
+			first_name = "Christian_IV"
+			last_name = "Ronnow"
+			ruler = yes
+			culture = cu:danish
+			religion = rel:hussite
+			birth_date = 1816.4.1
+			traits = {
+				basic_political_operator hedonist 
+			}
+		}
+
+	}
+}

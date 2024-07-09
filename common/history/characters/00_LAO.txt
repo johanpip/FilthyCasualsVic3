@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:LAO = {
+		create_character = {
+			first_name = "Sai_Tia_Kaphut_I"
+			last_name = "Champassak"
+			ruler = yes
+			culture = cu:lao
+			religion = rel:theravada
+			birth_date = 1817.2.20
+			traits = {
+				bigoted 
+			}
+		}
+
+	}
+}

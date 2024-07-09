@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X13 = {
+		create_character = {
+			first_name = "Nasir-ud-Din_Mahmud_III"
+			last_name = "Prome"
+			ruler = yes
+			culture = cu:burmese
+			religion = rel:mahayana
+			birth_date = 1815.2.20
+			traits = {
+				pious 
+			}
+		}
+
+	}
+}

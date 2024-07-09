@@ -1,16 +1,4 @@
 ﻿DIPLOMACY = {
-	c:CAL = {
-		create_diplomatic_pact = {
-			country = c:CSC
-			type = defensive_pact
-		}
-	}
-	c:CSC = {
-		create_diplomatic_pact = {
-			country = c:CAL
-			type = defensive_pact
-		}
-	}
 	c:CAS = {
 		create_diplomatic_pact = {
 			country = c:PAP
@@ -31,11 +19,11 @@
 	}
 	c:GBR = {
 		create_diplomatic_pact = {
-			country = c:W33
+			country = c:W47
 			type = defensive_pact
 		}
 	}
-	c:W33 = {
+	c:W47 = {
 		create_diplomatic_pact = {
 			country = c:GBR
 			type = defensive_pact
@@ -43,11 +31,11 @@
 	}
 	c:GBR = {
 		create_diplomatic_pact = {
-			country = c:X84
+			country = c:X98
 			type = defensive_pact
 		}
 	}
-	c:X84 = {
+	c:X98 = {
 		create_diplomatic_pact = {
 			country = c:GBR
 			type = defensive_pact
@@ -71,19 +59,7 @@
 			type = defensive_pact
 		}
 	}
-	c:X91 = {
-		create_diplomatic_pact = {
-			country = c:W33
-			type = defensive_pact
-		}
-	}
-	c:W33 = {
-		create_diplomatic_pact = {
-			country = c:X91
-			type = defensive_pact
-		}
-	}
-	c:X91 = {
+	c:W25 = {
 		create_diplomatic_pact = {
 			country = c:ETH
 			type = defensive_pact
@@ -91,23 +67,11 @@
 	}
 	c:ETH = {
 		create_diplomatic_pact = {
-			country = c:X91
+			country = c:W25
 			type = defensive_pact
 		}
 	}
-	c:W36 = {
-		create_diplomatic_pact = {
-			country = c:X39
-			type = defensive_pact
-		}
-	}
-	c:W72 = {
-		create_diplomatic_pact = {
-			country = c:HAU
-			type = defensive_pact
-		}
-	}
-	c:W33 = {
+	c:W47 = {
 		create_diplomatic_pact = {
 			country = c:BOH
 			type = defensive_pact
@@ -115,7 +79,7 @@
 	}
 	c:BOH = {
 		create_diplomatic_pact = {
-			country = c:W33
+			country = c:W47
 			type = defensive_pact
 		}
 	}
