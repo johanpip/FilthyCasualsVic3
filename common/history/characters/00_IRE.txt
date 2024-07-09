@@ -1,51 +1,14 @@
 ﻿CHARACTERS = {
 	c:IRE = {
 		create_character = {
-			first_name = "Saraid"
-			last_name = "MacLochlainn"
-			female = yes
-			culture = cu:vestmenn
-			religion = rel:protestant
-			birth_date = 1806.8.18
-			traits = {
-				cautious expert_colonial_administrator 
-			}
-		}
-
-		create_character = {
-			first_name = "Turlough"
-			last_name = "Yngling"
-			heir = yes
-			culture = cu:vestmenn
-			religion = rel:protestant
-			birth_date = 1831.1.14
-			traits = {
-				experienced_political_operator trait_child 
-			}
-		}
-
-		create_character = {
-			first_name = "Turlough_VI"
-			last_name = "Yngling"
+			first_name = "Conchobhar_II"
+			last_name = "Griis"
 			ruler = yes
 			culture = cu:vestmenn
-			religion = rel:protestant
-			birth_date = 1791.7.10
+			religion = rel:chalcedonian
+			birth_date = 1818.4.1
 			traits = {
-				experienced_political_operator innovative 
-			}
-			on_created = {
-				set_variable = is_married
-			}
-		}
-
-		create_character = {
-			first_name = "Feidlimidh_Touchet"
-			is_general = yes
-			commander_rank = commander_rank_1
-			birth_date = 1781.1.12
-			traits = {
-				cocaine_addiction 
+				cautious experienced_political_operator 
 			}
 		}
 

@@ -10,11 +10,13 @@
 			member = c:NZL
 			member = c:PAT
 			member = c:SPU
-			member = c:W39
-			member = c:W40
-			member = c:W41
+			member = c:W53
+			member = c:W54
+			member = c:W55
+			member = c:W56
 			member = c:X24
 			member = c:X26
+			member = c:X61
 		}
 	}
 
@@ -27,71 +29,71 @@
 			principle = principle_vassalization_1
 			
 			member = c:TUN
-			member = c:W42
-			member = c:W43
+			member = c:W57
+			member = c:W58
 			member = c:WAS
 		}
 	}
 
-	c:X76 = {
+	c:W03 = {
 		create_power_bloc = {
-			name = X76_BLOC
-			map_color = { 57 93 121 }
-			founding_date = 1.1.1
-			identity = identity_sovereign_empire
-			principle = principle_vassalization_1
-			
-			member = c:W44
-			member = c:W45
-			member = c:W46
-			member = c:W47
-			member = c:W48
-			member = c:W49
-			member = c:X28
-		}
-	}
-
-	c:X87 = {
-		create_power_bloc = {
-			name = X87_BLOC
+			name = W03_BLOC
 			map_color = { 255 223 0 }
-			founding_date = 1.1.1
+			founding_date = 1745.3.1
 			identity = identity_trade_league
 			principle = principle_internal_trade_1
 			
-			member = c:W50
-			member = c:W51
-			member = c:W52
-			member = c:W53
-			member = c:W54
-			member = c:W55
-			member = c:W56
+			member = c:X56
+			member = c:X57
+			member = c:X58
+			member = c:X59
+			member = c:X60
 		}
 	}
 
-	c:X91 = {
+	c:W25 = {
 		create_power_bloc = {
-			name = X91_BLOC
+			name = W25_BLOC
 			map_color = { 237 152 18 }
 			founding_date = 1.1.1
 			identity = identity_sovereign_empire
 			principle = principle_vassalization_1
 			
+			member = c:AIN
+			member = c:CAM
+			member = c:CMI
+			member = c:DAI
+			member = c:HTH
+			member = c:JAP
 			member = c:K16
-			member = c:W57
-			member = c:W58
+			member = c:KOR
+			member = c:LAO
+			member = c:SIA
+			member = c:TIB
 			member = c:W59
-			member = c:W60
-			member = c:W61
-			member = c:W62
-			member = c:W63
-			member = c:W64
-			member = c:W65
-			member = c:W66
+			member = c:X13
+			member = c:X55
 		}
 	}
 
-	c:X84 = {
+	c:X90 = {
+		create_power_bloc = {
+			name = X90_BLOC
+			map_color = { 57 93 121 }
+			founding_date = 1640.2.28
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:DEN
+			member = c:WIN
+			member = c:X29
+			member = c:X62
+			member = c:X63
+			member = c:X64
+		}
+	}
+
+	c:X98 = {
 		create_power_bloc = {
 			name = HOLY_ROMAN_EMPIRE_BLOC
 			map_color = { 150 177 161 }
@@ -100,8 +102,9 @@
 			principle = principle_vassalization_2
 			
 			member = c:GBR
-			member = c:W87
-			member = c:X45
+			member = c:IRE
+			member = c:SCO
+			member = c:W80
 		}
 	}
 

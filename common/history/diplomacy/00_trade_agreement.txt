@@ -1,13 +1,7 @@
 ﻿DIPLOMACY = {
 	c:PAP = {
 		create_diplomatic_pact = {
-			country = c:X84
-			type = trade_agreement
-		}
-	}
-	c:W72 = {
-		create_diplomatic_pact = {
-			country = c:HAU
+			country = c:X98
 			type = trade_agreement
 		}
 	}
@@ -50,6 +44,42 @@
 	c:X26 = {
 		create_diplomatic_pact = {
 			country = c:CAS
+			type = trade_agreement
+		}
+	}
+	c:WIN = {
+		create_diplomatic_pact = {
+			country = c:X90
+			type = trade_agreement
+		}
+	}
+	c:X56 = {
+		create_diplomatic_pact = {
+			country = c:W03
+			type = trade_agreement
+		}
+	}
+	c:X57 = {
+		create_diplomatic_pact = {
+			country = c:W03
+			type = trade_agreement
+		}
+	}
+	c:X58 = {
+		create_diplomatic_pact = {
+			country = c:W03
+			type = trade_agreement
+		}
+	}
+	c:X59 = {
+		create_diplomatic_pact = {
+			country = c:W03
+			type = trade_agreement
+		}
+	}
+	c:X60 = {
+		create_diplomatic_pact = {
+			country = c:W03
 			type = trade_agreement
 		}
 	}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:SCO = {
+		create_character = {
+			first_name = "Alexander_IV"
+			last_name = "Buchanan"
+			ruler = yes
+			culture = cu:halendingur
+			religion = rel:chalcedonian
+			birth_date = 1817.4.1
+			traits = {
+				basic_diplomat cautious 
+			}
+		}
+
+	}
+}

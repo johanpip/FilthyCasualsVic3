@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:TIB = {
+		create_character = {
+			first_name = "Gendun_Drup_I"
+			last_name = "Bro"
+			ruler = yes
+			culture = cu:tibetan
+			religion = rel:gelugpa
+			birth_date = 1816.2.20
+			traits = {
+				imperious 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X63 = {
+		create_character = {
+			first_name = "Jahangir_I"
+			last_name = "Palemonaitis"
+			ruler = yes
+			culture = cu:baltoruth
+			religion = rel:vidilist
+			birth_date = 1816.4.1
+			traits = {
+				honorable 
+			}
+		}
+
+	}
+}

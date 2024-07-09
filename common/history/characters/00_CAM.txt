@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:CAM = {
+		create_character = {
+			first_name = "Sri_Dharmaraja_I"
+			last_name = "Kratie"
+			ruler = yes
+			culture = cu:khmer
+			religion = rel:theravada
+			birth_date = 1818.2.20
+			traits = {
+				basic_diplomat cruel 
+			}
+		}
+
+	}
+}

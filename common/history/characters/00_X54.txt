@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:X54 = {
+		create_character = {
+			first_name = "Nathaniel_Balfour"
+			ruler = yes
+			culture = cu:neo-usa_north_colony-vinlander
+			religion = rel:protestant
+			birth_date = 1786.2.21
+			traits = {
+				romantic 
+			}
+		}
+
+	}
+}

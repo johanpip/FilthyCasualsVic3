@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:CMI = {
+		create_character = {
+			first_name = "Luangthipphanet_I"
+			last_name = "Lamphun"
+			ruler = yes
+			culture = cu:thai
+			religion = rel:mahayana
+			birth_date = 1815.2.20
+			traits = {
+				experienced_colonial_administrator tactful 
+			}
+		}
+
+	}
+}

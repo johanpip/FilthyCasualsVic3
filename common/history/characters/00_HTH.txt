@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:HTH = {
+		create_character = {
+			first_name = "Shin_Sawbu"
+			last_name = "Pegu"
+			female = yes
+			culture = cu:mon
+			religion = rel:mahayana
+			birth_date = 1811.7.22
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Dhammazedi"
+			last_name = "Dagon"
+			heir = yes
+			culture = cu:mon
+			religion = rel:mahayana
+			birth_date = 1836.4.6
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Smim_Sawhtut_I"
+			last_name = "Dagon"
+			ruler = yes
+			culture = cu:mon
+			religion = rel:mahayana
+			birth_date = 1818.2.20
+			traits = {
+				experienced_diplomat innovative 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:DAI = {
+		create_character = {
+			first_name = "An_V"
+			last_name = "Vu"
+			ruler = yes
+			culture = cu:vietnamese
+			religion = rel:mahayana
+			birth_date = 1818.2.20
+			traits = {
+				meticulous 
+			}
+		}
+
+	}
+}
