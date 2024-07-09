@@ -1939,12 +1939,12 @@
 				size = 312
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 2096
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 12417
 			}
@@ -3562,12 +3562,12 @@
 				size = 1820
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 711
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 903
 			}
@@ -3582,12 +3582,12 @@
 				size = 1816
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 732
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 970
 			}
@@ -3905,7 +3905,7 @@
 				size = 4
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = protestant
 				size = 13219
 			}
@@ -3916,7 +3916,7 @@
 				size = 6
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = catholic
 				size = 46779
 			}
@@ -3938,7 +3938,7 @@
 				size = 6
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = protestant
 				size = 18943
 			}
@@ -3949,7 +3949,7 @@
 				size = 8
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = catholic
 				size = 68413
 			}
@@ -5764,12 +5764,12 @@
 				size = 3898
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 2443
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 15558
 			}
@@ -5804,7 +5804,7 @@
 				size = 4430
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 414
 			}
@@ -9031,12 +9031,12 @@
 				size = 708
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 10231
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 39848
 			}
@@ -9051,12 +9051,12 @@
 				size = 165
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 2339
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 9163
 			}
@@ -9086,12 +9086,12 @@
 				size = 492
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 3246
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 15727
 			}
@@ -12544,12 +12544,12 @@
 				size = 168
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 2169
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 10348
 			}
@@ -12564,12 +12564,12 @@
 				size = 343
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 2315
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 12614
 			}
@@ -12589,12 +12589,12 @@
 				size = 504
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 4357
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 23321
 			}
@@ -14201,17 +14201,17 @@
 				size = 6455
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 1698
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = chalcedonian
 				size = 5338
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 30308
 			}
@@ -18082,12 +18082,12 @@
 				size = 13016
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = protestant
 				size = 11211
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = catholic
 				size = 63370
 			}
@@ -18146,17 +18146,17 @@
 				size = 2360
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = protestant
 				size = 1629
 			}
 			create_pop = {
-				culture = neo-peru_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 7660
 			}
 			create_pop = {
-				culture = neo-peru_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 8060
 			}
@@ -25526,12 +25526,12 @@
 				size = 3707
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = protestant
 				size = 5320
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = catholic
 				size = 19213
 			}
@@ -27503,12 +27503,12 @@
 				size = 33
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 500
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 2362
 			}
@@ -27528,12 +27528,12 @@
 				size = 32
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 272
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 1457
 			}
@@ -47071,12 +47071,12 @@
 				size = 14383
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = protestant
 				size = 11101
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = catholic
 				size = 66973
 			}
@@ -47096,12 +47096,12 @@
 				size = 18454
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = protestant
 				size = 12497
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = catholic
 				size = 81605
 			}
@@ -47131,12 +47131,12 @@
 				size = 13289
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = protestant
 				size = 11874
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = catholic
 				size = 55234
 			}
@@ -47160,17 +47160,17 @@
 				size = 2166
 			}
 			create_pop = {
-				culture = neo-peru_colony-danish
+				culture = silvmenn
 				religion = protestant
 				size = 1495
 			}
 			create_pop = {
-				culture = neo-peru_colony-marklander
+				culture = marklander
 				religion = protestant
 				size = 7031
 			}
 			create_pop = {
-				culture = neo-peru_colony-marklander
+				culture = marklander
 				religion = catholic
 				size = 7397
 			}
@@ -51584,7 +51584,7 @@
 				size = 234
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 3030
 			}
@@ -51595,7 +51595,7 @@
 				size = 6
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 14457
 			}
@@ -51661,7 +51661,7 @@
 				size = 3
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 16235
 			}
@@ -51672,7 +51672,7 @@
 				size = 33
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 68314
 			}
@@ -51694,7 +51694,7 @@
 				size = 17
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 9220
 			}
@@ -51705,7 +51705,7 @@
 				size = 19
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 43828
 			}
@@ -51735,12 +51735,12 @@
 				size = 9875
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 14788
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 54936
 			}
@@ -57423,12 +57423,12 @@
 				size = 2250
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 3053
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 12216
 			}
@@ -57438,12 +57438,12 @@
 				size = 3391
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 4606
 			}
 			create_pop = {
-				culture = neo-peru_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 18282
 			}
@@ -60275,7 +60275,7 @@
 				size = 736
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 3216
 			}
@@ -60286,7 +60286,7 @@
 				size = 2
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 18833
 			}
@@ -60302,12 +60302,12 @@
 				size = 449
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 672
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 2496
 			}
@@ -60378,7 +60378,7 @@
 				size = 98
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 1500
 			}
@@ -60389,7 +60389,7 @@
 				size = 1
 			}
 			create_pop = {
-				culture = neo-argentine_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 7082
 			}
@@ -62243,7 +62243,7 @@
 				size = 7
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 3409
 			}
@@ -62254,7 +62254,7 @@
 				size = 125
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 14905
 			}
@@ -62287,7 +62287,7 @@
 				size = 16
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 7252
 			}
@@ -62298,7 +62298,7 @@
 				size = 265
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = chalcedonian
 				size = 16421
 			}
@@ -62309,7 +62309,7 @@
 				size = 600
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 51746
 			}
@@ -62331,7 +62331,7 @@
 				size = 103
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 3458
 			}
@@ -62342,7 +62342,7 @@
 				size = 126
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 14855
 			}
@@ -62364,7 +62364,7 @@
 				size = 384
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 12202
 			}
@@ -62375,7 +62375,7 @@
 				size = 446
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 53356
 			}
@@ -62397,7 +62397,7 @@
 				size = 510
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = protestant
 				size = 6906
 			}
@@ -62408,7 +62408,7 @@
 				size = 252
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = chalcedonian
 				size = 13514
 			}
@@ -62419,7 +62419,7 @@
 				size = 494
 			}
 			create_pop = {
-				culture = neo-brazil_colony-halendingur
+				culture = silvmenn
 				religion = catholic
 				size = 75486
 			}
