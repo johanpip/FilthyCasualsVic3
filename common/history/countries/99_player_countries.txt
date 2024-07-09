@@ -251,18 +251,18 @@
 		effect_starting_technology_tier_3_tech = yes
 
         #PowerStructureLaws
-        activate_law = law_type:law_monarchy
+        activate_law = law_type:law_presidential_republic
 		activate_law = law_type:law_wealth_voting
         activate_law = law_type:law_racial_segregation
-        activate_law = law_type:law_state_religion
-		activate_law = law_type:law_appointed_bureaucrats
+        activate_law = law_type:law_state_atheism
+		activate_law = law_type:law_elected_bureaucrats
         activate_law = law_type:law_professional_army
         activate_law = law_type:law_no_home_affairs
         #EconomyLaws
         activate_law = law_type:law_agrarianism
         activate_law = law_type:law_mercantilism
         activate_law = law_type:law_per_capita_based_taxation
-		activate_law = law_type:law_serfdom
+		activate_law = law_type:law_tenant_farmers
 		activate_law = law_type:law_colonial_exploitation
         activate_law = law_type:law_local_police
         activate_law = law_type:law_no_schools
@@ -271,7 +271,7 @@
         activate_law = law_type:law_censorship
         activate_law = law_type:law_no_workers_rights
         #activate_law = law_child_labor_allowed
-        activate_law = law_type:law_womens_suffrage
+        activate_law = law_type:law_women_in_the_workplace
         activate_law = law_type:law_no_social_security
 		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_slavery_banned
