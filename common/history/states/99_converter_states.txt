@@ -503,7 +503,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:apache
-		add_homeland = cu:neo-texas_colony-vestmenn
+		add_homeland = cu:vestlander
 		add_homeland = cu:oodham
 		add_homeland = cu:pueblo
 		add_claim = c:CAL
@@ -4545,8 +4545,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:apache
-		add_homeland = cu:neo-texas_colony-stillemenn
-		add_homeland = cu:neo-texas_colony-vestmenn
+		add_homeland = cu:vestlander
 		add_homeland = cu:pueblo
 		add_claim = c:CAL
 	}
@@ -5121,7 +5120,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:metis
-		add_homeland = cu:neo-texas_colony-vestmenn
+		add_homeland = cu:vestlander
 		add_claim = c:W47
 	}
 	s:STATE_OMAN = {
@@ -6795,8 +6794,8 @@
 		}
 		add_homeland = cu:apache
 		add_homeland = cu:metis
-		add_homeland = cu:neo-texas_colony-hellulander
-		add_homeland = cu:neo-texas_colony-vestmenn
+		add_homeland = cu:hellulander
+		add_homeland = cu:vestlander
 		add_claim = c:CAL
 		add_claim = c:UCA
 		add_claim = c:W47

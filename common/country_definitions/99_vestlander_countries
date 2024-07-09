@@ -15,3 +15,11 @@ CUB = { #Caribbean Islands
 	religion = protestant
 	capital = STATE_CUBA
 }
+CAL = {
+	color = { 245 147 54 }
+	country_type = colonial
+	tier = kingdom
+	cultures = { vestlander }
+	religion = protestant
+	capital = STATE_NEW_MEXICO
+}
