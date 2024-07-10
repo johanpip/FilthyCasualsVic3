@@ -1,6 +1,7 @@
 ﻿l_english:
 #Cultures
 norn: "Nornlander"
+vestlander: "Vestlander"
 
 #Dynamic Country names
 dyn_CLM_markland: "Markland
@@ -21,3 +22,10 @@ dyn_SCO_vestland: "Hálendið"
 dyn_SCO_vestland_adj: "Hálendic"
 dyn_X65_quebek: "Occidentalia"
 dyn_X65_quebek_adj: "Occidentis"
+
+#States
+STATE_BERMUDA: "Frisland"
+STATE_HAITI: "Koffíneyja"
+STATE_CUBA: "Vínlandseyja"
+STATE_FLORIDA: "Vínland"
+STATE_GEORGIA: "Georgsland"

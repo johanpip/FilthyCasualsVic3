@@ -677,7 +677,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:norn
-		add_homeland = cu:neo-caribbean_colony-hellulander
+		add_homeland = cu:vinlander
 		add_claim = c:CUB
 		add_claim = c:WIN
 	}
@@ -699,6 +699,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:neo-mexico_colony-icelandic
+		add_homeland = cu:stillemenn
 		add_homeland = cu:oodham
 		add_claim = c:CAL
 	}
@@ -1463,7 +1464,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:hellulander
-		add_homeland = cu:neo-mexico_colony-vestmenn
+		
 		add_claim = c:CAL
 		add_claim = c:UCA
 	}
@@ -1693,7 +1694,7 @@
 			owned_provinces = { x0DA38C x152D1C x20EFEA x30B001 x4DD008 x519343 x58C211 x61FC10 x69C041 x9957D8 xA70607 xB325C7 xB48FF1 xC3EB7D xC464AE xD810EC xDCAB5D xE70FA4 xEBE1C7 xF3F2C9 xFCDEED xFE4123 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-caribbean_colony-hellulander
+		add_homeland = cu:vinlander
 		add_claim = c:CUB
 		add_claim = c:WIN
 	}
@@ -1773,7 +1774,7 @@
 			owned_provinces = { x708000 xEBA646 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:vestlander
 		add_claim = c:W47
 	}
 	s:STATE_DELHI = {
@@ -2408,7 +2409,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:metis
-		add_homeland = cu:neo-usa_south_colony-vestmenn
+		add_homeland = cu:vinlander
 		add_claim = c:W47
 	}
 	s:STATE_GHANA = {
@@ -2648,7 +2649,7 @@
 			owned_provinces = { x0E35C0 x1A20A4 x2FC1FC x4FE008 xB0B001 xC6C663 xEA2C2D }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-caribbean_colony-hellulander
+		add_homeland = cu:vinlander
 		add_claim = c:CUB
 		add_claim = c:WIN
 	}
@@ -3023,6 +3024,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:neo-usa_north_colony-icelandic
 		add_homeland = cu:siouan
+		add_homeland = cu:vinlander
 	}
 	s:STATE_IRAKAJEMI = {
 		create_state = {
@@ -3107,7 +3109,7 @@
 			owned_provinces = { x1E761E x535B49 x7070B8 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-caribbean_colony-hellulander
+		add_homeland = cu:vinlander
 		add_claim = c:CUB
 		add_claim = c:WIN
 	}
@@ -4437,6 +4439,7 @@
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:paiute
+		add_homeland = cu:vinlander
 		add_claim = c:CAL
 	}
 	s:STATE_NEJD = {
@@ -4533,7 +4536,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:franco_canadian
-		add_homeland = cu:neo-usa_north_colony-vestmenn
+		add_homeland = cu:vinlander
 	}
 	s:STATE_NEW_MEXICO = {
 		create_state = {
@@ -4610,6 +4613,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:iroquoian
 		add_homeland = cu:metis
+		add_homeland = cu:vinlander
 	}
 	s:STATE_NGARI = {
 		create_state = {
@@ -5457,6 +5461,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:iroquoian
 		add_homeland = cu:metis
+		add_homeland = cu:vinlander
 	}
 	s:STATE_PERM = {
 		create_state = {
@@ -5587,7 +5592,7 @@
 			owned_provinces = { x2160B9 xB07080 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-caribbean_colony-hellulander
+		add_homeland = cu:vinlander
 		add_claim = c:CUB
 		add_claim = c:WIN
 	}
@@ -5993,7 +5998,7 @@
 			owned_provinces = { x1785E8 x317080 x41A862 x7252EC x877F90 x907A0C x961483 xACBDD9 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-caribbean_colony-hellulander
+		add_homeland = cu:vinlander
 		add_claim = c:CUB
 		add_claim = c:WIN
 	}
@@ -7566,7 +7571,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:norn
-		add_homeland = cu:neo-caribbean_colony-hellulander
+		add_homeland = cu:vinlander
 		add_homeland = cu:neo-caribbean_colony-marklander
 		add_claim = c:CUB
 		add_claim = c:W47

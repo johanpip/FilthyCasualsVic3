@@ -11,7 +11,7 @@ CUB = { #Caribbean Islands
 	color = { 140 65 166 }
 	country_type = colonial
 	tier = principality
-	cultures = { neo-caribbean_colony-hellulander }
+	cultures = { vinlander }
 	religion = protestant
 	capital = STATE_CUBA
 }
