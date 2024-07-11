@@ -1870,7 +1870,7 @@ CUB = {
 	color = { 140 65 166 }
 	country_type = colonial
 	tier = principality
-	cultures = { neo-caribbean_colony-hellulander }
+	cultures = { vinlander }
 	religion = protestant
 	capital = STATE_CUBA
 }
@@ -2984,7 +2984,7 @@ HAI = {
 	color = { 139 179 207 }
 	country_type = colonial
 	tier = city_state
-	cultures = { neo-caribbean_colony-hellulander }
+	cultures = { norn }
 	religion = protestant
 	capital = STATE_SANTO_DOMINGO
 }
@@ -5685,7 +5685,7 @@ NBS = {
 	color = { 235 196 128 }
 	country_type = colonial
 	tier = principality
-	cultures = { anglo_canadian franco_canadian }
+	cultures = { vinlander occitois }
 	capital = STATE_NEW_BRUNSWICK
 }
 
@@ -6640,7 +6640,7 @@ QUE = {
 	color = { 194 140 86 }
 	country_type = colonial
 	tier = principality
-	cultures = { franco_canadian }
+	cultures = { occitois }
 	capital = STATE_QUEBEC
 	is_named_from_capital = yes
 }
@@ -9599,7 +9599,7 @@ X15 = {
 	color = { 169 224 64 }
 	country_type = colonial
 	tier = city_state
-	cultures = { neo-brazil_colony-betican }
+	cultures = { occetales }
 	religion = chalcedonian
 	capital = STATE_PARAIBA
 }
@@ -9617,7 +9617,7 @@ X17 = {
 	color = { 138 169 133 }
 	country_type = colonial
 	tier = city_state
-	cultures = { neo-central_america_colony-marklander }
+	cultures = { marklander }
 	religion = protestant
 	capital = STATE_NICARAGUA
 }
@@ -9635,7 +9635,7 @@ X21 = {
 	color = { 55 155 209 }
 	country_type = colonial
 	tier = city_state
-	cultures = { neo-colombia_colony-aquitaine }
+	cultures = { occitois }
 	religion = protestant
 	capital = STATE_ANTIOQUIA
 }
@@ -10004,7 +10004,7 @@ X65 = {
 	color = { 52 52 52 }
 	country_type = recognized
 	tier = principality
-	cultures = { franco_canadian }
+	cultures = { occitois }
 	religion = protestant
 	capital = STATE_QUEBEC
 }

@@ -2153,22 +2153,22 @@
 				size = 4
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 11204
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 92
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 17303
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 141
 			}
@@ -2183,22 +2183,22 @@
 				size = 21
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 4373
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 36
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 7188
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 59
 			}
@@ -2328,7 +2328,7 @@
 				size = 15
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 4279
 			}
@@ -2339,7 +2339,7 @@
 				size = 35
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 3664
 			}
@@ -3453,32 +3453,32 @@
 				size = 270
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 3700
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 132
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 21722
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 774
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 21989
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 783
 			}
@@ -3493,32 +3493,32 @@
 				size = 246
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 3810
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 136
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 19779
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 705
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 20249
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 721
 			}
@@ -3788,12 +3788,12 @@
 				size = 4617
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 3179
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 18483
 			}
@@ -5517,12 +5517,12 @@
 				size = 1639
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 35917
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 30291
 			}
@@ -5572,12 +5572,12 @@
 				size = 11045
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 25145
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 29507
 			}
@@ -5592,12 +5592,12 @@
 				size = 400
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 11854
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 17315
 			}
@@ -5607,12 +5607,12 @@
 				size = 8164
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 16189
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 23825
 			}
@@ -5779,18 +5779,18 @@
 				size = 2160
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 245
 			}
 			create_pop = {
-				culture = neo-argentine_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 1894
 			}
 			create_pop = {
-				culture = neo-argentine_colony-terraconense
-				religion = catholic
+				culture = occetales
+				religion = chalcedonian
 				size = 3043
 			}
 			create_pop = {
@@ -5809,12 +5809,12 @@
 				size = 414
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 2916
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 18519
 			}
@@ -5824,12 +5824,12 @@
 				size = 4724
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 2988
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 18568
 			}
@@ -7484,22 +7484,22 @@
 				size = 291
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 14053
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 593
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 22666
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 957
 			}
@@ -10750,12 +10750,12 @@
 				size = 4485
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 24486
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 19206
 			}
@@ -10765,12 +10765,12 @@
 				size = 9261
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 53001
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 34096
 			}
@@ -14221,12 +14221,12 @@
 				size = 6951
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 4814
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 27654
 			}
@@ -14236,12 +14236,12 @@
 				size = 6788
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 4495
 			}
 			create_pop = {
-				culture = neo-argentine_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 28136
 			}
@@ -21123,7 +21123,7 @@
 				size = 1728
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 26033
 			}
@@ -21134,7 +21134,7 @@
 				size = 3738
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 27040
 			}
@@ -21156,7 +21156,7 @@
 				size = 717
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 9047
 			}
@@ -21167,7 +21167,7 @@
 				size = 1299
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 12772
 			}
@@ -21189,7 +21189,7 @@
 				size = 296
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 3949
 			}
@@ -21200,7 +21200,7 @@
 				size = 567
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 5477
 			}
@@ -21222,7 +21222,7 @@
 				size = 292
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 3968
 			}
@@ -21233,7 +21233,7 @@
 				size = 570
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 5490
 			}
@@ -21255,7 +21255,7 @@
 				size = 821
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 11666
 			}
@@ -21266,7 +21266,7 @@
 				size = 1675
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 13259
 			}
@@ -21299,7 +21299,7 @@
 				size = 98
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 31285
 			}
@@ -21310,7 +21310,7 @@
 				size = 4492
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 22680
 			}
@@ -21332,7 +21332,7 @@
 				size = 1295
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 16667
 			}
@@ -21343,7 +21343,7 @@
 				size = 2393
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 24100
 			}
@@ -21365,7 +21365,7 @@
 				size = 411
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 5672
 			}
@@ -21376,7 +21376,7 @@
 				size = 814
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 7879
 			}
@@ -22305,22 +22305,22 @@
 				size = 12
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 19261
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 259
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 40888
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 550
 			}
@@ -22335,22 +22335,22 @@
 				size = 91
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 11977
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 161
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 22511
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 302
 			}
@@ -22365,22 +22365,22 @@
 				size = 81
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 9928
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 133
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 18907
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 254
 			}
@@ -22448,12 +22448,12 @@
 				size = 5971
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 18476
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 19350
 			}
@@ -22463,17 +22463,17 @@
 				size = 4446
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 12550
 			}
 			create_pop = {
-				culture = neo-colombia_colony-berber
-				religion = chalcedonian
+				culture = mahurin
+				religion = sunni
 				size = 5252
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 21551
 			}
@@ -22483,12 +22483,12 @@
 				size = 5719
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 19449
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 18631
 			}
@@ -22503,12 +22503,12 @@
 				size = 1383
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 45536
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 47769
 			}
@@ -22518,12 +22518,12 @@
 				size = 6649
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 18060
 			}
 			create_pop = {
-				culture = neo-colombia_colony-betican
+				culture = occetales
 				religion = protestant
 				size = 23469
 			}
@@ -33814,7 +33814,7 @@
 				size = 16787
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 72513
 			}
@@ -33829,7 +33829,7 @@
 				size = 1639
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 78443
 			}
@@ -33844,7 +33844,7 @@
 				size = 1023
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 40824
 			}
@@ -33859,7 +33859,7 @@
 				size = 791
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 34612
 			}
@@ -33869,7 +33869,7 @@
 				size = 7466
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 40905
 			}
@@ -33889,7 +33889,7 @@
 				size = 2094
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 65452
 			}
@@ -34568,7 +34568,7 @@
 				size = 40
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 17185
 			}
@@ -34579,7 +34579,7 @@
 				size = 1519
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 14437
 			}
@@ -34612,7 +34612,7 @@
 				size = 7
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 3868
 			}
@@ -34623,7 +34623,7 @@
 				size = 342
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 2804
 			}
@@ -34645,7 +34645,7 @@
 				size = 810
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 16382
 			}
@@ -34656,7 +34656,7 @@
 				size = 1448
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 26764
 			}
@@ -34689,7 +34689,7 @@
 				size = 46
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 10900
 			}
@@ -34700,7 +34700,7 @@
 				size = 963
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 12662
 			}
@@ -34733,7 +34733,7 @@
 				size = 21
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 4042
 			}
@@ -34744,7 +34744,7 @@
 				size = 357
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 6032
 			}
@@ -34777,7 +34777,7 @@
 				size = 126
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 1564
 			}
@@ -34788,7 +34788,7 @@
 				size = 138
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 32257
 			}
@@ -34799,7 +34799,7 @@
 				size = 2852
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 23055
 			}
@@ -35075,7 +35075,7 @@
 				size = 171
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 509
 			}
@@ -35086,7 +35086,7 @@
 				size = 19
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 3934
 			}
@@ -35097,7 +35097,7 @@
 				size = 150
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 6319
 			}
@@ -35361,7 +35361,7 @@
 				size = 10
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 7231
 			}
@@ -35372,7 +35372,7 @@
 				size = 276
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 9882
 			}
@@ -35394,7 +35394,7 @@
 				size = 73
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 3490
 			}
@@ -35405,7 +35405,7 @@
 				size = 133
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 5195
 			}
@@ -35427,7 +35427,7 @@
 				size = 79
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 3192
 			}
@@ -35438,7 +35438,7 @@
 				size = 122
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 5345
 			}
@@ -35471,7 +35471,7 @@
 				size = 5
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 3400
 			}
@@ -35482,7 +35482,7 @@
 				size = 130
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 5206
 			}
@@ -36452,12 +36452,12 @@
 				size = 11322
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 30419
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 28337
 			}
@@ -36482,12 +36482,12 @@
 				size = 5278
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 15392
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 14369
 			}
@@ -36497,12 +36497,12 @@
 				size = 9838
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 20258
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 26842
 			}
@@ -36512,12 +36512,12 @@
 				size = 17473
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 53210
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 43192
 			}
@@ -36527,12 +36527,12 @@
 				size = 1633
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 5580
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 5927
 			}
@@ -36542,12 +36542,12 @@
 				size = 2051
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 5102
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 5987
 			}
@@ -36557,12 +36557,12 @@
 				size = 5140
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 14808
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 15092
 			}
@@ -36572,12 +36572,12 @@
 				size = 546
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 1081
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 1501
 			}
@@ -37125,22 +37125,22 @@
 				size = 262
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 15851
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 319
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 52704
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 1060
 			}
@@ -39781,7 +39781,7 @@
 				size = 2824
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 12253
 			}
@@ -39791,7 +39791,7 @@
 				size = 6745
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 28434
 			}
@@ -39801,7 +39801,7 @@
 				size = 4263
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 18352
 			}
@@ -39813,7 +39813,7 @@
 				size = 2786
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 19829
 			}
@@ -39823,7 +39823,7 @@
 				size = 2601
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 20014
 			}
@@ -39833,7 +39833,7 @@
 				size = 3294
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 24347
 			}
@@ -39847,7 +39847,7 @@
 				size = 3930
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 25837
 			}
@@ -39857,7 +39857,7 @@
 				size = 16595
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 113635
 			}
@@ -39867,7 +39867,7 @@
 				size = 4620
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 25147
 			}
@@ -39877,7 +39877,7 @@
 				size = 6377
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 30832
 			}
@@ -39887,7 +39887,7 @@
 				size = 6828
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 37822
 			}
@@ -39912,7 +39912,7 @@
 				size = 809
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 36982
 			}
@@ -39927,7 +39927,7 @@
 				size = 676
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 40142
 			}
@@ -39937,7 +39937,7 @@
 				size = 10995
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 55980
 			}
@@ -39947,7 +39947,7 @@
 				size = 19971
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 132584
 			}
@@ -39962,7 +39962,7 @@
 				size = 1115
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 46281
 			}
@@ -39981,7 +39981,7 @@
 				size = 2214
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 61136
 			}
@@ -40006,7 +40006,7 @@
 				size = 767
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 64253
 			}
@@ -40021,7 +40021,7 @@
 				size = 444
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 20258
 			}
@@ -40050,7 +40050,7 @@
 				size = 1252
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 47535
 			}
@@ -44742,7 +44742,7 @@
 				size = 2890
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 29083
 			}
@@ -46599,7 +46599,7 @@
 				size = 30
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 17108
 			}
@@ -46610,8 +46610,8 @@
 				size = 152
 			}
 			create_pop = {
-				culture = neo-brazil_colony-visigothic
-				religion = chalcedonian
+				culture = mahurin
+				religion = shiite
 				size = 2518
 			}
 			create_pop = {
@@ -46621,7 +46621,7 @@
 				size = 22
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 14884
 			}
@@ -46643,7 +46643,7 @@
 				size = 10
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 3222
 			}
@@ -46654,7 +46654,7 @@
 				size = 29
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 3676
 			}
@@ -46676,7 +46676,7 @@
 				size = 8
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 2128
 			}
@@ -46687,7 +46687,7 @@
 				size = 19
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 2978
 			}
@@ -46709,7 +46709,7 @@
 				size = 30
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 7618
 			}
@@ -46720,7 +46720,7 @@
 				size = 68
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 10968
 			}
@@ -46742,7 +46742,7 @@
 				size = 8
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 2075
 			}
@@ -46753,7 +46753,7 @@
 				size = 18
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 2999
 			}
@@ -46775,7 +46775,7 @@
 				size = 30
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 7903
 			}
@@ -46786,7 +46786,7 @@
 				size = 70
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 6723
 			}
@@ -46808,7 +46808,7 @@
 				size = 41
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 11767
 			}
@@ -46819,7 +46819,7 @@
 				size = 105
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 13522
 			}
@@ -46841,7 +46841,7 @@
 				size = 13
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 7099
 			}
@@ -46852,8 +46852,8 @@
 				size = 63
 			}
 			create_pop = {
-				culture = neo-brazil_colony-berber
-				religion = chalcedonian
+				culture = mahurin
+				religion = sunni
 				size = 958
 			}
 			create_pop = {
@@ -46863,7 +46863,7 @@
 				size = 9
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 6467
 			}
@@ -46890,22 +46890,22 @@
 				size = 2608
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 16328
 			}
 			create_pop = {
-				culture = neo-brazil_colony-berber
-				religion = catholic
+				culture = mahurin
+				religion = sunni
 				size = 1928
 			}
 			create_pop = {
-				culture = neo-brazil_colony-berber
-				religion = chalcedonian
+				culture = mahurin
+				religion = shiite
 				size = 1325
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 12850
 			}
@@ -46915,17 +46915,17 @@
 				size = 2375
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 15077
 			}
 			create_pop = {
-				culture = neo-brazil_colony-visigothic
-				religion = chalcedonian
+				culture = mahurin
+				religion = sunni
 				size = 216
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 12991
 			}
@@ -46945,7 +46945,7 @@
 				size = 1452
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 6782
 			}
@@ -46956,7 +46956,7 @@
 				size = 933
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 44265
 			}
@@ -46978,7 +46978,7 @@
 				size = 520
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 13281
 			}
@@ -46989,7 +46989,7 @@
 				size = 1826
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 13738
 			}
@@ -47011,7 +47011,7 @@
 				size = 507
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 7763
 			}
@@ -47022,7 +47022,7 @@
 				size = 1068
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 11656
 			}
@@ -47762,12 +47762,12 @@
 				size = 8779
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 48309
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 34889
 			}
@@ -47797,12 +47797,12 @@
 				size = 702
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 39543
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 31963
 			}
@@ -47812,12 +47812,12 @@
 				size = 3829
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 28378
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 20350
 			}
@@ -47827,17 +47827,17 @@
 				size = 2375
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = chalcedonian
 				size = 15077
 			}
 			create_pop = {
-				culture = neo-brazil_colony-visigothic
-				religion = chalcedonian
+				culture = mahurin
+				religion = sunni
 				size = 216
 			}
 			create_pop = {
-				culture = neo-brazil_colony-betican
+				culture = occetales
 				religion = catholic
 				size = 12991
 			}
@@ -47987,7 +47987,7 @@
 				size = 155
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 33974
 			}
@@ -47998,7 +47998,7 @@
 				size = 3543
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 29270
 			}
@@ -48031,7 +48031,7 @@
 				size = 7
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 4302
 			}
@@ -48042,7 +48042,7 @@
 				size = 449
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 6087
 			}
@@ -48064,7 +48064,7 @@
 				size = 937
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 17075
 			}
@@ -48075,7 +48075,7 @@
 				size = 1781
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 25502
 			}
@@ -49195,7 +49195,7 @@
 				size = 4263
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 18585
 			}
@@ -49215,7 +49215,7 @@
 				size = 17
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 21108
 			}
@@ -49240,7 +49240,7 @@
 				size = 894
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 3676
 			}
@@ -49340,7 +49340,7 @@
 				size = 2220
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 9966
 			}
@@ -49350,7 +49350,7 @@
 				size = 1646
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 7493
 			}
@@ -49360,7 +49360,7 @@
 				size = 3586
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 17739
 			}
@@ -49380,7 +49380,7 @@
 				size = 265
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 8761
 			}
@@ -49425,7 +49425,7 @@
 				size = 990
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 21233
 			}
@@ -49443,7 +49443,7 @@
 				size = 2479
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 12753
 			}
@@ -49478,7 +49478,7 @@
 				size = 2565
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 11144
 			}
@@ -49493,7 +49493,7 @@
 				size = 307
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 12760
 			}
@@ -49508,7 +49508,7 @@
 				size = 296
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 11772
 			}
@@ -50418,12 +50418,12 @@
 				size = 4600
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 17225
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 17594
 			}
@@ -50433,18 +50433,18 @@
 				size = 8393
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 1683
 			}
 			create_pop = {
-				culture = neo-brazil_colony-berber
+				culture = mahurin
 				religion = sunni
 				size = 47623
 			}
 			create_pop = {
-				culture = neo-brazil_colony-berber
-				religion = catholic
+				culture = mahurin
+				religion = sunni
 				size = 34279
 			}
 		}
@@ -50616,12 +50616,12 @@
 				size = 6304
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 32757
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 22257
 			}
@@ -50635,12 +50635,12 @@
 				size = 8666
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 7258
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 41015
 			}
@@ -50650,17 +50650,17 @@
 				size = 6069
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 2367
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 34778
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 4964
 			}
@@ -50670,12 +50670,12 @@
 				size = 4375
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 2940
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 18965
 			}
@@ -51451,7 +51451,7 @@
 				size = 127
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 8082
 			}
@@ -51462,7 +51462,7 @@
 				size = 104
 			}
 			create_pop = {
-				culture = neo-brazil_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 46874
 			}
@@ -51844,13 +51844,13 @@
 				size = 244
 			}
 			create_pop = {
-				culture = neo-caribbean_colony-berber
-				religion = catholic
+				culture = mahurin
+				religion = sunni
 				size = 2337
 			}
 			create_pop = {
-				culture = neo-caribbean_colony-berber
-				religion = protestant
+				culture = mahurin
+				religion = shiite
 				size = 1769
 			}
 			create_pop = {
@@ -51882,12 +51882,12 @@
 				size = 2934
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 11451
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 11894
 			}
@@ -51897,12 +51897,12 @@
 				size = 4663
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 17301
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 17455
 			}
@@ -51912,12 +51912,12 @@
 				size = 8561
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 27173
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 29964
 			}
@@ -51927,12 +51927,12 @@
 				size = 2171
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = chalcedonian
 				size = 4335
 			}
 			create_pop = {
-				culture = neo-brazil_colony-terraconense
+				culture = occetales
 				religion = catholic
 				size = 6634
 			}
@@ -62957,7 +62957,7 @@
 				size = 402
 			}
 			create_pop = {
-				culture = franco_canadian
+				culture = occitois
 				religion = chalcedonian
 				size = 58536
 			}
@@ -68241,22 +68241,22 @@
 				size = 167
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 21165
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 394
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 34385
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 641
 			}
@@ -68281,22 +68281,22 @@
 				size = 20
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 9699
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 181
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 55250
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 1029
 			}
@@ -68311,22 +68311,22 @@
 				size = 229
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 14389
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 268
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 50729
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 945
 			}
@@ -68351,22 +68351,22 @@
 				size = 34
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 7646
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 142
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 39650
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 738
 			}
@@ -68455,32 +68455,32 @@
 				size = 247
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 14203
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 265
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 38676
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 721
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 41379
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 771
 			}
@@ -68495,32 +68495,32 @@
 				size = 116
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 4499
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = chalcedonian
 				size = 84
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 19571
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = protestant
 				size = 365
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 21291
 			}
 			create_pop = {
-				culture = neo-colombia_colony-aquitaine
+				culture = occitois
 				religion = catholic
 				size = 397
 			}

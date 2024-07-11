@@ -346,7 +346,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:amazonian
-		add_homeland = cu:neo-brazil_colony-betican
+		add_homeland = cu:occetales
 		add_claim = c:CLM
 		add_claim = c:X24
 	}
@@ -422,7 +422,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:muisca
-		add_homeland = cu:neo-colombia_colony-aquitaine
+		add_homeland = cu:occitois
 		add_homeland = cu:marklander
 		add_claim = c:CLM
 		add_claim = c:X26
@@ -467,7 +467,7 @@
 			owned_provinces = { x029AC8 x06CB06 x08DC28 x0D35DB x10C0D0 x1205C7 x144683 x15DC6A x1BC85D x1C63CA x1C93E4 x1ECBB0 x2238F2 x234A11 x239726 x26952C x2D500A x2EED5C x30E010 x32A3EF x350B0F x3618F8 x3677CF x373F8E x38CA10 x397FCF x3B77C3 x3C48C5 x3E636E x3F684C x41362A x45155F x4A805F x4CF080 x521B0A x553B3F x5550B3 x572ADE x57B39E x5888F2 x592AB4 x5A2781 x5A7430 x5BA7C2 x5D6B95 x5EE5BA x5F5474 x62F8C0 x635DF1 x67124D x6A1AA0 x6ACA62 x6B4507 x6C5ABF x6E53D4 x6F282B x706090 x76A4B1 x774C99 x78955F x7A0796 x7A3051 x7F712C x86C279 x8A5623 x8C10F7 x8C193E x8D3309 x8DFAB2 x92226D x972B02 x977A70 x9806EE x9820A3 x9A65E7 x9C5DD8 x9EF738 xA2F65A xA44376 xA5B2DA xA78819 xA8029D xA86344 xA9B0FB xAB76FA xAE5924 xB0E010 xB0E4AA xB180F2 xB2743E xB3A09E xB451D6 xB6AC81 xB77DB2 xB79F3F xB8B2B8 xB938AE xBDED9A xBFA411 xC3285E xC408A8 xC42462 xC544F3 xC61D1A xC9CE36 xCA8971 xCC30AA xD2DD34 xD2FCCD xD48CEB xD7C0DF xD88028 xDE5B96 xE08DF2 xE0D7C4 xE4E0A7 xE4FCDC xEC5162 xEEF132 xEF695A xEFB409 xF4A0DA xFA990A xFC375D xFD0582 xFF3CFE }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-argentine_colony-aquitaine
+		add_homeland = cu:occitois
 		add_homeland = cu:platinean
 		add_claim = c:PAT
 	}
@@ -688,7 +688,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:je
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occetales
 		add_homeland = cu:tupinamba
 		add_claim = c:X24
 	}
@@ -719,7 +719,7 @@
 			owned_provinces = { x088648 x0B832C x0E946E x0F5F2B x0FC5DF x1DCC94 x2594A3 x334783 x361EE6 x3674BC x369F44 x4DC624 x4F8725 x5A795B x651796 x73B395 x8D0A9E x9CDC33 xB63BAD xB74540 xBF51C8 xC4AB87 xCB6C17 xCCC385 xCD1E44 xCD1FE6 xCD9F44 xF4DD1F xF72535 xFBD28B xFCD325 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-argentine_colony-aquitaine
+		add_homeland = cu:occitois
 		add_homeland = cu:silvmenn
 		add_homeland = cu:platinean
 		add_claim = c:PAT
@@ -916,7 +916,7 @@
 		add_homeland = cu:afro_caribeno
 		add_homeland = cu:amazonian
 		add_homeland = cu:cariban
-		add_homeland = cu:neo-colombia_colony-betican
+		add_homeland = cu:occetales
 		add_homeland = cu:marklander
 		add_homeland = cu:north_andean
 		add_homeland = cu:waroid
@@ -1299,8 +1299,8 @@
 			owned_provinces = { x032EA0 x0A925F x0CB7A9 x0DFF9A x140E0C x23A1AB x2B8A36 x3AE396 x469A7C x4C763A x50BC85 x510F08 x67D67F x72A418 x835C1F x85E12F x915F53 x9C9F0B xA202FC xA28EF1 xA6BA83 xBE1280 xCB19E2 xD54255 xD95159 xE04111 xE29237 xED5CF9 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-betican
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occetales
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_CELEBES = {
@@ -1634,7 +1634,7 @@
 			owned_provinces = { x06F100 x092C5E x0EF9D4 x238A1A x4AC29E x55BC51 x64BE0D x759354 x778AFC x7D7684 x7EB6F0 x84FBF5 x910C5C x92BEE9 x988988 x9A6092 x9C2131 xA5787E xAAAE72 xAAE517 xB196C3 xBCA186 xCD9FE6 xD099E7 xDDA329 xE6CEFA xF07AA3 xF3F73C xFB9D5C }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-argentine_colony-aquitaine
+		add_homeland = cu:occitois
 		add_homeland = cu:silvmenn
 		add_claim = c:PAT
 	}
@@ -2427,7 +2427,7 @@
 			owned_provinces = { x030718 x0335B6 x045CE0 x087FD3 x0A9917 x12E97B x14A9B7 x184B61 x1D51EE x204F5F x22CF25 x266D5E x2694E0 x26A74D x28361D x28B344 x28C4BB x29DE5E x2A7D3A x2C715A x2EDF1D x2F75E0 x30692A x353CC4 x35B9A6 x364382 x37E1AD x3A3D31 x3F707A x409F30 x424959 x47CAD2 x48E459 x4C4DCE x5022D9 x537644 x5433F8 x5592E6 x57B1CF x57F295 x593E5A x5C0902 x5C3AFC x5F1A82 x5F8837 x63E255 x6526AF x65A627 x66894C x66F3B6 x687432 x68CC1F x695BDD x6D14BD x75C440 x774C4A x7C0E6D x7CD983 x7DEBF8 x7EE37D x807EC6 x881C3F x891E70 x8985ED x8A7AE1 x8B2ADA x8CB3DA x8D3998 x8ED5C9 x92BC48 x93C71F x94E0A3 x9732AB x990CED xA02D57 xA04190 xA2A177 xA59A91 xB222D4 xB518E9 xB7A07A xB914E5 xBB0697 xBB5AB2 xBD890D xBE2D5E xBE9939 xBFE7B6 xC0126C xC2B97E xC42C8F xC4B006 xC7D39A xC8814C xC8AD6E xC9A5A3 xD4E7CE xD5ADF0 xD6276C xD8EFD5 xDD0A20 xDD4517 xDDAD82 xDF0733 xE40A29 xE4A7DA xE4F5E4 xEB754C xEDC084 xEE4885 xEE95C4 xF01E32 xF41C9C xF75947 xF7FAF1 xFF81EE }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_GONDER = {
@@ -2554,7 +2554,7 @@
 		add_homeland = cu:amazonian
 		add_homeland = cu:lokono
 		add_homeland = cu:muisca
-		add_homeland = cu:neo-colombia_colony-betican
+		add_homeland = cu:occetales
 		add_homeland = cu:marklander
 		add_homeland = cu:north_andean
 		add_claim = c:CLM
@@ -2571,7 +2571,7 @@
 			owned_provinces = { x518580 x6816FF x6C6251 x805A8C x8E31E8 xA350D5 xD0BA2B xE7864B }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-colombia_colony-betican
+		add_homeland = cu:occetales
 		add_homeland = cu:marklander
 		add_claim = c:CLM
 		add_claim = c:X26
@@ -3889,7 +3889,7 @@
 			owned_provinces = { x1CA7B0 x1E33E8 x262924 x441473 x54816B x5806F4 x59DEDF x6AE419 x6B3A42 x6E757B x7182E8 x8243C0 x8F9450 x990681 xA5DE9D xB04040 xBD7C03 xC2B02B xC4CDFC xD64964 xD68A28 xEFC355 xF080C0 xF2502E xFB9715 xFBEDD6 xFCFF52 }
 			state_type = incorporated
 		}
-		add_homeland = cu:franco_canadian
+		add_homeland = cu:occitois
 	}
 	s:STATE_MAINE_ANJOU = {
 		create_state = {
@@ -3946,8 +3946,8 @@
 			owned_provinces = { x011074 x03E724 x043AE5 x06800E x0C8E72 x0DB9D9 x0E45FF x0E5A68 x21C011 x2769F6 x2941C6 x2C4A14 x2EABC5 x3BD188 x4081F6 x424458 x4987DB x4F2FCD x5634E8 x57302A x576777 x57D797 x592F89 x5D6D8D x613F23 x62EDC5 x739075 x75B6DF x7B9800 x7DBD66 x80C250 x89E132 x8C3D2C x8CF9DE x8D0EDA x8FB7B0 x90FE1E xA0C011 xA48AAE xA4CA4C xA4F6C2 xB1EFA7 xB3940F xBA0107 xBA9C2C xC6ECAE xC88B1C xCC5915 xCC8A8A xCD6634 xD81DE8 xDAA149 xE38165 xE3C781 xE3D369 xECA636 xF89BE4 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-betican
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occetales
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_MARRAKECH = {
@@ -4017,7 +4017,7 @@
 		add_homeland = cu:brazilian
 		add_homeland = cu:guarani
 		add_homeland = cu:je
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occetales
 		add_homeland = cu:platinean
 		add_claim = c:PAT
 		add_claim = c:SPU
@@ -4153,7 +4153,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:je
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_MINDANAO = {
@@ -4203,7 +4203,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:guajiro
-		add_homeland = cu:neo-colombia_colony-aquitaine
+		add_homeland = cu:occitois
 		add_homeland = cu:marklander
 		add_claim = c:CLM
 		add_claim = c:X26
@@ -4508,7 +4508,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:anglo_canadian
 		add_homeland = cu:cree
-		add_homeland = cu:franco_canadian
+		add_homeland = cu:occitois
 		add_homeland = cu:inuit
 		add_claim = c:W47
 	}
@@ -4518,7 +4518,7 @@
 			owned_provinces = { x082153 x085C83 x20CF66 x326F36 x380F20 x406FBA x484A09 x493CD4 x4D9EEE x5A0CA8 x62FC6A x63E1C4 x66DFE7 x6B5822 x7040C0 x70A0CE x70C040 x71A015 x740012 x8060C0 x80AA26 x8CFA32 x8E553E x8ED253 x905458 x99CA75 xB95DB3 xBB0F05 xC060C0 xC91FD7 xCA0399 xD090A6 xDE0FD5 xE4892F xEAFA99 xEC5B4B xEE2FFF xF01C37 xF04040 xF95D47 }
 			state_type = incorporated
 		}
-		add_homeland = cu:franco_canadian
+		add_homeland = cu:occitois
 		add_homeland = cu:metis
 	}
 	s:STATE_NEW_HAMPSHIRE = {
@@ -4527,7 +4527,7 @@
 			owned_provinces = { x1DC591 x2B5499 x30C040 x3E6BAD x92CF0F xB16D83 xBB7965 xD871BE xDB930D }
 			state_type = incorporated
 		}
-		add_homeland = cu:franco_canadian
+		add_homeland = cu:occitois
 	}
 	s:STATE_NEW_JERSEY = {
 		create_state = {
@@ -4535,7 +4535,7 @@
 			owned_provinces = { x503169 x552873 x716F90 xA14B4E xF00000 }
 			state_type = incorporated
 		}
-		add_homeland = cu:franco_canadian
+		add_homeland = cu:occitois
 		add_homeland = cu:vinlander
 	}
 	s:STATE_NEW_MEXICO = {
@@ -5156,7 +5156,7 @@
 		add_homeland = cu:algonquian
 		add_homeland = cu:anglo_canadian
 		add_homeland = cu:cree
-		add_homeland = cu:franco_canadian
+		add_homeland = cu:occitois
 		add_homeland = cu:iroquoian
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-vestmenn
@@ -5355,8 +5355,9 @@
 		add_homeland = cu:cariban
 		add_homeland = cu:je
 		add_homeland = cu:lokono
-		add_homeland = cu:neo-brazil_colony-betican
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:mahurin
+		add_homeland = cu:occetales
+		add_homeland = cu:occetales
 		add_homeland = cu:tupinamba
 		add_claim = c:X24
 	}
@@ -5366,7 +5367,7 @@
 			owned_provinces = { x1A2590 x516DE8 x594558 x5F988B xA00150 xB20898 xCCF195 xEF30C9 xF7C27D }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-betican
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_PARANA = {
@@ -5375,8 +5376,8 @@
 			owned_provinces = { x003689 x01887B x1340B9 x1CF076 x1D2749 x32FF03 x38FE72 x3A6B08 x3B0630 x44FB4A x492CDF x535BBC x53CD15 x5A3B50 x5CDB1F x666C0F x6806EF x6A63A4 x6B95AD x7B795B x859E23 x8A1D55 x946DFF x966EB0 x9A966C xA30827 xA7D75D xAAF4D8 xB6F7AD xB989FC xB9F1A1 xBACBB5 xC4A130 xC550D6 xC8530D xDB9540 xDF9E45 xE122FE xE80B69 xE9A1A3 xF98F63 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-aquitaine
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occitois
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_PASHTUNISTAN = {
@@ -5478,7 +5479,7 @@
 			owned_provinces = { x0973C9 x0E7CA9 x0F585E x0FC0EC x102F7B x124BA3 x1A21F3 x218050 x26F1F5 x30CFD0 x344DF2 x3A24E6 x3DBD72 x4C7639 x5408F3 x60C011 x69F57B x6BB748 x756819 x781B63 x7BA55B x8941F9 x8ED4A6 x937969 xA04868 xA08050 xC0A070 xC4D392 xFAA9EB }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-betican
+		add_homeland = cu:occetales
 		add_homeland = cu:tupinamba
 		add_claim = c:X24
 	}
@@ -5497,7 +5498,7 @@
 			owned_provinces = { x042D0E x044CF8 x07B5EB x0BDBE6 x0DE512 x14F661 x189F0F x21C090 x361174 x506683 x52B7ED x584067 x66681E x68A97F x69BE90 x735527 x772A8C x7DCBC3 x83E18C x8564C7 x88F401 x89AFD6 x8A4B48 x8DF511 x91AB15 x920A8F xA0C090 xA33C32 xA4E24B xA8B0C0 xA9AA6B xAB0B29 xAB18E1 xB169D2 xB355EE xB5C4BF xB634E7 xB831D5 xC688FC xC74E19 xCA2BC6 xCE40A2 xCE8F26 xD621B3 xDA2527 xDCFBF2 xE39C8B xF07D68 xF58072 xF71214 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_PICARDY = {
@@ -5688,7 +5689,7 @@
 		}
 		add_homeland = cu:algonquian
 		add_homeland = cu:cree
-		add_homeland = cu:franco_canadian
+		add_homeland = cu:occitois
 		add_homeland = cu:inuit
 		add_homeland = cu:metis
 		add_homeland = cu:neo-canada_colony-vestmenn
@@ -5816,8 +5817,8 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:je
-		add_homeland = cu:neo-brazil_colony-berber
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:mahurin
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_RIO_GRANDE = {
@@ -5838,7 +5839,7 @@
 			owned_provinces = { x37F7DE x563E55 x5DCFF3 x604190 x6E0A83 xAD0128 xB1D72A xDC9F66 xED0C0B }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_RIO_GRANDE_DO_SUL = {
@@ -5847,7 +5848,7 @@
 			owned_provinces = { x00E2C3 x036508 x0445FE x067BE3 x118F07 x161E6F x16C462 x1956D3 x19E79D x22956B x26F3A4 x38328C x38A72A x45B9DF x48F668 x4BBCCC x4EF206 x529B8E x52B247 x583BA0 x5F39AB x5F9728 x628161 x633FB2 x6E0564 x7600E6 x7678F5 x782568 x783434 x7DEC91 x7F701B x8953B5 x8A15FA x8E3579 x8F1635 x9A598B x9BDDA2 x9D8150 x9FE393 xA41E15 xA787A2 xA950E8 xB88B11 xBEAF68 xC7E5A1 xCC2135 xCD5D1E xCD9ECD xD3A197 xD8696A xD9D235 xE17D15 xE5C3BD xE69F64 xE761EB xE933B3 xED55D2 xF0F96F xF1B2D9 xFF2920 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-aquitaine
+		add_homeland = cu:occitois
 		add_claim = c:X24
 	}
 	s:STATE_RIO_NEGRO = {
@@ -5954,7 +5955,7 @@
 			owned_provinces = { x02483B x06999F x09803F x2DA91C x3066EF x4538A5 x600573 x8A5C63 x8D6AA3 x9937ED x9DE26B xA57238 xA88387 xC550DC xC7B370 xDF5E13 xEB0D5F xEDCD15 xF3F10A xF6A625 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-aquitaine
+		add_homeland = cu:occitois
 		add_claim = c:X24
 	}
 	s:STATE_SANTA_CRUZ = {
@@ -6017,7 +6018,7 @@
 			owned_provinces = { x09198A x1870F2 x21316A x23A418 x27403E x283F5F x298D6C x317917 x31F83B x479986 x53877A x53CD89 x544559 x567C72 x5C09B3 x5C709E x66900C x67A607 x68DC5F x6AE592 x6D7A94 x727D50 x78C1FA x7EE747 x803B36 x81DA8F x8D426B x8FB3D6 x94E2E8 x9C9A53 x9D3688 x9EAC59 x9FCD15 xA03AAD xA0E429 xA1C66C xB450CA xB57BC4 xB854DD xB9F859 xBF9DEB xC06C0B xC59376 xC5C85C xC87548 xCD7B15 xCF1240 xD2EC89 xD35977 xD62837 xD7EC24 xDA0243 xDA3977 xE0C50E xEF2FE4 xFCB8BC }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-brazil_colony-terraconense
+		add_homeland = cu:occetales
 		add_claim = c:X24
 	}
 	s:STATE_SARDINIA = {
@@ -7305,7 +7306,7 @@
 			owned_provinces = { x142566 x30F1AF x34FFC4 x38CCDA x3FA10D xB0C040 }
 			state_type = incorporated
 		}
-		add_homeland = cu:franco_canadian
+		add_homeland = cu:occitois
 		add_homeland = cu:metis
 	}
 	s:STATE_VICTORIA = {
@@ -7993,7 +7994,7 @@
 			owned_provinces = { x3B3F04 x73C5F1 x922DCE x9EB190 xEF3001 }
 			state_type = incorporated
 		}
-		add_homeland = cu:neo-colombia_colony-aquitaine
+		add_homeland = cu:occitois
 		add_homeland = cu:neo-colombia_colony-hellulander
 		add_homeland = cu:marklander
 		add_homeland = cu:north_andean

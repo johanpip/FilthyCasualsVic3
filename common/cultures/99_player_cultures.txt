@@ -59,3 +59,109 @@ occetales = {
 	}
 	graphics = european
 }
+mahurin = { #American berbers, phoenician for Westerners, origin of the word Moors
+	color= hsv{ 0.32 0.58 0.30 }
+	traits = { arab_speaking middle_eastern_heritage }
+	religion = sunni
+	male_common_first_names={
+		Abd_Allah
+		Abd_al-Karim
+		Abd_al-Malik
+		Abd_al-Qadir
+		Abd_al-Rahman
+		Ahmad
+		Ali
+		Fawzi
+		Fuad
+		Halil
+		Hasan
+		Hisham
+		Ibrahim
+		Ishaq
+		Iskandar
+		Jamal
+		Kamil
+		Khalid
+		Mahmud
+		Muhammad
+		Mustafa
+		Nur_al-Din
+		Sa_d_al-Din
+		Salim
+		Shukri
+		Tawfiq
+		Umar
+		Uthman
+		Yahya
+		Yusuf
+		Zafir
+	}
+	female_common_first_names = {
+		Aicha
+		Amina
+		Batoul
+		Fadhma
+		Nadia
+		Souhila
+		Touria
+		Zina
+	}	
+	noble_last_names = {
+		al-Alawi
+		ben_Gana
+		Benaissa
+		Djellouli
+		El_Djezairi
+	}
+	common_last_names={
+		al-Annabi
+		al-Araishi
+		al-Asfawi
+		al-Binzarti
+		al-Fasi
+		al-Gharyani
+		al-Jaza_iri
+		al-Miknasi
+		al-Misurati
+		al-Murrakushi
+		al-Qabisi
+		al-Qayrawani
+		al-Ribati
+		al-Safaqisi
+		al-Silawi
+		al-Sirti
+		al-Susawi
+		al-Tanjawi
+		al-Tatwani
+		al-Tilimsani
+		al-Trablusi
+		al-Tunusi
+		al-Wahrani
+		al-Warqali
+		al-Wujdi
+		ibm_Kamil
+		ibn_Abd_Allah
+		ibn_Abd_al-Qadir
+		ibn_Abu_Bakr
+		ibn_Ahmad
+		ibn_Ali
+		ibn_Fuad
+		ibn_Halil
+		ibn_Hasan
+		ibn_Hisham
+		ibn_Ishaq
+		ibn_Ja_far
+		ibn_Khalid
+		ibn_Muhammad
+		ibn_Mustafa
+		ibn_Salim
+		ibn_Umar
+		ibn_Uthman
+		ibn_Yusuf
+		Deneche
+	}
+	ethnicities = {
+		1 = arab
+	}
+	graphics = arabic
+}
