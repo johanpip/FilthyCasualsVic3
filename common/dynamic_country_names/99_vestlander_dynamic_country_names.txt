@@ -1,0 +1,203 @@
+﻿CLM = { #Markland
+	dynamic_country_name = {
+		name = dyn_CLM_markland # This can be left empty, and then default tag name will be used
+		adjective = dyn_CLM_markland_adj # This can be left empty, and then default tag adjective will be used
+
+		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+		priority = 99 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+		
+		trigger = { # Scripted trigger, country-scope
+			
+			scope:actor = { 
+				any_scope_state = {
+					is_incorporated = yes
+					OR = {
+						state_is_in_north_america = yes
+						state_is_in_central_america = yes
+                        state_is_in_south_america = yes
+					}
+					count > 1
+				}
+			}
+		}
+	}
+}
+UCA = { #Helluland
+	dynamic_country_name = {
+		name = dyn_UCA_helluland # This can be left empty, and then default tag name will be used
+		adjective = dyn_UCA_helluland_adj # This can be left empty, and then default tag adjective will be used
+
+		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+		priority = 99 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+		
+		trigger = { # Scripted trigger, country-scope
+			
+			scope:actor = { 
+				any_scope_state = {
+					is_incorporated = yes
+					OR = {
+						state_is_in_north_america = yes
+						state_is_in_central_america = yes
+                        state_is_in_south_america = yes
+					}
+					count > 1
+				}
+			}
+		}
+	}	
+}
+CAL = { #Stilland
+	dynamic_country_name = {
+		name = dyn_CAL_stilland # This can be left empty, and then default tag name will be used
+		adjective = dyn_CAL_stilland_adj # This can be left empty, and then default tag adjective will be used
+
+		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+		priority = 99 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+		
+		trigger = { # Scripted trigger, country-scope
+			coa_def_monarchy_flag_trigger = yes
+			scope:actor = { 
+				any_scope_state = {
+					is_incorporated = yes
+					OR = {
+						state_is_in_north_america = yes
+						state_is_in_central_america = yes
+                        state_is_in_south_america = yes
+					}
+					count > 1
+				}
+			}
+		}
+	}	
+}
+W47 = { #Vinland
+	dynamic_country_name = {
+		name = dyn_W47_vinland # This can be left empty, and then default tag name will be used
+		adjective = dyn_W47_vinland_adj # This can be left empty, and then default tag adjective will be used
+
+		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+		priority = 99 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+		
+		trigger = { # Scripted trigger, country-scope
+			
+			scope:actor = { 
+				any_scope_state = {
+					is_incorporated = yes
+					OR = {
+						state_is_in_north_america = yes
+						state_is_in_central_america = yes
+                        state_is_in_south_america = yes
+					}
+					count > 1
+				}
+			}
+		}
+	}	
+}
+CUB = { #Vinland
+	dynamic_country_name = {
+		name = dyn_CUB_vinlandseyjar # This can be left empty, and then default tag name will be used
+		adjective = dyn_CUB_vinlandseyjar_adj # This can be left empty, and then default tag adjective will be used
+
+		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+		priority = 99 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+		
+		trigger = { # Scripted trigger, country-scope
+			
+			scope:actor = { 
+				any_scope_state = {
+					is_incorporated = yes
+					OR = {
+						state_is_in_north_america = yes
+						state_is_in_central_america = yes
+                        state_is_in_south_america = yes
+					}
+					count > 1
+				}
+			}
+		}
+	}	
+}
+X54 = { #Native American Territory
+	dynamic_country_name = {
+		name = dyn_X54_greatlakes # This can be left empty, and then default tag name will be used
+		adjective = dyn_X54_greatlakes_adj # This can be left empty, and then default tag adjective will be used
+
+		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+		priority = 99 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+		
+		trigger = { # Scripted trigger, country-scope
+			
+			scope:actor = { 
+				any_scope_state = {
+					is_incorporated = yes
+					OR = {
+						state_is_in_north_america = yes
+						state_is_in_central_america = yes
+                        state_is_in_south_america = yes
+					}
+					count > 1
+				}
+			}
+		}
+	}	
+}
+IRE = { #Vestland
+	dynamic_country_name = {
+		name = dyn_IRE_vestland # This can be left empty, and then default tag name will be used
+		adjective = dyn_IRE_vestland_adj # This can be left empty, and then default tag adjective will be used
+
+		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+		priority = 99 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+		
+		trigger = { # Scripted trigger, country-scope
+			
+			scope:actor = { 
+				any_scope_state = {
+					is_incorporated = yes
+				}
+			}
+		}
+	}	
+}
+SCO = { #Halendid
+	dynamic_country_name = {
+		name = dyn_SCO_vestland # This can be left empty, and then default tag name will be used
+		adjective = dyn_SCO_vestland_adj # This can be left empty, and then default tag adjective will be used
+
+		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+		priority = 99 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+		
+		trigger = { # Scripted trigger, country-scope
+			
+			scope:actor = { 
+				any_scope_state = {
+					is_incorporated = yes
+				}
+			}
+		}
+	}	
+}
+X65 = { #Quebek
+	dynamic_country_name = {
+		name = dyn_X65_quebek # This can be left empty, and then default tag name will be used
+		adjective = dyn_X65_quebek_adj # This can be left empty, and then default tag adjective will be used
+
+		is_main_tag_only = yes # default no, if yes then only the primary country for a definition can use this name (ie Poland, not dynamic Silesia-Poland)
+		priority = 99 # default 0, if multiple names have valid triggers, higher priority is used. If same priority, first one in file is used
+		
+		trigger = { # Scripted trigger, country-scope
+			
+			scope:actor = { 
+				any_scope_state = {
+					is_incorporated = yes
+					OR = {
+						state_is_in_north_america = yes
+						state_is_in_central_america = yes
+					}
+					count > 1
+				}
+			}
+		}
+	}	
+}

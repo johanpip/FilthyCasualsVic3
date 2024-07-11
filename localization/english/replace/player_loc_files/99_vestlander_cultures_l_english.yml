@@ -1,0 +1,41 @@
+﻿l_english:
+#Cultures
+norn: "Nornlander"
+vestlander: "Vestlander"
+
+#Dynamic Country names
+dyn_CLM_markland: "Markland
+dyn_CLM_markland_adj: "Marklander"
+dyn_UCA_helluland: "Helluland"
+dyn_UCA_helluland_adj: "Hellulander"
+dyn_CAL_stilland: "Kingdom of Vinland"
+dyn_CAL_stilland_adj: "Vestlander"
+dyn_W47_vinland: "United Provinces of Vinland"
+dyn_W47_vinland_adj: "Vinlander"
+dyn_CUB_vinlandseyjar: "Vinlandseyjar"
+dyn_CUB_vinlandseyjar_adj: "Vineyjar"
+dyn_X54_greatlakes: "Great Lakes Territory"
+dyn_X54_greatlakes_adj: "Native American"
+dyn_IRE_vestland: "Vestland"
+dyn_IRE_vestland_adj: "Vestlandic"
+dyn_SCO_vestland: "Hálendið"
+dyn_SCO_vestland_adj: "Hálendic"
+dyn_X65_quebek: "Occidentalia"
+dyn_X65_quebek_adj: "Occidentis"
+
+#States
+STATE_BERMUDA: "Frisland"
+STATE_HAITI: "Koffíneyja"
+STATE_CUBA: "Vínlandseyja"
+STATE_FLORIDA: "Vínland"
+STATE_GEORGIA: "Georgsland"
+STATE_IOWA: "Nýja Ísland"
+#Hubs
+ HUB_NAME_STATE_IOWA_city: "Nýja Reykjavík"
+ HUB_NAME_STATE_IOWA_mine: "Hróarsdalur"
+ HUB_NAME_STATE_IOWA_farm: "Mosfellsbær"
+ HUB_NAME_STATE_IOWA_wood: "Kárastaðir"
+#Countries that need their own loc file later
+
+mahurin: "Imazighen"
+

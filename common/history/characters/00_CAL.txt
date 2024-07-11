@@ -4,7 +4,7 @@
 			first_name = "Fedelma"
 			last_name = "O__Gallchobhair"
 			female = yes
-			culture = cu:neo-texas_colony-vestmenn
+			culture = cu:vestlander
 			religion = rel:catholic
 			birth_date = 1800.6.14
 			traits = {
@@ -16,7 +16,7 @@
 			first_name = "Turlough"
 			last_name = "O_Neill"
 			heir = yes
-			culture = cu:neo-texas_colony-vestmenn
+			culture = cu:vestlander
 			religion = rel:catholic
 			birth_date = 1826.5.28
 			traits = {
@@ -40,7 +40,7 @@
 			ruler = yes
 			is_general = yes
 			commander_rank = commander_rank_2
-			culture = cu:neo-texas_colony-vestmenn
+			culture = cu:vestlander
 			religion = rel:catholic
 			birth_date = 1805.7.24
 			traits = {

@@ -1,0 +1,57 @@
+﻿UCA = { #Helluland
+	color = { 204 186 201 }
+	country_type = colonial
+	tier = principality
+	cultures = { hellulander }
+	religion = protestant
+	capital = STATE_ZACATECAS
+}
+
+CUB = { #Caribbean Islands
+	color = { 140 65 166 }
+	country_type = colonial
+	tier = principality
+	cultures = { vinlander }
+	religion = protestant
+	capital = STATE_CUBA
+}
+CAL = { #Kingdom of Vinland
+	color = { 245 147 54 }
+	country_type = colonial
+	tier = kingdom
+	cultures = { vestlander }
+	religion = protestant
+	capital = STATE_NEW_MEXICO
+}
+CLM = { #Markland
+	color = { 89 140 176 }
+	country_type = colonial
+	tier = kingdom
+	cultures = { neo-colombia_colony-marklander }
+	religion = protestant
+	capital = STATE_ZULIA
+}
+X54 = { #Great Lakes
+	color = { 18 67 84 }
+	country_type = recognized
+	tier = principality
+	cultures = { metis }
+	religion = protestant
+	capital = STATE_MICHIGAN
+}
+X65 = { #Quebek
+	color = { 52 52 52 }
+	country_type = recognized
+	tier = principality
+	cultures = { occitois }
+	religion = protestant
+	capital = STATE_QUEBEC
+}
+ICL = { #Iceland
+	color = { 43 60 117 }
+	country_type = recognized
+	tier = grand_principality
+	cultures = { icelandic }
+	religion = protestant
+	capital = STATE_ICELAND
+}

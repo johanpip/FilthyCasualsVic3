@@ -1136,14 +1136,14 @@ BOB = {
 	capital = STATE_EQUATEUR
 }
 
-BOH = {
-	color = { 161 139 40 }
-	country_type = recognized
-	tier = hegemony
-	cultures = { ceskobavorsky }
-	religion = hussite
-	capital = STATE_BOHEMIA
-}
+#BOH = {
+#	color = { 161 139 40 }
+#	country_type = recognized
+#	tier = hegemony
+#	cultures = { ceskobavorsky }
+#	religion = hussite
+#	capital = STATE_BOHEMIA
+#}
 
 BOL = {
 	color = { 219 182 182 }
@@ -1546,14 +1546,14 @@ C25 = {
 	capital = STATE_ARAUCANIA
 }
 
-CAL = {
-	color = { 245 147 54 }
-	country_type = colonial
-	tier = kingdom
-	cultures = { neo-texas_colony-stillemenn }
-	religion = protestant
-	capital = STATE_NEW_MEXICO
-}
+#CAL = {
+#	color = { 245 147 54 }
+#	country_type = colonial
+#	tier = kingdom
+#	cultures = { neo-texas_colony-stillemenn }
+#	religion = protestant
+#	capital = STATE_NEW_MEXICO
+#}
 
 CAM = {
 	color = { 127 180 60 }
@@ -1573,14 +1573,14 @@ CAN = {
 	capital = STATE_ONTARIO
 }
 
-CAS = {
-	color = { 193 171 8 }
-	country_type = recognized
-	tier = kingdom
-	cultures = { spanish }
-	religion = catholic
-	capital = STATE_MARRAKECH
-}
+#CAS = {
+#	color = { 193 171 8 }
+#	country_type = recognized
+#	tier = kingdom
+#	cultures = { spanish }
+#	religion = catholic
+#	capital = STATE_MARRAKECH
+#}
 
 CAT = {
 	color = { 213 132 76 }
@@ -1723,14 +1723,14 @@ CLI = {
 	capital = STATE_NORTH_CAROLINA
 }
 
-CLM = {
-	color = { 89 140 176 }
-	country_type = colonial
-	tier = kingdom
-	cultures = { neo-colombia_colony-marklander }
-	religion = protestant
-	capital = STATE_ZULIA
-}
+#CLM = {
+#	color = { 89 140 176 }
+#	country_type = colonial
+#	tier = kingdom
+#	cultures = { neo-colombia_colony-marklander }
+#	religion = protestant
+#	capital = STATE_ZULIA
+#}
 
 CMI = {
 	color = { 74 92 128 }
@@ -1866,14 +1866,14 @@ CTR = {
 	capital = STATE_SANTA_CATARINA
 }
 
-CUB = {
-	color = { 140 65 166 }
-	country_type = colonial
-	tier = principality
-	cultures = { neo-caribbean_colony-hellulander }
-	religion = protestant
-	capital = STATE_CUBA
-}
+#CUB = {
+#	color = { 140 65 166 }
+#	country_type = colonial
+#	tier = principality
+#	cultures = { vinlander }
+#	religion = protestant
+#	capital = STATE_CUBA
+#}
 
 CYP = {
 	color = { 78 75 39 }
@@ -2371,14 +2371,14 @@ EST = {
 	is_named_from_capital = yes
 }
 
-ETH = {
-	color = { 35 130 50 }
-	country_type = recognized
-	tier = hegemony
-	cultures = { dynamic-bedouin_arabic-al_misr_arabic-somali-culture-num1 }
-	religion = shiite
-	capital = STATE_LOWER_EGYPT
-}
+#ETH = {
+#	color = { 35 130 50 }
+#	country_type = recognized
+#	tier = hegemony
+#	cultures = { dynamic-bedouin_arabic-al_misr_arabic-somali-culture-num1 }
+#	religion = shiite
+#	capital = STATE_LOWER_EGYPT
+#}
 
 EWE = {
 	color = { 210 34 131 }
@@ -2725,14 +2725,14 @@ GAO = {
 	capital = STATE_TIMBUKTU
 }
 
-GBR = {
-	color = { 193 26 14 }
-	country_type = recognized
-	tier = hegemony
-	cultures = { west_latin }
-	religion = chalcedonian
-	capital = STATE_HOME_COUNTIES
-}
+#GBR = { #Britannia
+#	color = { 193 26 14 }
+#	country_type = recognized
+#	tier = hegemony
+#	cultures = { west_latin }
+#	religion = chalcedonian
+#	capital = STATE_HOME_COUNTIES
+#}
 
 GCO = {
 	color = { 255 244 100 }
@@ -2984,7 +2984,7 @@ HAI = {
 	color = { 139 179 207 }
 	country_type = colonial
 	tier = city_state
-	cultures = { neo-caribbean_colony-hellulander }
+	cultures = { norn }
 	religion = protestant
 	capital = STATE_SANTO_DOMINGO
 }
@@ -3347,14 +3347,14 @@ IC0 = {
 	capital = STATE_HIGHLANDS
 }
 
-ICL = {
-	color = { 43 60 117 }
-	country_type = recognized
-	tier = grand_principality
-	cultures = { icelandic }
-	religion = protestant
-	capital = STATE_ICELAND
-}
+#ICL = {
+#	color = { 43 60 117 }
+#	country_type = recognized
+#	tier = grand_principality
+#	cultures = { icelandic }
+#	religion = protestant
+#	capital = STATE_ICELAND
+#}
 
 IDN = {
 	color = { 0 128 128 }
@@ -5685,7 +5685,7 @@ NBS = {
 	color = { 235 196 128 }
 	country_type = colonial
 	tier = principality
-	cultures = { anglo_canadian franco_canadian }
+	cultures = { vinlander occitois }
 	capital = STATE_NEW_BRUNSWICK
 }
 
@@ -6365,7 +6365,7 @@ PAP = {
 	color = { 211 220 178 }
 	country_type = recognized
 	tier = kingdom
-	cultures = { south_italian }
+	cultures = { north_italian }
 	religion = catholic
 	capital = STATE_CORSICA
 }
@@ -6640,7 +6640,7 @@ QUE = {
 	color = { 194 140 86 }
 	country_type = colonial
 	tier = principality
-	cultures = { franco_canadian }
+	cultures = { occitois }
 	capital = STATE_QUEBEC
 	is_named_from_capital = yes
 }
@@ -8584,14 +8584,14 @@ W02 = {
 	capital = STATE_MASSACHUSETTS
 }
 
-W03 = {
-	color = { 255 223 0 }
-	country_type = recognized
-	tier = kingdom
-	cultures = { outremer }
-	religion = golden_path
-	capital = STATE_PALESTINE
-}
+#W03 = { #Outremer
+#	color = { 255 223 0 }
+#	country_type = recognized
+#	tier = kingdom
+#	cultures = { outremer }
+#	religion = golden_path
+#	capital = STATE_PALESTINE
+#}
 
 W04 = {
 	color = { 21 75 72 }
@@ -8765,14 +8765,14 @@ W24 = {
 	capital = STATE_SHANDONG
 }
 
-W25 = {
-	color = { 237 152 18 }
-	country_type = unrecognized
-	tier = hegemony
-	cultures = { manchu }
-	religion = confucian
-	capital = STATE_BEIJING
-}
+#W25 = { #Qing
+#	color = { 237 152 18 }
+#	country_type = unrecognized
+#	tier = hegemony
+#	cultures = { manchu }
+#	religion = confucian
+#	capital = STATE_BEIJING
+#}
 
 W26 = {
 	color = { 218 113 11 }
@@ -8963,14 +8963,14 @@ W46 = {
 	capital = STATE_FIJI
 }
 
-W47 = {
-	color = { 94 117 55 }
-	country_type = colonial
-	tier = hegemony
-	cultures = { neo-usa_south_colony-vinlander }
-	religion = protestant
-	capital = STATE_MISSISSIPPI
-}
+#W47 = { #Vinland
+#	color = { 94 117 55 }
+#	country_type = colonial
+#	tier = hegemony
+#	cultures = { neo-usa_south_colony-vinlander }
+#	religion = protestant
+#	capital = STATE_MISSISSIPPI
+#}
 
 W48 = {
 	color = { 195 90 135 }
@@ -9599,7 +9599,7 @@ X15 = {
 	color = { 169 224 64 }
 	country_type = colonial
 	tier = city_state
-	cultures = { neo-brazil_colony-betican }
+	cultures = { occetales }
 	religion = chalcedonian
 	capital = STATE_PARAIBA
 }
@@ -9617,7 +9617,7 @@ X17 = {
 	color = { 138 169 133 }
 	country_type = colonial
 	tier = city_state
-	cultures = { neo-central_america_colony-marklander }
+	cultures = { marklander }
 	religion = protestant
 	capital = STATE_NICARAGUA
 }
@@ -9635,7 +9635,7 @@ X21 = {
 	color = { 55 155 209 }
 	country_type = colonial
 	tier = city_state
-	cultures = { neo-colombia_colony-aquitaine }
+	cultures = { occitois }
 	religion = protestant
 	capital = STATE_ANTIOQUIA
 }
@@ -9901,14 +9901,14 @@ X53 = {
 	capital = STATE_AMHARA
 }
 
-X54 = {
-	color = { 18 67 84 }
-	country_type = recognized
-	tier = principality
-	cultures = { metis }
-	religion = protestant
-	capital = STATE_MICHIGAN
-}
+#X54 = {
+#	color = { 18 67 84 }
+#	country_type = recognized
+#	tier = principality
+#	cultures = { metis }
+#	religion = protestant
+#	capital = STATE_MICHIGAN
+#}
 
 X55 = {
 	color = { 232 206 0 }
@@ -10000,14 +10000,14 @@ X64 = {
 	capital = STATE_OKHOTSK
 }
 
-X65 = {
-	color = { 52 52 52 }
-	country_type = recognized
-	tier = principality
-	cultures = { franco_canadian }
-	religion = protestant
-	capital = STATE_QUEBEC
-}
+#X65 = { #quebek
+#	color = { 52 52 52 }
+#	country_type = recognized
+#	tier = principality
+#	cultures = { occitois }
+#	religion = protestant
+#	capital = STATE_QUEBEC
+#}
 
 X66 = {
 	color = { 190 90 90 }
@@ -10225,14 +10225,14 @@ X89 = {
 	capital = STATE_KACHIN
 }
 
-X90 = {
-	color = { 57 93 121 }
-	country_type = recognized
-	tier = hegemony
-	cultures = { baltoruth }
-	religion = vidilist
-	capital = STATE_VILNIUS
-}
+#X90 = { #Nexus
+#	color = { 57 93 121 }
+#	country_type = recognized
+#	tier = hegemony
+#	cultures = { baltoruth }
+#	religion = vidilist
+#	capital = STATE_VILNIUS
+#}
 
 X91 = {
 	color = { 113 221 248 }
@@ -10297,14 +10297,14 @@ X97 = {
 	capital = STATE_HAWAIIAN_ISLANDS
 }
 
-X98 = {
-	color = { 145 20 78 }
-	country_type = recognized
-	tier = hegemony
-	cultures = { south_italian }
-	religion = chalcedonian
-	capital = STATE_EASTERN_THRACE
-}
+#X98 = { #Romanum
+#	color = { 145 20 78 }
+#	country_type = recognized
+#	tier = hegemony
+#	cultures = { latin_culture }
+#	religion = chalcedonian
+#	capital = STATE_EASTERN_THRACE
+#}
 
 X99 = {
 	color = { 134 175 31 }
