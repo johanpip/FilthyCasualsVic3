@@ -31,8 +31,6 @@ STATE_FLORIDA: "Vínland"
 STATE_GEORGIA: "Georgsland"
 
 #Countries that need their own loc file later
-dyn_GBR_britannia: "Imperium Romanum Occidentis"
-dyn_GBR_britannia_adj: "Romanum"
-dyn_GBR_britannia_republic: "Roma Occidentis"
-dyn_GBR_britannia_republic_adj: "Romanum"
-north_italian: "Roman"
+
+mahurin: "Imazighen"
+

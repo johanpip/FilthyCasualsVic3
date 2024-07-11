@@ -14,19 +14,27 @@ vestlander_standard_of_living_modifier_negative = {
 	icon = "gfx/interface/icons/timed_modifier_icons/modifier_flag_negative.dds"
 	state_vestlander_standard_of_living_add = 1
 }
-occitales_standard_of_living_modifier_positive = {
+occetales_standard_of_living_modifier_positive = {
 	icon = "gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds"
-	state_vestlander_standard_of_living_add = 1
+	state_occetales_standard_of_living_add = 1
 }
-occitales_standard_of_living_modifier_negative = {
+occetales_standard_of_living_modifier_negative = {
 	icon = "gfx/interface/icons/timed_modifier_icons/modifier_flag_negative.dds"
-	state_vestlander_standard_of_living_add = 1
+	state_occetales_standard_of_living_add = 1
 }
 occitois_standard_of_living_modifier_positive = {
 	icon = "gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds"
-	state_vestlander_standard_of_living_add = 1
+	state_occitois_standard_of_living_add = 1
 }
 occitois_standard_of_living_modifier_negative = {
 	icon = "gfx/interface/icons/timed_modifier_icons/modifier_flag_negative.dds"
-	state_vestlander_standard_of_living_add = 1
+	state_occitois_standard_of_living_add = 1
+}
+mahurin_standard_of_living_modifier_positive = {
+	icon = "gfx/interface/icons/timed_modifier_icons/modifier_flag_positive.dds"
+	state_mahurin_standard_of_living_add = 1
+}
+mahurin_standard_of_living_modifier_negative = {
+	icon = "gfx/interface/icons/timed_modifier_icons/modifier_flag_negative.dds"
+	state_mahurin_standard_of_living_add = 1
 }

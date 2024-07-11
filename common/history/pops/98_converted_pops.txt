@@ -2,37 +2,37 @@
 	s:STATE_ABRUZZO = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 94584
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 102407
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 169390
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 62295
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 117988
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 206864
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 307814
 			}
@@ -1224,42 +1224,42 @@
 	s:STATE_ALBANIA = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 70276
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 139085
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 110450
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 238484
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 69806
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 139555
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 67725
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 132912
 			}
@@ -3601,57 +3601,57 @@
 	s:STATE_APULIA = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 105897
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 84054
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 220047
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 165946
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 58716
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 420866
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 421868
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 110257
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 119255
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 74997
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 268086
 			}
@@ -4467,27 +4467,27 @@
 	s:STATE_ATTICA = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 375104
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 63244
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 314041
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 62978
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 128936
 			}
@@ -7072,7 +7072,7 @@
 	s:STATE_BERMUDA = {
 		region_state:W47 = {
 			create_pop = {
-				culture = vestmenn
+				culture = norn
 				religion = protestant
 				size = 66975
 			}
@@ -9716,42 +9716,42 @@
 	s:STATE_CALABRIA = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 135427
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 75773
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 312202
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 138858
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 35609
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 82920
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 72512
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 141162
 			}
@@ -10265,52 +10265,52 @@
 	s:STATE_CAMPANIA = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 138015
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 75236
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 318874
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 138858
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 35609
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 118205
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 63272
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 272137
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 109791
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 164995
 			}
@@ -14250,7 +14250,7 @@
 	s:STATE_CORSICA = {
 		region_state:PAP = {
 			create_pop = {
-				culture = south_italian
+				culture = north_italian
 				religion = catholic
 				size = 436168
 			}
@@ -16346,22 +16346,22 @@
 	s:STATE_EASTERN_THRACE = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 205396
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 1126
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 364859
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 2000
 			}
@@ -16371,12 +16371,12 @@
 				size = 14507
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 885715
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 4856
 			}
@@ -16386,12 +16386,12 @@
 				size = 22533
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 509589
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 2794
 			}
@@ -18129,12 +18129,12 @@
 				size = 17514
 			}
 			create_pop = {
-				culture = vestmenn
+				culture = norn
 				religion = protestant
 				size = 47077
 			}
 			create_pop = {
-				culture = vestmenn
+				culture = norn
 				religion = catholic
 				size = 66805
 			}
@@ -26290,12 +26290,12 @@
 	s:STATE_IONIAN_ISLANDS = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 68065
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 140034
 			}
@@ -26305,12 +26305,12 @@
 				size = 960
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 78443
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 146997
 			}
@@ -33628,22 +33628,22 @@
 	s:STATE_MACEDONIA = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 133515
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 162
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 270888
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 330
 			}
@@ -33653,22 +33653,22 @@
 				size = 24657
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 87987
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 107
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 187007
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 227
 			}
@@ -33678,22 +33678,22 @@
 				size = 16767
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 96755
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 118
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 162063
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 197
 			}
@@ -38329,27 +38329,27 @@
 	s:STATE_MONTENEGRO = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 109143
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = vidilist
 				size = 53486
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 186304
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 93620
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 124464
 			}
@@ -42011,12 +42011,12 @@
 	s:STATE_NORTHERN_THRACE = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 110537
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 238336
 			}
@@ -42026,17 +42026,17 @@
 				size = 2798
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 79367
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = protestant
 				size = 35224
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 190673
 			}
@@ -42046,12 +42046,12 @@
 				size = 2449
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 73308
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 144738
 			}
@@ -47520,27 +47520,27 @@
 	s:STATE_PELOPONNESE = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 60884
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 131030
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 89713
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 145818
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 279147
 			}
@@ -51941,22 +51941,22 @@
 	s:STATE_SARDINIA = {
 		region_state:PAP = {
 			create_pop = {
-				culture = south_italian
+				culture = north_italian
 				religion = catholic
 				size = 241183
 			}
 			create_pop = {
-				culture = south_italian
+				culture = sardinian
 				religion = protestant
 				size = 29241
 			}
 			create_pop = {
-				culture = south_italian
+				culture = sardinian
 				religion = catholic
 				size = 619358
 			}
 			create_pop = {
-				culture = south_italian
+				culture = sardinian
 				religion = catholic
 				size = 305318
 			}
@@ -53487,7 +53487,7 @@
 	s:STATE_SICILY = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 505955
 			}
@@ -53502,7 +53502,7 @@
 				size = 332133
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 244254
 			}
@@ -58742,12 +58742,12 @@
 	s:STATE_THESSALIA = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 155217
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 247288
 			}
@@ -58757,7 +58757,7 @@
 				size = 2577
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 190315
 			}
@@ -64725,17 +64725,17 @@
 	s:STATE_WESTERN_THRACE = {
 		region_state:X98 = {
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = catholic
 				size = 52178
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 87396
 			}
 			create_pop = {
-				culture = south_italian
+				culture = latin_culture
 				religion = chalcedonian
 				size = 331487
 			}

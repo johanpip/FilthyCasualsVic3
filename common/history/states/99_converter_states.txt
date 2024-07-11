@@ -5,7 +5,7 @@
 			owned_provinces = { x0AE57A x0D3025 x31C0A0 xA6F611 xF34DC0 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_ABU_DHABI = {
 		create_state = {
@@ -155,7 +155,7 @@
 			owned_provinces = { x51A061 x5A148F x68131C x71C0E0 x7BE071 xB77F92 xC42EC6 xC771E0 xD0A061 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_ALBERTA = {
 		create_state = {
@@ -442,7 +442,7 @@
 			owned_provinces = { x2C8F44 x30209F x4050DF x704020 x74BD9B x836841 xEFC992 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_AQUITAINE = {
 		create_state = {
@@ -573,7 +573,7 @@
 			owned_provinces = { x0A645C x465F8D x518791 x8D7F62 xA010A0 xBF5160 xC72C61 xCA246A }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_AUSTRIA = {
 		create_state = {
@@ -1174,7 +1174,7 @@
 			owned_provinces = { x785460 xC01020 xC050E0 xE78C7B }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_CALIFORNIA = {
 		create_state = {
@@ -1233,7 +1233,7 @@
 			owned_provinces = { x0E8BCC x214415 x4090A0 x73CE17 x890469 xDF1CE3 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_CANARY_ISLANDS = {
 		create_state = {
@@ -1644,7 +1644,7 @@
 			owned_provinces = { x396B5C x706E78 xEF4020 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:north_italian
 	}
 	s:STATE_COSTA_RICA = {
 		create_state = {
@@ -1935,7 +1935,7 @@
 			owned_provinces = { x115006 x194E90 x2073F0 x608BB0 xF02082 xF0A020 xFCF160 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_EAST_AEGEAN_ISLANDS = {
 		create_state = {
@@ -3013,7 +3013,7 @@
 			owned_provinces = { x405060 x4B79CA }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_IOWA = {
 		create_state = {
@@ -3852,7 +3852,7 @@
 			owned_provinces = { x01D060 x021374 x506020 x70A0E0 x75CAD1 x90E0A0 xBA7B5B xD2619E xE48F39 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_MADEIRA = {
 		create_state = {
@@ -4298,7 +4298,7 @@
 			owned_provinces = { x446E84 x8C6292 x90A0E0 xA12F82 xF5F6C2 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_MORAVIA = {
 		create_state = {
@@ -4828,7 +4828,7 @@
 			owned_provinces = { x0DE556 x15CDCD x455522 x6E7192 x7121A0 x95BCE8 x9D0D6C xAF56D0 xC7D441 xF021A0 xF0A0E0 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_NORTHERN_TRANSYLVANIA = {
 		create_state = {
@@ -5451,7 +5451,7 @@
 			owned_provinces = { x0055D7 x43409D x61E57E xBA3449 xC0D060 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_PENNSYLVANIA = {
 		create_state = {
@@ -6027,7 +6027,7 @@
 			owned_provinces = { x0D6170 x30A040 x80D020 xA61F49 xD8550D xDC4AE3 xFA1A93 xFD923D }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:sardinian
 	}
 	s:STATE_SARIWON = {
 		create_state = {
@@ -6234,7 +6234,7 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:siculo_norman
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_SIERRA_LEONE = {
 		create_state = {
@@ -6809,7 +6809,7 @@
 			owned_provinces = { x01D0E0 x18C9AD x8050E0 x80D060 xACFFA7 xE6E868 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_TIANSHAN = {
 		create_state = {
@@ -7515,7 +7515,7 @@
 			owned_provinces = { x0261AB x6181D2 x702020 xB2249C xBE51B7 xEDECFB xF02020 }
 			state_type = incorporated
 		}
-		add_homeland = cu:south_italian
+		add_homeland = cu:latin_culture
 	}
 	s:STATE_WESTPHALIA = {
 		create_state = {

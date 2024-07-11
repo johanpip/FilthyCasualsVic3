@@ -47,7 +47,7 @@ X98 = { #RomanumOrientis
 	color = { 145 20 78 }
 	country_type = recognized
 	tier = hegemony
-	cultures = { south_italian }
+	cultures = { latin_culture }
 	religion = chalcedonian
 	capital = STATE_EASTERN_THRACE
 }
