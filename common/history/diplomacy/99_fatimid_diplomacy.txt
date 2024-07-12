@@ -36,7 +36,7 @@
 #			country = c:P13
 #			type = protectorate
 #		}
-	}
+#	}
 #Truces
 
 #Relations
