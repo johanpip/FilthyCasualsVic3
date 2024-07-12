@@ -1,0 +1,39 @@
+﻿DIPLOMACY = {
+#Defensive pacts
+	c:GBR = { #Defensive alliance with Romanum
+		create_diplomatic_pact = {
+			country = c:X98
+			type = defensive_pact
+		}
+	}
+#Rivalries
+
+#Trade Agreements
+
+#Subjects
+	c:GBR = {
+		create_diplomatic_pact = {
+			country = c:SCO
+			type = puppet
+		}
+	}
+	c:GBR = {
+		create_diplomatic_pact = {
+			country = c:IRE
+			type = puppet
+		}
+	}
+#Truces
+
+#Relations
+	c:GBR = {
+		set_relations = { country = c:CAS value = -200 }
+		set_relations = { country = c:CLM value = 25 }
+		set_relations = { country = c:IRE value = 10 }
+		set_relations = { country = c:SCO value = 10 }
+		set_relations = { country = c:W03 value = -200 }
+		set_relations = { country = c:W47 value = 50 }
+		set_relations = { country = c:X90 value = -100 }
+		set_relations = { country = c:X98 value = 75 }
+	}
+}

@@ -1,0 +1,51 @@
+﻿DIPLOMACY = {
+#Defensive pacts
+
+#Rivalries
+
+#Trade Agreements
+
+#Subjectss
+
+	c:ETH = {
+		create_diplomatic_pact = {
+			country = c:TUN #Tunis
+			type = puppet
+		}
+	}
+	c:ETH = {
+		create_diplomatic_pact = {
+			country = c:WAS #Western Australia
+			type = dominion
+		}
+	}
+    c:ETH = {
+		create_diplomatic_pact = {
+			country = c:W57 #Madras Company
+			type = dominion
+		}
+	}
+	c:ETH = {
+		create_diplomatic_pact = {
+			country = c:W58 #Moluccas Company
+			type = dominion
+		}
+	}
+    	c:ETH = {
+		create_diplomatic_pact = {
+			country = c:P13
+			type = protectorate
+		}
+	}
+#Truces
+
+#Relations
+	c:ETH = {
+		set_relations = { country = c:P13 value = 75 }
+		set_relations = { country = c:TUN value = 10 }
+		set_relations = { country = c:W25 value = 75 }
+		set_relations = { country = c:W57 value = 10 }
+		set_relations = { country = c:W58 value = 10 }
+		set_relations = { country = c:WAS value = 35 }
+	}
+}

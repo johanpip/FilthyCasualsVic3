@@ -1,96 +1,15 @@
 ﻿DIPLOMACY = {
-	c:CAS = {
-		create_diplomatic_pact = {
-			country = c:PAP
+
+#Dominion Colonial Nation alliances from eu4, can delete all if wanted
+
+	c:PAT = { #Alliance between Colonial Nation subjects of Dominion. 
+		create_diplomatic_pact = { 
+			country = c:X24 #Brazil
 			type = defensive_pact
 		}
 	}
-	c:CAS = {
-		create_diplomatic_pact = {
-			country = c:PAP
-			type = defensive_pact
-		}
-	}
-	c:PAP = {
-		create_diplomatic_pact = {
-			country = c:CAS
-			type = defensive_pact
-		}
-	}
-	c:GBR = {
-		create_diplomatic_pact = {
-			country = c:W47
-			type = defensive_pact
-		}
-	}
-	c:W47 = {
-		create_diplomatic_pact = {
-			country = c:GBR
-			type = defensive_pact
-		}
-	}
-	c:GBR = {
-		create_diplomatic_pact = {
-			country = c:X98
-			type = defensive_pact
-		}
-	}
-	c:X98 = {
-		create_diplomatic_pact = {
-			country = c:GBR
-			type = defensive_pact
-		}
-	}
-	c:GBR = {
-		create_diplomatic_pact = {
-			country = c:CLM
-			type = defensive_pact
-		}
-	}
-	c:ETH = {
-		create_diplomatic_pact = {
-			country = c:P13
-			type = defensive_pact
-		}
-	}
-	c:ETH = {
-		create_diplomatic_pact = {
-			country = c:P13
-			type = defensive_pact
-		}
-	}
-	c:W25 = {
-		create_diplomatic_pact = {
-			country = c:ETH
-			type = defensive_pact
-		}
-	}
-	c:ETH = {
-		create_diplomatic_pact = {
-			country = c:W25
-			type = defensive_pact
-		}
-	}
-	c:W47 = {
-		create_diplomatic_pact = {
-			country = c:BOH
-			type = defensive_pact
-		}
-	}
-	c:BOH = {
-		create_diplomatic_pact = {
-			country = c:W47
-			type = defensive_pact
-		}
-	}
-	c:PAT = {
-		create_diplomatic_pact = {
-			country = c:X24
-			type = defensive_pact
-		}
-	}
-	c:X24 = {
-		create_diplomatic_pact = {
+	c:X24 = { #Alliance between Colonial Nation subjects of Dominion. 
+		create_diplomatic_pact = { 
 			country = c:PAT
 			type = defensive_pact
 		}
@@ -119,4 +38,6 @@
 			type = defensive_pact
 		}
 	}
+#Dominion CN alliances end here
+
 }
