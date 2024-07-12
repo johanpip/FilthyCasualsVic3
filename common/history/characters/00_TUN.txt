@@ -2,7 +2,7 @@
 	c:TUN = {
 		create_character = {
 			first_name = "Murad_Saber"
-			ruler = yes
+			is_general = yes
 			culture = cu:spanish
 			religion = rel:catholic
 			birth_date = 1791.5.2

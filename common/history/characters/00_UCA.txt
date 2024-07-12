@@ -2,8 +2,8 @@
 	c:UCA = {
 		create_character = {
 			first_name = "Bearach_Keating"
-			ruler = yes
-			culture = cu:neo-mexico_colony-vestmenn
+			is_general = yes
+			culture = cu:hellulander
 			religion = rel:chalcedonian
 			birth_date = 1786.5.1
 		}

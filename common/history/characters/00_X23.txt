@@ -2,7 +2,7 @@
 	c:X23 = {
 		create_character = {
 			first_name = "Hongdo_Noh"
-			ruler = yes
+			is_general = yes
 			culture = cu:korean
 			religion = rel:confucian
 			birth_date = 1786.3.15

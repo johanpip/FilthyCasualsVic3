@@ -2,7 +2,6 @@
 	c:SPU = {
 		create_character = {
 			first_name = "Felipe_de_Benavides"
-			ruler = yes
 			is_general = yes
 			commander_rank = commander_rank_2
 			culture = cu:peruvian

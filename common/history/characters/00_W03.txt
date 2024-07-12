@@ -41,8 +41,7 @@
 		}
 
 		create_character = {
-			first_name = "Folquet_Hagedorn"
-			ruler = yes
+			first_name = "Folquet_Hagedorn" #Ex president XRuler
 			is_general = yes
 			commander_rank = commander_rank_4
 			culture = cu:outremer

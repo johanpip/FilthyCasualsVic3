@@ -2,7 +2,7 @@
 	c:X26 = {
 		create_character = {
 			first_name = "Fernando_de_Andrade"
-			ruler = yes
+			is_general = yes
 			culture = cu:north_andean
 			religion = rel:catholic
 			birth_date = 1783.7.9

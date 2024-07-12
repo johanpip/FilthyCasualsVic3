@@ -2,7 +2,7 @@
 	c:WIN = {
 		create_character = {
 			first_name = "Rean_Millium"
-			ruler = yes
+			is_general = yes
 			culture = cu:baltoruth
 			religion = rel:vidilist
 			birth_date = 1795.11.2

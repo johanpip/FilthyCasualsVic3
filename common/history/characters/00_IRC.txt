@@ -2,7 +2,7 @@
 	c:IRC = {
 		create_character = {
 			first_name = "Makoyekin_Aegitina"
-			ruler = yes
+			is_general = yes
 			culture = cu:siouan
 			religion = rel:protestant
 			birth_date = 1716.4.4

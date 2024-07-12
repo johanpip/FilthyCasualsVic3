@@ -105,8 +105,8 @@
 		}
 
 		create_character = {
-			first_name = "Frantisek_Josef_Pika"
-			ruler = yes
+			first_name = "Frantisek_Josef_Pika" # EX president! XRuler
+			is_general = yes 
 			culture = cu:ceskobavorsky
 			religion = rel:hussite
 			birth_date = 1783.3.22
