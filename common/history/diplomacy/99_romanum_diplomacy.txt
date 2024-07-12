@@ -1,0 +1,34 @@
+﻿DIPLOMACY = {
+#Defensive pacts
+	c:X98 = { #Defensive alliance with Britannia
+		create_diplomatic_pact = {
+			country = c:GBR
+			type = defensive_pact
+		}
+	}
+#Rivalries
+
+#Trade Agreements
+
+#Subjects
+    c:X98 = {
+		create_diplomatic_pact = {
+			country = c:W80
+			type = puppet
+		}
+	}
+#Truces
+
+#Relations
+	c:X98 = {
+		set_relations = { country = c:BOH value = -100 }
+		set_relations = { country = c:GBR value = 75 }
+		set_relations = { country = c:PAP value = 25 }
+		set_relations = { country = c:W03 value = -200 }
+		set_relations = { country = c:W25 value = -100 }
+		set_relations = { country = c:W47 value = -100 }
+		set_relations = { country = c:W80 value = 10 }
+		set_relations = { country = c:X90 value = -200 }
+	}
+
+}

@@ -1,0 +1,100 @@
+﻿DIPLOMACY = {
+#Defensive pacts
+	c:CAS = { #Alliance with Papal State
+		create_diplomatic_pact = {
+			country = c:PAP
+			type = defensive_pact
+		}
+	}
+	c:PAP = { #Alliance with Papal State
+		create_diplomatic_pact = {
+			country = c:CAS
+			type = defensive_pact
+		}
+	}
+#Rivalries
+
+#Trade Agreements
+
+#Subjects
+	c:CAS = {
+		create_diplomatic_pact = {
+			country = c:PAT #Mapuche/Patagonia
+			type = dominion
+		}
+	}
+	c:CAS = {
+		create_diplomatic_pact = {
+			country = c:SPU #South Peru
+			type = dominion
+		}
+	}
+	c:CAS = {
+		create_diplomatic_pact = {
+			country = c:X24 #Brazil
+			type = dominion
+		}
+	}
+	c:CAS = {
+		create_diplomatic_pact = {
+			country = c:NZL #New Zealand
+			type = dominion
+		}
+	}
+	c:CAS = {
+		create_diplomatic_pact = {
+			country = c:X26 #Colombia
+			type = dominion
+		}
+	}
+	c:CAS = {
+		create_diplomatic_pact = {
+			country = c:X61 #Kongo
+			type = dominion
+		}
+	}
+    c:CAS = {
+		create_diplomatic_pact = {
+			country = c:W53 #Indonesia Company
+			type = dominion
+		}
+	}
+	c:CAS = {
+		create_diplomatic_pact = {
+			country = c:W54 #Moluccas Company
+			type = dominion
+		}
+	}
+	c:CAS = {
+		create_diplomatic_pact = {
+			country = c:W55 #Pacific Company
+			type = dominion
+		}
+	}
+	c:CAS = {
+		create_diplomatic_pact = {
+			country = c:W56 #South Africa
+			type = puppet
+		}
+	}
+#Truces
+
+#Relations
+	c:CAS = {
+		set_relations = { country = c:BOH value = -200 }
+		set_relations = { country = c:GBR value = -200 }
+		set_relations = { country = c:NZL value = 35 }
+		set_relations = { country = c:PAP value = 75 }
+		set_relations = { country = c:PAT value = 35 }
+		set_relations = { country = c:SPU value = 35 }
+		set_relations = { country = c:W03 value = -100 }
+		set_relations = { country = c:W47 value = -100 }
+		set_relations = { country = c:W53 value = 10 }
+		set_relations = { country = c:W54 value = 10 }
+		set_relations = { country = c:W55 value = 10 }
+		set_relations = { country = c:W56 value = 10 }
+		set_relations = { country = c:X24 value = 35 }
+		set_relations = { country = c:X26 value = 35 }
+		set_relations = { country = c:X61 value = 10 }
+	}
+}

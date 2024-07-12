@@ -1,0 +1,116 @@
+﻿DIPLOMACY = {
+#Defensive pacts
+
+#Rivalries
+
+#Trade Agreements
+
+#Subjects
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:X23 #Hoju
+			type = dominion
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:JAP #Japan
+			type = protectorate
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:KOR #Korea
+			type = puppet
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:DAI #Dai Viet
+			type = protectorate
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:SIA #Siam
+			type = protectorate
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:TIB #Tibet
+			type = puppet
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:X13 #Bengal Empire
+			type = protectorate
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:X55 #Mong Kang
+			type = puppet
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:AIN #Ainu
+			type = protectorate
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:CAM #Cambodia
+			type = protectorate
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:LAO #Lao
+			type = protectorate
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:HTH #Hathawaddy
+			type = puppet
+		}
+	}
+	c:W25 = {
+		create_diplomatic_pact = {
+			country = c:CMI #Chiang Mai
+			type = protectorate
+		}
+	}
+    c:W25 = {
+		create_diplomatic_pact = {
+			country = c:W59 #Philippine Company
+			type = dominion
+		}
+	}
+#Truces
+
+#Relations
+	c:W25 = {
+		set_relations = { country = c:AIN value = 10 }
+		set_relations = { country = c:CAM value = 10 }
+		set_relations = { country = c:CMI value = 10 }
+		set_relations = { country = c:DAI value = 10 }
+		set_relations = { country = c:ETH value = 75 }
+		set_relations = { country = c:HTH value = 10 }
+		set_relations = { country = c:JAP value = 10 }
+		set_relations = { country = c:K16 value = 10 }
+		set_relations = { country = c:KOR value = 10 }
+		set_relations = { country = c:LAO value = 10 }
+		set_relations = { country = c:SIA value = 10 }
+		set_relations = { country = c:TIB value = 10 }
+		set_relations = { country = c:W03 value = -200 }
+		set_relations = { country = c:W59 value = 10 }
+		set_relations = { country = c:X13 value = 10 }
+		set_relations = { country = c:X55 value = 10 }
+		set_relations = { country = c:X90 value = -100 }
+		set_relations = { country = c:X98 value = -100 }
+	}
+}

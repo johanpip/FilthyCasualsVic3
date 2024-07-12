@@ -1,0 +1,54 @@
+﻿DIPLOMACY = {
+#Defensive pacts
+
+#Rivalries
+
+#Trade Agreements
+
+#Subjects
+	c:W47 = {
+		create_diplomatic_pact = {
+			country = c:ICL
+			type = protectorate
+		}
+	}
+	c:W47 = {
+		create_diplomatic_pact = {
+			country = c:X54 #Great Lakes
+			type = protectorate
+		}
+	}
+	c:W47 = {
+		create_diplomatic_pact = {
+			country = c:CUB
+			type = puppet
+		}
+	}
+	c:W47 = {
+		create_diplomatic_pact = {
+			country = c:UCA
+			type = puppet
+		}
+	}
+	c:W47 = {
+		create_diplomatic_pact = {
+			country = c:X65 #Quebek
+			type = dominion
+		}
+	}
+#Truces
+
+#Relations
+	c:W47 = {
+		set_relations = { country = c:BOH value = 50 }
+		set_relations = { country = c:CAS value = -100 }
+		set_relations = { country = c:CUB value = 10 }
+		set_relations = { country = c:GBR value = 50 }
+		set_relations = { country = c:ICL value = 10 }
+		set_relations = { country = c:UCA value = 10 }
+		set_relations = { country = c:X54 value = 10 }
+		set_relations = { country = c:X65 value = 10 }
+		set_relations = { country = c:X98 value = -100 }
+	}
+
+}
