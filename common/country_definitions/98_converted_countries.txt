@@ -472,6 +472,7 @@ ARB = {
 	country_type = unrecognized
 	tier = principality
 	cultures = { dynamic-al_suryah_arabic-culture-num1 mashriqi }
+	religion = shiite
 	capital = STATE_KHUZESTAN
 }
 
@@ -3428,7 +3429,8 @@ IRQ = {
 	color = { 122 132 110 }
 	country_type = unrecognized
 	tier = kingdom
-	cultures = { dynamic-al_suryah_arabic-culture-num1 mashriqi }
+	cultures = { mesopotamien }
+	religion = catholic
 	capital = STATE_BAGHDAD
 }
 
@@ -4499,7 +4501,8 @@ LEB = {
 	color = { 18 201 27 }
 	country_type = unrecognized
 	tier = principality
-	cultures = { dynamic-al_suryah_arabic-culture-num1 mashriqi }
+	cultures = { outremer }
+	religion = catholic
 	capital = STATE_LEBANON
 }
 
