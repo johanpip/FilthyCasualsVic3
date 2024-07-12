@@ -2,7 +2,7 @@
 	c:NZL = {
 		create_character = {
 			first_name = "Bernardo_de_Ayala"
-			ruler = yes
+			is_general = yes
 			culture = cu:spanish
 			religion = rel:catholic
 			birth_date = 1789.7.24

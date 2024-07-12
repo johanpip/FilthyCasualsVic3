@@ -2,8 +2,8 @@
 	c:CUB = {
 		create_character = {
 			first_name = "Flann_Sterne"
-			ruler = yes
-			culture = cu:neo-caribbean_colony-vestmenn
+			is_general = yes
+			culture = cu:vestlander
 			religion = rel:chalcedonian
 			birth_date = 1778.5.1
 			traits = {

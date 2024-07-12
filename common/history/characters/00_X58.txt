@@ -2,7 +2,7 @@
 	c:X58 = {
 		create_character = {
 			first_name = "Folquet_Pallavicini"
-			ruler = yes
+			is_general = yes
 			culture = cu:outremer
 			religion = rel:golden_path
 			birth_date = 1778.3.1

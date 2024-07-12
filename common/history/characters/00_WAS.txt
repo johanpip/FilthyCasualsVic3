@@ -2,7 +2,6 @@
 	c:WAS = {
 		create_character = {
 			first_name = "Mahdi_Wami"
-			ruler = yes
 			is_general = yes
 			commander_rank = commander_rank_2
 			culture = cu:dynamic-bedouin_arabic-al_misr_arabic-somali-culture-num1

@@ -2,7 +2,7 @@
 	c:X60 = {
 		create_character = {
 			first_name = "Taimur_Pignatelli"
-			ruler = yes
+			is_general = yes
 			culture = cu:outremer
 			religion = rel:golden_path
 			birth_date = 1800.3.2

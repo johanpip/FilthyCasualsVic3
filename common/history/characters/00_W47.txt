@@ -1,8 +1,8 @@
 ﻿CHARACTERS = {
 	c:W47 = {
 		create_character = {
-			first_name = "Niall_Martyn"
-			ruler = yes
+			first_name = "Niall_Martyn" #Ex president XRuler
+			is_general = yes
 			culture = cu:neo-usa_south_colony-vestmenn
 			religion = rel:chalcedonian
 			birth_date = 1795.7.31

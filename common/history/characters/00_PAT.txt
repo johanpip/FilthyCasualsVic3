@@ -2,7 +2,7 @@
 	c:PAT = {
 		create_character = {
 			first_name = "Miguel_Pimentel"
-			ruler = yes
+			is_general = yes
 			culture = cu:platinean
 			religion = rel:catholic
 			birth_date = 1799.8.6
