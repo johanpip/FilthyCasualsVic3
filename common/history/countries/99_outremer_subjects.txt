@@ -1,1 +1,213 @@
-﻿
+﻿COUNTRIES = {
+#Trade Companies
+    c:X56 = { #Goa
+        #Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_parliamentary_republic
+		activate_law = law_type:law_wealth_voting
+        activate_law = law_type:law_cultural_exclusion
+        activate_law = law_type:law_racial_segregation
+		activate_law = law_type:law_elected_bureaucrats
+        activate_law = law_type:law_national_militia
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_interventionism
+        activate_law = law_type:law_mercantilism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_no_colonial_affairs
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        #activate_law = law_child_labor_allowed
+        activate_law = law_type:law_no_womens_rights
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_slavery_banned
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_industrialists = {
+			set_ig_bolstering = yes
+ 		}
+		ig:ig_trade_unions = {
+			set_ig_bolstering = yes
+ 		}
+#		set_institution_investment_level = {
+#			institution = institution_police
+#			level = 1
+#		}
+	}
+	c:X57 = {   #Bharuch
+        #Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_parliamentary_republic
+		activate_law = law_type:law_wealth_voting
+        activate_law = law_type:law_cultural_exclusion
+        activate_law = law_type:law_racial_segregation
+		activate_law = law_type:law_elected_bureaucrats
+        activate_law = law_type:law_national_militia
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_interventionism
+        activate_law = law_type:law_mercantilism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_no_colonial_affairs
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        #activate_law = law_child_labor_allowed
+        activate_law = law_type:law_no_womens_rights
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_slavery_banned
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_industrialists = {
+			set_ig_bolstering = yes
+ 		}
+		ig:ig_trade_unions = {
+			set_ig_bolstering = yes
+ 		}
+#		set_institution_investment_level = {
+#			institution = institution_police
+#			level = 1
+#		}
+	}
+	c:X58 = {   #Jeyporee
+        #Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_parliamentary_republic
+		activate_law = law_type:law_wealth_voting
+        activate_law = law_type:law_cultural_exclusion
+        activate_law = law_type:law_racial_segregation
+		activate_law = law_type:law_elected_bureaucrats
+        activate_law = law_type:law_national_militia
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_interventionism
+        activate_law = law_type:law_mercantilism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_no_colonial_affairs
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        #activate_law = law_child_labor_allowed
+        activate_law = law_type:law_no_womens_rights
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_slavery_banned
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_industrialists = {
+			set_ig_bolstering = yes
+ 		}
+		ig:ig_trade_unions = {
+			set_ig_bolstering = yes
+ 		}
+#		set_institution_investment_level = {
+#			institution = institution_police
+#			level = 1
+#		}
+	}
+	c:X59 = {   #Gird
+        #Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_parliamentary_republic
+		activate_law = law_type:law_wealth_voting
+        activate_law = law_type:law_cultural_exclusion
+        activate_law = law_type:law_racial_segregation
+		activate_law = law_type:law_elected_bureaucrats
+        activate_law = law_type:law_national_militia
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_interventionism
+        activate_law = law_type:law_mercantilism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_no_colonial_affairs
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        #activate_law = law_child_labor_allowed
+        activate_law = law_type:law_no_womens_rights
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_slavery_banned
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_industrialists = {
+			set_ig_bolstering = yes
+ 		}
+		ig:ig_trade_unions = {
+			set_ig_bolstering = yes
+ 		}
+#		set_institution_investment_level = {
+#			institution = institution_police
+#			level = 1
+#		}
+	}
+	c:X60 = {   #Gorwar
+        #Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_parliamentary_republic
+		activate_law = law_type:law_wealth_voting
+        activate_law = law_type:law_cultural_exclusion
+        activate_law = law_type:law_racial_segregation
+		activate_law = law_type:law_elected_bureaucrats
+        activate_law = law_type:law_national_militia
+        activate_law = law_type:law_no_home_affairs
+        #EconomyLaws
+        activate_law = law_type:law_interventionism
+        activate_law = law_type:law_mercantilism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_no_colonial_affairs
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_no_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        #activate_law = law_child_labor_allowed
+        activate_law = law_type:law_no_womens_rights
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_slavery_banned
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		ig:ig_industrialists = {
+			set_ig_bolstering = yes
+ 		}
+		ig:ig_trade_unions = {
+			set_ig_bolstering = yes
+ 		}
+#		set_institution_investment_level = {
+#			institution = institution_police
+#			level = 1
+#		}
+    }
+}

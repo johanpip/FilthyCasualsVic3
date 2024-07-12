@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 #Subject states (just tunis for now)
-c:TUN = { #Tunis
+    c:TUN = { #Tunis
     #Technology
 		effect_starting_technology_tier_3_tech = yes
 
@@ -27,7 +27,7 @@ c:TUN = { #Tunis
         #activate_law = law_child_labor_allowed
         activate_law = law_type:law_no_womens_rights
         activate_law = law_type:law_no_social_security
-		activate_law = law_type:law_closed_borders
+		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_slavery_banned
 
 		#InterestGroups,Haven't touched these at all yet, just default converter settings
@@ -43,7 +43,7 @@ c:TUN = { #Tunis
 #		}
 	}
 #Fatimid Trade Companies
-c:W57 = { #Madras Company
+    c:W57 = { #Madras Company
         #Technology
 		effect_starting_technology_tier_3_tech = yes
 
@@ -70,7 +70,7 @@ c:W57 = { #Madras Company
         #activate_law = law_child_labor_allowed
         activate_law = law_type:law_no_womens_rights
         activate_law = law_type:law_no_social_security
-		activate_law = law_type:law_closed_borders
+		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_slave_trade
 
 		#InterestGroups,Haven't touched these at all yet, just default converter settings
@@ -85,7 +85,7 @@ c:W57 = { #Madras Company
 #			level = 1
 #		}
 	}
-c:W58 = { #Moluccas Company
+    c:W58 = { #Moluccas Company
         #Technology
 		effect_starting_technology_tier_3_tech = yes
 
@@ -112,7 +112,7 @@ c:W58 = { #Moluccas Company
         #activate_law = law_child_labor_allowed
         activate_law = law_type:law_no_womens_rights
         activate_law = law_type:law_no_social_security
-		activate_law = law_type:law_closed_borders
+		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_slave_trade
 
 		#InterestGroups,Haven't touched these at all yet, just default converter settings
@@ -128,7 +128,7 @@ c:W58 = { #Moluccas Company
 #		}
 	}
 #Fatimid Colonial Nations (Australia)
-c:WAS = { #Australia
+    c:WAS = { #Australia
         #Technology
 		effect_starting_technology_tier_3_tech = yes
 
@@ -155,7 +155,7 @@ c:WAS = { #Australia
         #activate_law = law_child_labor_allowed
         activate_law = law_type:law_no_womens_rights
         activate_law = law_type:law_no_social_security
-		activate_law = law_type:law_closed_borders
+		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_slave_trade
 
 		#InterestGroups,Haven't touched these at all yet, just default converter settings
