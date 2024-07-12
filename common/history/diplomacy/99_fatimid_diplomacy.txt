@@ -31,12 +31,12 @@
 			type = dominion
 		}
 	}
-    	c:ETH = {
-		create_diplomatic_pact = {
-			country = c:P13
-			type = protectorate
-		}
-	}
+#    	c:ETH = { #an australian aboriginal from eu4, we could make them into civilized tribe so the subject status remains, or we just delete this
+#		create_diplomatic_pact = {
+#			country = c:P13
+#			type = protectorate
+#		}
+#	}
 #Truces
 
 #Relations
