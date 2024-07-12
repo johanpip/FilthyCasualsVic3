@@ -1,0 +1,49 @@
+﻿COUNTRIES = {
+#Subject Nations
+c:W80 = { #Ravenna
+        #Technology
+		effect_starting_technology_tier_3_tech = yes
+
+        #PowerStructureLaws
+        activate_law = law_type:law_theocracy
+		activate_law = law_type:law_autocracy
+        activate_law = law_type:law_national_supremacy
+        activate_law = law_type:law_state_religion
+		activate_law = law_type:law_appointed_bureaucrats
+        activate_law = law_type:law_professional_army
+        activate_law = law_type:law_national_guard
+        #EconomyLaws
+        activate_law = law_type:law_interventionism
+        activate_law = law_type:law_protectionism
+        activate_law = law_type:law_per_capita_based_taxation
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_no_colonial_affairs
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_religious_schools
+		activate_law = law_type:law_no_health_system
+		#HumanRightsLaws
+        activate_law = law_type:law_censorship
+        activate_law = law_type:law_no_workers_rights
+        #activate_law = law_child_labor_allowed
+        activate_law = law_type:law_women_own_property
+        activate_law = law_type:law_no_social_security
+		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_slavery_banned
+
+		#InterestGroups,Haven't touched these at all yet, just default converter settings
+		#ig:ig_trade_unions = {
+			#set_ig_bolstering = yes
+ 		#}
+		#ig:ig_landowners = {
+			#add_ideology = ideology_dummy_pious_02
+ 		#}
+		#set_institution_investment_level = {
+			#institution = institution_colonial_affairs
+			#level = 1
+		#}
+		#set_institution_investment_level = {
+			#institution = institution_schools
+			#level = 3
+		#}
+	}
+}
