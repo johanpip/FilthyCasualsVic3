@@ -41,8 +41,6 @@
 			institution = institution_police
 			level = 1
 		}
-
-
     }
 	c:GBR = { #Britannia
 				#Technology
