@@ -1,0 +1,32 @@
+﻿namespace = annex_s-africa
+
+# Dual Monarchy event
+annex_s-africa.1 = {
+	type = country_event
+	desc = annex_s-africa.1.d
+	title = annex_s-africa.1.t 
+	flavor = annex_s-africa.1.f
+
+	event_image = {
+		video = "unspecific_ruler_speaking_to_people"
+	}
+
+	icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+
+	duration = 3
+
+	trigger = {
+		# triggered by JE
+	}
+
+
+	option = {
+         name = annex_s-africa.o.1
+		  default_option = yes
+		annex = c:W56
+
+	    
+    }
+}

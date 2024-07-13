@@ -1,0 +1,38 @@
+﻿je_s-africa_annex = {
+	icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+
+	group = je_group_dominion_journal
+		is_shown_when_inactive = {
+		#hidden_trigger = { NOT = { has_global_variable = schleswig_holstein_question_solved } }		
+		OR = {
+			country_has_primary_culture = cu:spanish
+		}
+	}
+
+	possible = {
+		#hidden_trigger = { NOT = { has_global_variable = schleswig_holstein_question_solved } }			
+		OR = {
+			country_has_primary_culture = cu:spanish
+		}			
+	}
+
+	complete = {
+
+			has_technology_researched = quinine
+            has_technology_researched = nationalism
+	}
+
+	on_complete = {
+		trigger_event = { id = annex_s-africa.1 }	
+	}
+
+	invalid = {
+		OR = {
+			is_subject = yes
+		}
+	}
+	
+	weight = 1000
+	
+	should_be_pinned_by_default = yes
+}
