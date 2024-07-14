@@ -217,7 +217,7 @@
 			}
 		}
 	}
-	s:STATE_ALABAMA = {
+	s:STATE_ALABAMA = { #deleted 1 port
 		region_state:W47 = {
 			create_building = {
 				building = "building_university"
@@ -248,12 +248,6 @@
 				level = 5
 				reserves = 1
 				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_government_administration"
@@ -1823,17 +1817,11 @@
 			}
 		}
 	}
-	s:STATE_BAJA_CALIFORNIA = {
+	s:STATE_BAJA_CALIFORNIA = { #deleted 7 ports, replaced with 1 fishing wharf to keep code looking nice
 		region_state:W47 = {
 			create_building = {
-				building = "building_port"
+				building = "building_fishing_wharf"
 				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_basic_port" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 6
 				reserves = 1
 				activate_production_methods = { }
 			}
@@ -2829,7 +2817,7 @@
 			}
 		}
 	}
-	s:STATE_BRITISH_COLUMBIA = {
+	s:STATE_BRITISH_COLUMBIA = { #deleted 1 port
 		region_state:W47 = {
 			create_building = {
 				building = "building_barracks"
@@ -2848,12 +2836,6 @@
 				level = 1
 				reserves = 1
 				activate_production_methods = { "pm_pig_iron" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
 			}
 		}
 	}
@@ -12387,7 +12369,7 @@
 			}
 		}
 	}
-	s:STATE_MARYLAND = {
+	s:STATE_MARYLAND = { #deleted 2 ports
 		region_state:W47 = {
 			create_building = {
 				building = "building_cotton_plantation"
@@ -12397,7 +12379,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				level = 3
+				level = 1
 				reserves = 1
 				activate_production_methods = { }
 			}
@@ -14135,7 +14117,7 @@
 			}
 		}
 	}
-	s:STATE_NICARAGUA = {
+	s:STATE_NICARAGUA = { #deleted 1 port
 		region_state:W47 = {
 			create_building = {
 				building = "building_university"
@@ -14154,12 +14136,6 @@
 				level = 8
 				reserves = 1
 				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
 			}
 		}
 	}
@@ -15447,19 +15423,13 @@
 			}
 		}
 	}
-	s:STATE_OREGON = {
+	s:STATE_OREGON = { #deleted 1 port
 		region_state:W47 = {
 			create_building = {
 				building = "building_arms_industry"
 				level = 1
 				reserves = 1
 				activate_production_methods = { "pm_muskets" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
 			}
 		}
 	}
@@ -16795,13 +16765,13 @@
 			}
 		}
 	}
-	s:STATE_QUEBEC = {
+	s:STATE_QUEBEC = { #deleted 2 VIN port
 		region_state:N11 = {
 		}
 		region_state:W47 = {
 			create_building = {
 				building = "building_port"
-				level = 2
+				level = 1
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
 			}
@@ -16828,12 +16798,6 @@
 				level = 5
 				reserves = 1
 				activate_production_methods = { "pm_no_secondary" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
 			}
 		}
 		region_state:X65 = {
@@ -17663,13 +17627,13 @@
 			}
 		}
 	}
-	s:STATE_SAN_SALVADOR = {
+	s:STATE_SAN_SALVADOR = { #deleted 1 port, replaced with gov admin building
 		region_state:W47 = {
 			create_building = {
-				building = "building_port"
+				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_basic_port" }
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
 			}
 		}
 	}
@@ -18827,7 +18791,7 @@
 			}
 		}
 	}
-	s:STATE_SONORA = {
+	s:STATE_SONORA = { #deleted 1 port
 		region_state:W47 = {
 			create_building = {
 				building = "building_university"
@@ -20183,7 +20147,7 @@
 			}
 		}
 	}
-	s:STATE_TEXAS = {
+	s:STATE_TEXAS = { #deleted 1 VIN port
 		region_state:CAL = {
 			create_building = {
 				building = "building_construction_sector"
@@ -20260,12 +20224,6 @@
 				level = 1
 				reserves = 1
 				activate_production_methods = { "pm_vertical_filing_cabinets" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
 			}
 		}
 	}
