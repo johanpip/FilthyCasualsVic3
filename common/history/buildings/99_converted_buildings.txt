@@ -253,7 +253,7 @@
 				building = "building_government_administration"
 				level = 3
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 	}
@@ -1209,7 +1209,7 @@
 				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 	}
@@ -3265,7 +3265,7 @@
 				building = "building_government_administration"
 				level = 3
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_port"
@@ -4556,18 +4556,12 @@
 		}
 	}
 	s:STATE_CONNECTICUT = {
-		region_state:W47 = {
+		region_state:W47 = { #deleted 1 port
 			create_building = {
 				building = "building_port"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_basic_port" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
+				activate_production_methods = { "pm_anchorage" }
 			}
 		}
 	}
@@ -6666,7 +6660,7 @@
 				building = "building_government_administration"
 				level = 3
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 	}
@@ -7142,7 +7136,7 @@
 				building = "building_government_administration"
 				level = 3
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_port"
@@ -10220,7 +10214,7 @@
 				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 	}
@@ -11628,7 +11622,7 @@
 				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_port"
@@ -13096,7 +13090,7 @@
 				building = "building_government_administration"
 				level = 3
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_port"
@@ -14824,7 +14818,7 @@
 				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_port"
@@ -15300,7 +15294,7 @@
 				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 		region_state:X54 = {
@@ -15762,7 +15756,7 @@
 				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_port"
@@ -17616,7 +17610,7 @@
 				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 	}
@@ -19146,7 +19140,7 @@
 				building = "building_government_administration"
 				level = 2
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_port"
@@ -20126,7 +20120,7 @@
 				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 	}
@@ -20206,7 +20200,7 @@
 				building = "building_government_administration"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 	}
@@ -21872,7 +21866,7 @@
 				building = "building_government_administration"
 				level = 3
 				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_port"
