@@ -217,7 +217,7 @@
 			}
 		}
 	}
-	s:STATE_ALABAMA = { #deleted 1 port
+	s:STATE_ALABAMA = { #deleted 1 port added 2 gov adm
 		region_state:W47 = {
 			create_building = {
 				building = "building_university"
@@ -251,7 +251,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				level = 3
+				level = 5
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
@@ -6625,7 +6625,7 @@
 		}
 	}
 	s:STATE_FLORIDA = {
-		region_state:W47 = { #deleted 1 port
+		region_state:W47 = { #deleted 1 port added 2 gov adm
 			create_building = {
 				building = "building_naval_base"
 				level = 3
@@ -6658,7 +6658,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				level = 3
+				level = 5
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
@@ -11598,7 +11598,7 @@
 			}
 		}
 	}
-	s:STATE_LOUISIANA = {
+	s:STATE_LOUISIANA = { #added 2 gov adm
 		region_state:W47 = {
 			create_building = {
 				building = "building_barracks"
@@ -11620,7 +11620,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				level = 1
+				level = 3
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
@@ -13054,7 +13054,7 @@
 			}
 		}
 	}
-	s:STATE_MISSISSIPPI = {
+	s:STATE_MISSISSIPPI = { #added 2 gov adm
 		region_state:W47 = {
 			create_building = {
 				building = "building_university"
@@ -13088,7 +13088,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				level = 3
+				level = 5
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}

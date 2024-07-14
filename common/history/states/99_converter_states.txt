@@ -1611,7 +1611,7 @@
 		create_state = {
 			country = c:W47
 			owned_provinces = { x3040C0 x7DE678 x9D3A73 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
 		add_homeland = cu:metis
@@ -4430,7 +4430,7 @@
 		create_state = {
 			country = c:W47
 			owned_provinces = { x3E62DB x5AE35B x76F2C5 x8E9E5A x90C040 x924593 x939662 xA912ED xC0F9BB xD5A04C xF7CF1A }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:metis
 		add_homeland = cu:paiute
@@ -4598,12 +4598,12 @@
 		create_state = {
 			country = c:W47
 			owned_provinces = { x01D042 x195B49 x1BAD55 x235E9F x260926 x2CA754 x300080 x308000 x377E55 x38C881 x3CB274 x42D496 x4B0747 x70C080 x73A16C x75F2A6 x8C059D x99CB10 x9CC56A xA6BED5 xA7B5FE xB00080 xB08000 xB343E6 xBA53D0 xD534B1 xDB0967 xE217B5 xE7BE2D xEDC7DA xFC18F1 xFCF1BE }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		create_state = {
 			country = c:X65
 			owned_provinces = { x05187E x9484F3 xEC2EAA }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
 		add_homeland = cu:iroquoian
@@ -5052,7 +5052,6 @@
 			owned_provinces = { x1BCEF6 x29AC5E x4159A8 x87B6F9 x97182B x98FEC3 xC04080 xD1A412 xD205C1 }
 			state_type = incorporated
 		}
-		add_homeland = cu:anglo_canadian
 		add_homeland = cu:inuit
 		add_homeland = cu:vinlander
 		add_claim = c:W47
@@ -5449,7 +5448,7 @@
 		create_state = {
 			country = c:W47
 			owned_provinces = { x038B77 x0804CE x242311 x265ADC x308080 x345319 x413E60 x4CB9DF x501463 x533151 x56401E x606D4F x67DB6F x691121 x6C494D x703866 x75195D x7CF534 x8C787A x976E86 xAC9DC0 xACC198 xAF1AEE xB00000 xB7EDCF xBC1A94 xC0C080 xC4DED4 xC786AB xCDBD85 xDD6B3C xE2ACEE xF08080 xF1C228 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
 		add_homeland = cu:iroquoian
@@ -5770,7 +5769,7 @@
 		create_state = {
 			country = c:W47
 			owned_provinces = { x1A77EA x939ACE xC5CE93 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:algonquian
 		add_homeland = cu:vinlander
@@ -6342,7 +6341,7 @@
 		create_state = {
 			country = c:W47
 			owned_provinces = { x01D099 x03709A x0A3CB6 x0E6844 x0F641B x12D3FB x14EE17 x1A4988 x27B5D7 x2DAABF x421F6A x4271A2 x5238CD x54B1CE x575437 x60D0C0 x6DA277 x7036C3 x7D0279 x81A80B x8646F0 x8BD05C x9A8A72 x9FBBA9 xA2A7AB xAF76BB xBB07D6 xC699E3 xCC0672 xDF50C0 xE51C65 xE8078D xE9BBD3 xF03A69 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:oodham
 		add_homeland = cu:stillemenn
@@ -7669,7 +7668,7 @@
 		create_state = {
 			country = c:W47
 			owned_provinces = { x39FC40 x3E86B7 x4A71CA x52A5FD x657999 x779B77 x900040 xA6AF2F xD04040 xF57B6E xF6BC89 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		create_state = {
 			country = c:X40
