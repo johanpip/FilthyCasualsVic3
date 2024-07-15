@@ -1673,22 +1673,7 @@
 		}
 	}
 	
-	s:STATE_BAJIO = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_university"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_maize_farm"
-				level = 3
-				reserves = 1
-				activate_production_methods = { "pm_citrus_orchards" }
-			}
-		}
-	}
+
 	s:STATE_BAJO_PARAGUAY = {
 		region_state:PAT = {
 			create_building = {
@@ -3856,56 +3841,7 @@
 			}
 		}
 	}
-	s:STATE_CHIAPAS = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_construction_sector"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_dye_plantation"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_fishing_wharf"
-				level = 2
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-	}
-	s:STATE_CHIHUAHUA = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_dye_plantation"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_furniture_manufacturies"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_handcrafted_furniture" "pm_luxury_furniture" }
-			}
-		}
-	}
+	
 	s:STATE_CHONGQING = {
 		region_state:W25 = {
 			create_building = {
@@ -5068,22 +5004,7 @@
 			}
 		}
 	}
-	s:STATE_DURANGO = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_maize_farm"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_secondary" }
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-		}
-	}
+	
 	s:STATE_DZUNGARIA = {
 		region_state:W25 = {
 			create_building = {
@@ -7164,34 +7085,7 @@
 			}
 		}
 	}
-	s:STATE_GUATEMALA = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_basic_port" }
-			}
-			create_building = {
-				building = "building_fishing_wharf"
-				level = 2
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_iron_mine"
-				level = 2
-				reserves = 1
-				activate_production_methods = { "pm_picks_and_shovels_building_iron_mine" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-	}
+	
 	s:STATE_GUAVIARE = {
 		region_state:CLM = {
 			create_building = {
@@ -7268,28 +7162,7 @@
 			}
 		}
 	}
-	s:STATE_GUERRERO = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_maize_farm"
-				level = 3
-				reserves = 1
-				activate_production_methods = { "pm_no_secondary" }
-			}
-			create_building = {
-				building = "building_paper_mills"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-	}
+	
 	s:STATE_GUINEA = {
 		region_state:CAS = {
 			create_building = {
@@ -8829,58 +8702,7 @@
 			}
 		}
 	}
-	s:STATE_JALISCO = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_fishing_wharf"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				level = 4
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 12
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_university"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_iron_mine"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_picks_and_shovels_building_iron_mine" }
-			}
-			create_building = {
-				building = "building_furniture_manufacturies"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_handcrafted_furniture" "pm_luxury_furniture" }
-			}
-			create_building = {
-				building = "building_government_administration"
-				level = 4
-				reserves = 1
-				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-	}
+	
 	s:STATE_JAMAICA = {
 		region_state:CUB = {
 			create_building = {
@@ -12060,62 +11882,8 @@
 			}
 		}
 	}
-	s:STATE_MEXICO = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_maize_farm"
-				level = 3
-				reserves = 1
-				activate_production_methods = { "pm_no_secondary" }
-			}
-			create_building = {
-				building = "building_dye_plantation"
-				level = 5
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_food_industry"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_pot_stills" }
-			}
-			create_building = {
-				building = "building_government_administration"
-				level = 2
-				reserves = 1
-				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-		}
-	}
-	s:STATE_MICHIGAN = {
-		region_state:X54 = {
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_university"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_iron_mine"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_picks_and_shovels_building_iron_mine" }
-			}
-			create_building = {
-				building = "building_furniture_manufacturies"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_handcrafted_furniture" }
-			}
-		}
-	}
+	
+	
 	s:STATE_MIDDLE_EGYPT = {
 		region_state:ETH = {
 			create_building = {
@@ -14138,40 +13906,7 @@
 		}
 	}
 	
-	s:STATE_OAXACA = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_maize_farm"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_secondary" }
-			}
-			create_building = {
-				building = "building_dye_plantation"
-				level = 5
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_furniture_manufacturies"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_handcrafted_furniture" "pm_no_luxuries" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-	}
+	
 	s:STATE_OB = {
 		region_state:X64 = {
 			create_building = {
@@ -15856,46 +15591,7 @@
 			}
 		}
 	}
-	s:STATE_RIO_GRANDE = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_construction_sector"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				level = 2
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 8
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_furniture_manufacturies"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_handcrafted_furniture" "pm_no_luxuries" }
-			}
-			create_building = {
-				building = "building_government_administration"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-	}
+	
 	s:STATE_RIO_GRANDE_DO_NORTE = {
 		region_state:X24 = {
 			create_building = {
@@ -17252,28 +16948,7 @@
 			}
 		}
 	}
-	s:STATE_SINALOA = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_maize_farm"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_secondary" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-	}
+	
 	s:STATE_SINDH = {
 		region_state:X60 = {
 			create_building = {
@@ -20245,34 +19920,7 @@
 			}
 		}
 	}
-	s:STATE_VERACRUZ = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_naval_base"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_dye_plantation"
-				level = 4
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_food_industry"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_pot_stills" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-	}
+	
 	s:STATE_VERMONT = {
 		region_state:X65 = {
 			create_building = {
@@ -21674,34 +21322,7 @@
 			}
 		}
 	}
-	s:STATE_YUCATAN = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_basic_port" }
-			}
-			create_building = {
-				building = "building_dye_plantation"
-				level = 5
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_shipyards"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_basic_shipbuilding" }
-			}
-			create_building = {
-				building = "building_port"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-	}
+	
 	s:STATE_YUNNAN = {
 		region_state:CMI = {
 			create_building = {
@@ -21764,22 +21385,7 @@
 			}
 		}
 	}
-	s:STATE_ZACATECAS = {
-		region_state:UCA = {
-			create_building = {
-				building = "building_dye_plantation"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_maize_farm"
-				level = 3
-				reserves = 1
-				activate_production_methods = { "pm_no_secondary" }
-			}
-		}
-	}
+	
 	s:STATE_ZAMBEZI = {
 		region_state:ETH = {
 			create_building = {
