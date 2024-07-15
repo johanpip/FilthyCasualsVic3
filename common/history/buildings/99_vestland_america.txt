@@ -1706,7 +1706,7 @@
 	}
 
 #Great Lakes
-s:STATE_MICHIGAN = {
+    s:STATE_MICHIGAN = {
 		region_state:X54 = {
 			create_building = {
 				building = "building_barracks"
@@ -1736,6 +1736,144 @@ s:STATE_MICHIGAN = {
 	}
 
 #Vinlandseyjar
+
+#Occidentalia
+s:STATE_MAINE = {
+		region_state:X65 = {
+			create_building = {
+				building = "building_barracks"
+				level = 2
+				reserves = 1
+				activate_production_methods = { "pm_no_organization" }
+			}
+			create_building = {
+				building = "building_fishing_wharf"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_university"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_food_industry"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_pot_stills" }
+			}
+			create_building = {
+				building = "building_port"
+				level = 6
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+    s:STATE_NEW_BRUNSWICK = {
+		region_state:X65 = {
+			create_building = {
+				building = "building_naval_base"
+				level = 3
+				reserves = 1
+				activate_production_methods = { "pm_no_naval_theory" }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 8
+				reserves = 1
+				activate_production_methods = { "pm_no_organization" }
+			}
+			create_building = {
+				building = "building_university"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_coal_mine"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_picks_and_shovels_building_coal_mine" }
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				level = 2
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_furniture_manufacturies"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_handcrafted_furniture" }
+			}
+			create_building = {
+				building = "building_government_administration"
+				level = 2
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+			create_building = {
+				building = "building_port"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+	s:STATE_NEW_HAMPSHIRE = {
+		region_state:X65 = {
+			create_building = {
+				building = "building_university"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_tobacco_plantation"
+				level = 2
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+    s:STATE_VERMONT = {
+		region_state:X65 = {
+			create_building = {
+				building = "building_construction_sector"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_no_organization" }
+			}
+			create_building = {
+				building = "building_tobacco_plantation"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_iron_mine"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_picks_and_shovels_building_iron_mine" }
+			}
+		}
+	}
 
 #K-Vinland
 
