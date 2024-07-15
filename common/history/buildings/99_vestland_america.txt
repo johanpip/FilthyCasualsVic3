@@ -1240,7 +1240,67 @@
 			}
 		}
 	}
-
+#Iceland 
+    s:STATE_ICELAND = {
+		region_state:DEN = { #NEXUX LOOK HERE FAROES ICELAND
+			create_building = {
+				building = "building_barracks"
+				level = 2
+				reserves = 1
+				activate_production_methods = { "pm_no_organization" }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				level = 2
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+		region_state:ICL = {
+			create_building = {
+				building = "building_fishing_wharf"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_naval_base"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_no_naval_theory" }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_no_organization" }
+			}
+			create_building = {
+				building = "building_whaling_station"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_basic_port" }
+			}
+			create_building = {
+				building = "building_government_administration"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+			create_building = {
+				building = "building_port"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
 #Texas 
     s:STATE_TEXAS = { #deleted 1 VIN port
 		region_state:CAL = {
@@ -2146,6 +2206,86 @@
 	}
 
 #K-Vinland
+    s:STATE_COLORADO = {
+		region_state:ARP = {
+		}
+		region_state:CAL = {
+			create_building = {
+				building = "building_livestock_ranch"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_maize_farm"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
+			}
+		}
+	}
+    s:STATE_NEBRASKA = {
+		region_state:CAL = {
+			create_building = {
+				building = "building_construction_sector"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 2
+				reserves = 1
+				activate_production_methods = { "pm_general_training" }
+			}
+			create_building = {
+				building = "building_maize_farm"
+				level = 2
+				reserves = 1
+				activate_production_methods = { }
+			}
+		}
+	}
+    s:STATE_NEW_MEXICO = {
+		region_state:CAL = {
+			create_building = {
+				building = "building_barracks"
+				level = 2
+				reserves = 1
+				activate_production_methods = { "pm_general_training" }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				level = 2
+				reserves = 1
+				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
+				building = "building_cotton_plantation"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_furniture_manufacturies"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_lathe" }
+			}
+			create_building = {
+				building = "building_government_administration"
+				level = 2
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+		}
+	}
 
 #Split states 
 	s:STATE_ARIZONA = {
@@ -2480,42 +2620,42 @@
 	}
 
 #Split states in other files 
-#s:STATE_ECUADOR = { #VIN ecuador buildings are in 99_converted_buildings.txt
-#		region_state:W47 = { #deleted 1 VIN port
-#			create_building = {
-#				building = "building_port"
-#				level = 1
-#				reserves = 1
-#				activate_production_methods = { "pm_anchorage" }
-#			}
-#			create_building = {
-#				building = "building_naval_base"
-#				level = 3
-#				reserves = 1
-#				activate_production_methods = { "pm_no_naval_theory" }
-#			}
-#    }
-#    s:STATE_ZULIA = {
-#
-#		region_state:CUB = { #Vinlandeyjar ARUBA buildings are in 99_converted_buildings.txt
-#			create_building = {
-#				building = "building_barracks"
-#				level = 1
-#				reserves = 1
-#				activate_production_methods = { "pm_no_organization" }
-#			}
-#			create_building = {
-#				building = "building_naval_base"
-#				level = 1
-#				reserves = 1
-#				activate_production_methods = { "pm_no_naval_theory" }
-#			}
-#			create_building = {
-#				building = "building_port"
-#				level = 1
-#				reserves = 1
-#				activate_production_methods = { "pm_basic_port" }
-#			}
-#		}
+ #   s:STATE_ECUADOR = { #VIN ecuador buildings are in 99_converted_buildings.txt
+ #		region_state:W47 = { #deleted 1 VIN port
+ #			create_building = {
+ #				building = "building_port"
+ #				level = 1
+ #				reserves = 1
+ #				activate_production_methods = { "pm_anchorage" }
+ #			}
+ #			create_building = {
+ #				building = "building_naval_base"
+ #				level = 3
+ #				reserves = 1
+ #				activate_production_methods = { "pm_no_naval_theory" }
+ #			}
+ #    }
+ #    s:STATE_ZULIA = {
+ #
+ #		region_state:CUB = { #Vinlandeyjar ARUBA buildings are in 99_converted_buildings.txt
+ #			create_building = {
+ #				building = "building_barracks"
+ #				level = 1
+ #				reserves = 1
+ #				activate_production_methods = { "pm_no_organization" }
+ #			}
+ #			create_building = {
+ #				building = "building_naval_base"
+ #				level = 1
+ #				reserves = 1
+ #				activate_production_methods = { "pm_no_naval_theory" }
+ #			}
+ #			create_building = {
+ #				building = "building_port"
+ #				level = 1
+ #				reserves = 1
+ #				activate_production_methods = { "pm_basic_port" }
+ #			}
+ #		}
 
 }
