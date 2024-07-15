@@ -1,0 +1,93 @@
+﻿W03 = { # Outremer
+	# Mesopotamian Republic
+	dynamic_country_name = {
+		name = dyn_W03_mes_rep
+		adjective = dyn_W03_mes_adj
+
+		is_main_tag_only = yes
+		priority = 0
+		
+		trigger = { # Scripted trigger, country-scope
+            coa_def_republic_flag_trigger = yes
+			scope:actor ?= {
+				NOT = {
+					OR = {
+						has_law = law_type:law_ethnostate
+						has_law = law_type:law_national_supremacy
+					}
+				}
+			}
+		}
+	}
+
+	# Outremer Republic
+	dynamic_country_name = {
+		name = dyn_W03_rep
+
+		is_main_tag_only = yes
+		priority = 0
+		
+		trigger = { # Scripted trigger, country-scope
+            coa_def_republic_flag_trigger = yes
+			scope:actor ?= {
+				OR = {
+					has_law = law_type:law_ethnostate
+					has_law = law_type:law_national_supremacy
+				}
+			}
+		}
+	}
+
+	# Empire
+	dynamic_country_name = {
+		name = dyn_W03_emp
+		
+		is_main_tag_only = yes
+		priority = 0
+		
+		trigger = {
+			coa_def_monarchy_flag_trigger = yes
+			scope:actor ?= { 
+				country_rank >= rank_value:major_power
+			}
+		}
+	}
+
+	# Communist
+	dynamic_country_name = {
+		name = dyn_W03_communist
+		adjective = dyn_W03_crescent_adj
+		
+		is_main_tag_only = yes
+		priority = 1
+		
+		trigger = {
+			coa_def_communist_flag_trigger = yes
+		}
+	}
+
+	# Final Empire
+	dynamic_country_name = {
+		name = dyn_W03_nihilist
+		adjective = dyn_W03_nihilist_adj
+		
+		is_main_tag_only = yes
+		priority = 10
+		
+		trigger = {
+			scope:actor ?= {
+				has_law = law_type:law_state_atheism
+				OR = {
+					has_law = law_type:law_autocracy
+					has_law = law_type:law_technocracy
+					has_law = law_type:law_oligarchy
+					has_law = law_type:law_single_party_state
+				}
+				OR = {
+					has_law = law_type:law_cultural_exclusion
+					has_law = law_type:law_multicultural
+				}
+			}
+		}
+	}
+}
