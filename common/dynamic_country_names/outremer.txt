@@ -91,3 +91,80 @@
 		}
 	}
 }
+
+# Subjects
+
+X56 = { # Goa
+	dynamic_country_name = {
+		name = dyn_X56_subject
+		adjective = dyn_X56_subject_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			coa_def_subject_trigger = yes
+		}
+	}
+}
+
+X57 = { # Gujarat
+	dynamic_country_name = {
+		name = dyn_X57_subject
+		adjective = dyn_X57_subject_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			coa_def_subject_trigger = yes
+		}
+	}
+}
+
+X58 = { # Orissa
+	dynamic_country_name = {
+		name = dyn_X58_subject
+		adjective = dyn_X58_subject_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			coa_def_subject_trigger = yes
+		}
+	}
+}
+
+X59 = { # Deccan
+	dynamic_country_name = {
+		name = dyn_X59_subject
+		adjective = dyn_X59_subject_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			coa_def_subject_trigger = yes
+		}
+	}
+}
+
+X60 = { # Punjab
+	dynamic_country_name = {
+		name = dyn_X60_subject
+		adjective = dyn_X60_subject_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			coa_def_subject_trigger = yes
+		}
+	}
+}
