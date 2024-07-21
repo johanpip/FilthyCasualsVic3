@@ -1,4 +1,4 @@
-﻿STATE_LOWER_EGYPT = {
+STATE_LOWER_EGYPT = {
     id = 175
     subsistence_building = "building_subsistence_farms"
     provinces = { "x2050A0" "x409060" "x48E2A5" "x5011E0" "x50D0E0" "x6F13AD" "x7ABE4B" "xA0D020" "xC09060" "xC37990" "xD050E0" "xF47AAA" }
@@ -97,7 +97,7 @@ STATE_SINAI = {
     farm = "xD431F9"
     mine = "x8E5FD6"
     wood = "xC3AB33"
-    arable_land = 10
+    arable_land = 36
     arable_resources = { "bg_livestock_ranches" }
     capped_resources = {
         bg_fishing = 3
