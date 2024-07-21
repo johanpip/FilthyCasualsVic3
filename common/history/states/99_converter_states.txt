@@ -3794,12 +3794,7 @@
 	s:STATE_LOWER_EGYPT = {
 		create_state = {
 			country = c:ETH
-			owned_provinces = { x2050A0 x48E2A5 x5011E0 x50D0E0 x6F13AD x7ABE4B xA0D020 xC09060 xC37990 xD050E0 xF47AAA }
-			state_type = incorporated
-		}
-		create_state = {
-			country = c:W03
-			owned_provinces = { x409060 }
+			owned_provinces = { x2050A0 x48E2A5 x5011E0 x50D0E0 x6F13AD x7ABE4B xA0D020 xC09060 xC37990 xD050E0 xF47AAA x409060 }
 			state_type = incorporated
 		}
 		add_homeland = cu:dynamic-bedouin_arabic-al_misr_arabic-somali-culture-num1
