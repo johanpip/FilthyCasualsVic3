@@ -1590,7 +1590,7 @@
 		}
 	}
 	s:STATE_AZERBAIJAN = {
-		region_state:W03 = {
+		region_state:X90 = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -1621,8 +1621,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:X90 = {
 			create_building = {
 				building = "building_cotton_plantation"
 				level = 1
@@ -20530,7 +20528,7 @@
 		}
 	}
 	s:STATE_TOMSK = {
-		region_state:W25 = {
+		region_state:X90 = {
 			create_building = {
 				building = "building_coal_mine"
 				level = 1
@@ -20543,8 +20541,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:X64 = {
 			create_building = {
 				building = "building_barracks"
 				level = 1
@@ -20569,8 +20565,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:X90 = {
 			create_building = {
 				building = "building_university"
 				level = 1
@@ -21383,8 +21377,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
-		}
-		region_state:X90 = {
 			create_building = {
 				building = "building_logging_camp"
 				level = 1

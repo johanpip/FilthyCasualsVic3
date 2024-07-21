@@ -5014,7 +5014,7 @@
 		}
 	}
 	s:STATE_AZERBAIJAN = {
-		region_state:W03 = {
+		region_state:X90 = {
 			create_pop = {
 				culture = georgian
 				religion = orthodox
@@ -5060,8 +5060,6 @@
 				religion = jewish
 				size = 474
 			}
-		}
-		region_state:X90 = {
 			create_pop = {
 				culture = azerbaijani
 				religion = catholic
@@ -59495,14 +59493,12 @@
 		}
 	}
 	s:STATE_TOMSK = {
-		region_state:W25 = {
+		region_state:X90 = {
 			create_pop = {
 				culture = tuvan
 				religion = mahayana
 				size = 37195
 			}
-		}
-		region_state:X64 = {
 			create_pop = {
 				culture = tatar
 				religion = sunni
@@ -59543,8 +59539,6 @@
 				religion = vidilist
 				size = 234978
 			}
-		}
-		region_state:X90 = {
 			create_pop = {
 				culture = ugrian
 				religion = tengri_pagan_reformed
@@ -61723,8 +61717,6 @@
 				religion = vidilist
 				size = 40099
 			}
-		}
-		region_state:X90 = {
 			create_pop = {
 				culture = georgian
 				religion = orthodox
