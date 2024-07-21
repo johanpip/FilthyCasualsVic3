@@ -269,7 +269,7 @@
         activate_law = law_type:law_censorship
         activate_law = law_type:law_no_workers_rights
         #activate_law = law_child_labor_allowed
-        activate_law = law_type:law_women_in_the_workplace
+        activate_law = law_type:law_women_own_property
         activate_law = law_type:law_no_social_security
 		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_slavery_banned
