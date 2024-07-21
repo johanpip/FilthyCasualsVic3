@@ -11768,16 +11768,10 @@
 		}
 		region_state:W03 = {
 			create_building = {
-				building = "building_wheat_farm"
+				building = "building_port"
 				level = 1
 				reserves = 1
-				activate_production_methods = { "pm_no_secondary" }
-			}
-			create_building = {
-				building = "building_livestock_ranch"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
+				activate_production_methods = { "pm_basic_port" }
 			}
 		}
 	}

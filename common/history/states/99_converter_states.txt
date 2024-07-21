@@ -984,18 +984,8 @@
 	s:STATE_BRANDENBURG = {
 		create_state = {
 			country = c:BOH
-			owned_provinces = { x28CEC2 x60BF20 x61C0A0 x76EF4E x82F9A8 x83B1A8 x9B9076 x9E7304 xA040A0 xA65DA6 xB90BFF xDF4020 xF77289 xF8D457 }
+			owned_provinces = { x28CEC2 x60BF20 x61C0A0 x76EF4E x82F9A8 x83B1A8 x9B9076 x9E7304 xA040A0 xA65DA6 xB90BFF xDF4020 xF77289 xF8D457 x514C51 x069CFB }
 			state_type = incorporated
-		}
-		create_state = {
-			country = c:DEN
-			owned_provinces = { x069CFB }
-			state_type = unincorporated
-		}
-		create_state = {
-			country = c:X90
-			owned_provinces = { x514C51 }
-			state_type = unincorporated
 		}
 		add_homeland = cu:ceskobavorsky
 		add_homeland = cu:north_german
@@ -2286,13 +2276,8 @@
 	}
 	s:STATE_FRANCHE_COMTE = {
 		create_state = {
-			country = c:BOH
-			owned_provinces = { xB000E0 }
-			state_type = incorporated
-		}
-		create_state = {
 			country = c:GBR
-			owned_provinces = { x3D8EF9 x700060 xA9D961 xCF46D1 xF00060 }
+			owned_provinces = { x3D8EF9 x700060 xA9D961 xCF46D1 xF00060 xB000E0 }
 			state_type = incorporated
 		}
 		add_homeland = cu:french
@@ -3794,8 +3779,14 @@
 	s:STATE_LOWER_EGYPT = {
 		create_state = {
 			country = c:ETH
-			owned_provinces = { x2050A0 x48E2A5 x5011E0 x50D0E0 x6F13AD x7ABE4B xA0D020 xC09060 xC37990 xD050E0 xF47AAA x409060 }
+			owned_provinces = { x48E2A5 x5011E0 x50D0E0 x6F13AD x7ABE4B xA0D020 xC09060 xC37990 xD050E0 xF47AAA x409060 }
 			state_type = incorporated
+		}
+		create_state = {
+			country = c:W03
+			owned_provinces = { x2050A0 }
+			state_type = treaty_port
+			state_type = unincorporated
 		}
 		add_homeland = cu:dynamic-bedouin_arabic-al_misr_arabic-somali-culture-num1
 	}
@@ -4091,13 +4082,8 @@
 	s:STATE_MERZ = {
 		create_state = {
 			country = c:X63
-			owned_provinces = { x0111C0 x070194 x087318 x132704 x156A20 x1B7D15 x1B9E03 x1DA83C x29133A x35E93F x3A816D x582102 x622B3C x6598F7 x6CF557 x6D1768 x780AED x79947D x7B3A19 x7B5777 x8851E8 x8955C1 x9B9047 xA1DDFA xAC0120 xB1243B xBB15CC xBE7494 xC07060 xC9EFBF xCB0EBB xD72954 xD8C311 xDC167D xDCACAB xE16FA1 xECBE1C xF76F3D xF9C1AD xFAAE74 }
+			owned_provinces = { x0111C0 x070194 x087318 x132704 x156A20 x1B7D15 x1B9E03 x1DA83C x29133A x35E93F x3A816D x582102 x622B3C x6598F7 x6CF557 x6D1768 x780AED x79947D x7B3A19 x7B5777 x8851E8 x8955C1 x9B9047 xA1DDFA xAC0120 xB1243B xBB15CC xBE7494 xC07060 xC9EFBF xCB0EBB xD72954 xD8C311 xDC167D xDCACAB xE16FA1 xECBE1C xF76F3D xF9C1AD xFAAE74 x2E3A04 x5F1CE5 x80FDCA }
 			state_type = incorporated
-		}
-		create_state = {
-			country = c:X90
-			owned_provinces = { x2E3A04 x5F1CE5 x80FDCA }
-			state_type = unincorporated
 		}
 		add_homeland = cu:dynamic-tajik-uyghur-culture-num1
 		add_homeland = cu:tajik
@@ -5514,18 +5500,13 @@
 	}
 	s:STATE_POMERANIA = {
 		create_state = {
-			country = c:BOH
-			owned_provinces = { x19AE19 }
-			state_type = incorporated
-		}
-		create_state = {
 			country = c:DEN
 			owned_provinces = { x567452 x8C6982 xA04121 xA9BD82 xD4C37D xE1A03A }
 			state_type = unincorporated
 		}
 		create_state = {
 			country = c:X90
-			owned_provinces = { x3C26DD x6A53CF x8001A0 x86E6F2 x89A2A9 x8D1E12 xA0C020 xCDEAE4 xEF5730 }
+			owned_provinces = { x3C26DD x6A53CF x8001A0 x86E6F2 x89A2A9 x8D1E12 xA0C020 xCDEAE4 xEF5730 x19AE19 }
 			state_type = incorporated
 		}
 		add_homeland = cu:baltoruth
