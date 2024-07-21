@@ -1980,13 +1980,8 @@
 	}
 	s:STATE_EAST_JAVA = {
 		create_state = {
-			country = c:CAS
-			owned_provinces = { x5C2239 x5C2250 }
-			state_type = unincorporated
-		}
-		create_state = {
 			country = c:W54
-			owned_provinces = { x1D38B7 x2060EF xA0E070 xA8B603 xAD1F3C xC226AF xD91A27 xEF70EC }
+			owned_provinces = { x1D38B7 x2060EF xA0E070 xA8B603 xAD1F3C xC226AF xD91A27 xEF70EC x5C2239 x5C2250 }
 			state_type = incorporated
 		}
 		add_homeland = cu:javan
@@ -3812,13 +3807,8 @@
 	}
 	s:STATE_MADRAS = {
 		create_state = {
-			country = c:ETH
-			owned_provinces = { x7CCE50 xEC1945 }
-			state_type = unincorporated
-		}
-		create_state = {
 			country = c:W57
-			owned_provinces = { x0559B3 x07104C x0E2990 x10B060 x1FF7C6 x2EAD15 x56456B x5AF5BE x61FE06 x620762 x99B424 x9A2EF3 xA02050 xA3158E xABADB1 xAEAE4C }
+			owned_provinces = { x0559B3 x07104C x0E2990 x10B060 x1FF7C6 x2EAD15 x56456B x5AF5BE x61FE06 x620762 x99B424 x9A2EF3 xA02050 xA3158E xABADB1 xAEAE4C x7CCE50 xEC1945 }
 			state_type = incorporated
 		}
 		create_state = {
@@ -4835,13 +4825,8 @@
 	}
 	s:STATE_NORTH_ANGOLA = {
 		create_state = {
-			country = c:CAS
-			owned_provinces = { xC02050 }
-			state_type = incorporated
-		}
-		create_state = {
 			country = c:X61
-			owned_provinces = { x087B9D x15BBB9 x32E90E x4764A5 x491B8B x6FD2F7 x78C387 x82C47B x8C112B x8F94AF xA71792 xADC6D4 xBF65DC xC7F9BD xC93845 xCE457C xCFA0E7 xCFF013 xD30F2F xDAA27C xDAAC09 xF00017 }
+			owned_provinces = { x087B9D x15BBB9 x32E90E x4764A5 x491B8B x6FD2F7 x78C387 x82C47B x8C112B x8F94AF xA71792 xADC6D4 xBF65DC xC7F9BD xC93845 xCE457C xCFA0E7 xCFF013 xD30F2F xDAA27C xDAAC09 xF00017 xC02050 }
 			state_type = incorporated
 		}
 		add_homeland = cu:spanish

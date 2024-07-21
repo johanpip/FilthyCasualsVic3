@@ -5914,7 +5914,7 @@
 		}
 	}
 	s:STATE_EAST_JAVA = {
-		region_state:CAS = {
+		region_state:W54 = {
 			create_building = {
 				building = "building_paper_mills"
 				level = 2
@@ -5933,8 +5933,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W54 = {
 			create_building = {
 				building = "building_naval_base"
 				level = 2
@@ -12002,7 +12000,7 @@
 		}
 	}
 	s:STATE_MADRAS = {
-		region_state:ETH = {
+		region_state:W57 = {
 			create_building = {
 				building = "building_logging_camp"
 				level = 1
@@ -12021,8 +12019,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W57 = {
 			create_building = {
 				building = "building_naval_base"
 				level = 3
@@ -14692,15 +14688,13 @@
 		}
 	}
 	s:STATE_NORTH_ANGOLA = {
-		region_state:CAS = {
+		region_state:X61 = {
 			create_building = {
 				building = "building_barracks"
 				level = 1
 				reserves = 1
 				activate_production_methods = { "pm_general_training" }
 			}
-		}
-		region_state:X61 = {
 			create_building = {
 				building = "building_logging_camp"
 				level = 1
@@ -16006,6 +16000,12 @@
 				level = 1
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_port"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_basic_port" }
 			}
 		}
 		region_state:HTH = {

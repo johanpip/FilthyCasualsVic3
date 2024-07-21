@@ -17303,7 +17303,7 @@
 		}
 	}
 	s:STATE_EAST_JAVA = {
-		region_state:CAS = {
+		region_state:W54 = {
 			create_pop = {
 				culture = korean
 				religion = confucian
@@ -17359,8 +17359,6 @@
 				pop_type = slaves
 				size = 3610
 			}
-		}
-		region_state:W54 = {
 			create_pop = {
 				culture = javan
 				religion = hindu
@@ -33727,14 +33725,12 @@
 		}
 	}
 	s:STATE_MADRAS = {
-		region_state:ETH = {
+		region_state:W57 = {
 			create_pop = {
 				culture = tamil
 				religion = hindu
 				size = 469330
 			}
-		}
-		region_state:W57 = {
 			create_pop = {
 				culture = tamil
 				religion = hindu
@@ -42187,7 +42183,7 @@
 		}
 	}
 	s:STATE_NORTH_ANGOLA = {
-		region_state:CAS = {
+		region_state:X61 = {
 			create_pop = {
 				culture = yoruba
 				religion = animist
@@ -42208,8 +42204,6 @@
 				religion = catholic
 				size = 46288
 			}
-		}
-		region_state:X61 = {
 			create_pop = {
 				culture = ovimbundu
 				religion = animist
