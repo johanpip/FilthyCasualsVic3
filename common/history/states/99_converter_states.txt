@@ -3451,22 +3451,10 @@
 	s:STATE_KYUSHU = {
 		create_state = {
 			country = c:JAP
-			owned_provinces = { x1F0D2C x5C7980 x705080 x70CF00 x70D080 x73414A x906F1E xAE5874 xCEA020 xE16F98 xEF5080 }
-			state_type = incorporated
-		}
-		create_state = {
-			country = c:W25
-			owned_provinces = { xF0D000 }
-			state_type = unincorporated
-		}
-		create_state = {
-			country = c:W55
-			owned_provinces = { x800111 xEF50C0 }
+			owned_provinces = { x1F0D2C x5C7980 x705080 x70CF00 x70D080 x73414A x906F1E xAE5874 xCEA020 xE16F98 xEF5080 xF0D000 x800111 xEF50C0 }
 			state_type = incorporated
 		}
 		add_homeland = cu:japanese
-		add_homeland = cu:spanish
-		add_claim = c:W25
 	}
 	s:STATE_LANCASHIRE = {
 		create_state = {

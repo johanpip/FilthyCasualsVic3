@@ -30851,15 +30851,11 @@
 				religion = shinto
 				size = 623952
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = japanese
 				religion = shinto
 				size = 1134458
 			}
-		}
-		region_state:W55 = {
 			create_pop = {
 				culture = micronesian
 				religion = animist
