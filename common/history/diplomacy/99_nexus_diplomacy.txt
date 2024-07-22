@@ -46,16 +46,11 @@
 
 #Relations
 	c:X90 = {
-		set_relations = { country = c:BOH value = -200 }
 		set_relations = { country = c:DEN value = 10 }
-		set_relations = { country = c:GBR value = -100 }
-		set_relations = { country = c:W03 value = -100 }
-		set_relations = { country = c:W25 value = -100 }
 		set_relations = { country = c:WIN value = 35 }
 		set_relations = { country = c:X29 value = 10 }
 		set_relations = { country = c:X62 value = 10 }
 		set_relations = { country = c:X63 value = 10 }
 		set_relations = { country = c:X64 value = 10 }
-		set_relations = { country = c:X98 value = -200 }
 	}
 }

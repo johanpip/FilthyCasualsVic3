@@ -484,6 +484,8 @@ valentinianism = {
 	color = { 204 153 102 }
 }
 vidilist = {
+	texture = "gfx/interface/icons/religion_icons/baltic.dds"
+	traits = { eastern }
 	color = { 112 84 160 }
 }
 waldensian = {

@@ -7,7 +7,6 @@
 		set_relations = { country = c:CAS value = -200 }
 		set_relations = { country = c:W03 value = -100 }
 		set_relations = { country = c:W47 value = 50 }
-		set_relations = { country = c:X90 value = -200 }
 		set_relations = { country = c:X98 value = -100 }
 	}
 	c:CAM = {

@@ -9978,7 +9978,7 @@ X61 = {
 
 X62 = {
 	color = { 220 178 155 }
-	country_type = unrecognized
+	country_type = recognized
 	tier = principality
 	cultures = { hindustani_proper }
 	religion = vidilist

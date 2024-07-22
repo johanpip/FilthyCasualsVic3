@@ -49,7 +49,6 @@ c:W03 = {
 		set_relations = { country = c:X58 value = 35 }
 		set_relations = { country = c:X59 value = 35 }
 		set_relations = { country = c:X60 value = 35 }
-		set_relations = { country = c:X90 value = -100 }
 		set_relations = { country = c:X98 value = -200 }
 	}
 }
