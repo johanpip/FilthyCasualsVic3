@@ -101,7 +101,7 @@ X56 = { # Goa
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
@@ -130,7 +130,7 @@ X57 = { # Gujarat
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
@@ -159,7 +159,7 @@ X58 = { # Orissa
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
@@ -188,7 +188,7 @@ X59 = { # Deccan
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
@@ -217,7 +217,7 @@ X60 = { # Punjab
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
@@ -246,7 +246,7 @@ X13 = { # Bengal
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
@@ -275,7 +275,7 @@ X74 = { # Madras
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
@@ -304,7 +304,7 @@ W57 = { # Ceylon
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
@@ -333,7 +333,7 @@ X29 = { # Crossbell
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
@@ -362,7 +362,7 @@ X62 = { # Kashmir
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
-		priority = 0
+		priority = 1
 
 		trigger = {
 			exists = c:W03
