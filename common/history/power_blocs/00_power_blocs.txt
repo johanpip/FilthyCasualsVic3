@@ -41,7 +41,7 @@
 			map_color = { 255 223 0 }
 			founding_date = 1745.3.1
 			identity = identity_trade_league
-			principle = principle_internal_trade_1
+			principle = principle_external_trade_1
 			
 			member = c:X56
 			member = c:X57
@@ -57,7 +57,7 @@
 			map_color = { 237 152 18 }
 			founding_date = 1.1.1
 			identity = identity_sovereign_empire
-			principle = principle_vassalization_1
+			principle = principle_exploit_members_1
 			
 			member = c:AIN
 			member = c:CAM
@@ -96,7 +96,7 @@
 	c:X98 = {
 		create_power_bloc = {
 			name = HOLY_ROMAN_EMPIRE_BLOC
-			map_color = { 150 177 161 }
+			map_color = { 158 14 62 }
 			founding_date = 962.2.2
 			identity = identity_sovereign_empire
 			principle = principle_vassalization_2
