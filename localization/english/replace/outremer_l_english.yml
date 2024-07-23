@@ -37,6 +37,16 @@
  X60_ADJ: "Punjabi"
  dyn_X60_subject: "Punjab Mandate"
  dyn_X60_subject_adj: "Punjabi"
+ dyn_X13_subject: "Bengal Mandate"
+ dyn_X13_subject_adj: "Bengali"
+ dyn_X74_subject: "Madras Mandate"
+ dyn_X74_subject_adj: "Madrasi"
+ dyn_W57_subject: "Ceylon Mandate"
+ dyn_W57_subject_adj: "Ceylon"
+ dyn_X29_mandate: "Crossbell Mandate"
+ dyn_X29_mandate_adj: "Crossbell"
+ dyn_X62_mandate: "Kashmir Mandate"
+ dyn_X62_mandate_adj: "Kashmiri"
 
  # Events
  outremer_events.1.t: "A Revolution of Thought"

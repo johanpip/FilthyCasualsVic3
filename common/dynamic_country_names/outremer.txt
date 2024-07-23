@@ -96,75 +96,290 @@
 
 X56 = { # Goa
 	dynamic_country_name = {
-		name = dyn_X56_subject
-		adjective = dyn_X56_subject_adj
+		name = dyn_X56_mandate
+		adjective = dyn_X56_mandate_adj
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
 		priority = 0
 
 		trigger = {
-			coa_def_subject_trigger = yes
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X56
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X56
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
 		}
 	}
 }
 
 X57 = { # Gujarat
 	dynamic_country_name = {
-		name = dyn_X57_subject
-		adjective = dyn_X57_subject_adj
+		name = dyn_X57_mandate
+		adjective = dyn_X57_mandate_adj
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
 		priority = 0
 
 		trigger = {
-			coa_def_subject_trigger = yes
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X57
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X57
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
 		}
 	}
 }
 
 X58 = { # Orissa
 	dynamic_country_name = {
-		name = dyn_X58_subject
-		adjective = dyn_X58_subject_adj
+		name = dyn_X58_mandate
+		adjective = dyn_X58_mandate_adj
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
 		priority = 0
 
 		trigger = {
-			coa_def_subject_trigger = yes
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X58
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X58
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
 		}
 	}
 }
 
 X59 = { # Deccan
 	dynamic_country_name = {
-		name = dyn_X59_subject
-		adjective = dyn_X59_subject_adj
+		name = dyn_X59_mandate
+		adjective = dyn_X59_mandate_adj
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
 		priority = 0
 
 		trigger = {
-			coa_def_subject_trigger = yes
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X59
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X59
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
 		}
 	}
 }
 
 X60 = { # Punjab
 	dynamic_country_name = {
-		name = dyn_X60_subject
-		adjective = dyn_X60_subject_adj
+		name = dyn_X60_mandate
+		adjective = dyn_X60_mandate_adj
 		use_overlord_prefix = yes
 
 		is_main_tag_only = yes
 		priority = 0
 
 		trigger = {
-			coa_def_subject_trigger = yes
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X60
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X60
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
+		}
+	}
+}
+
+X13 = { # Bengal
+	dynamic_country_name = {
+		name = dyn_X13_mandate
+		adjective = dyn_X13_mandate_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X13
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X13
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
+		}
+	}
+}
+
+X74 = { # Madras
+	dynamic_country_name = {
+		name = dyn_X74_mandate
+		adjective = dyn_X74_mandate_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X74
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X74
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
+		}
+	}
+}
+
+W57 = { # Ceylon
+	dynamic_country_name = {
+		name = dyn_W57_mandate
+		adjective = dyn_W57_mandate_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:W57
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:W57
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
+		}
+	}
+}
+
+X29 = { # Crossbell
+	dynamic_country_name = {
+		name = dyn_X29_mandate
+		adjective = dyn_X29_mandate_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X29
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X29
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
+		}
+	}
+}
+
+X62 = { # Kashmir
+	dynamic_country_name = {
+		name = dyn_X62_mandate
+		adjective = dyn_X62_mandate_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X62
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X62
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
 		}
 	}
 }
