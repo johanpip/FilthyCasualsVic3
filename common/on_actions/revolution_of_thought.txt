@@ -1,0 +1,5 @@
+﻿on_monthly_pulse_country = {
+	effect = {
+		trigger_event = { id = outremer_events.1 }
+    }
+}
