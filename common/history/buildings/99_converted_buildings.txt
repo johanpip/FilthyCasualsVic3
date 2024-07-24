@@ -1990,7 +1990,7 @@
 		}
 	}
 	s:STATE_BANGKOK = {
-		region_state:LAO = {
+		region_state:SIA = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -2003,8 +2003,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_no_organization" }
 			}
-		}
-		region_state:SIA = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -7542,7 +7540,7 @@
 		}
 	}
 	s:STATE_GUANGXI = {
-		region_state:DAI = {
+		region_state:W25 = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 2
@@ -7555,8 +7553,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_no_organization" }
 			}
-		}
-		region_state:W25 = {
 			create_building = {
 				building = "building_barracks"
 				level = 9
@@ -8535,8 +8531,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W25 = {
 			create_building = {
 				building = "building_port"
 				level = 3
@@ -10382,7 +10376,7 @@
 		}
 	}
 	s:STATE_KHORASAN = {
-		region_state:W03 = {
+		region_state:X63 = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -10407,8 +10401,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:X63 = {
 			create_building = {
 				building = "building_logging_camp"
 				level = 1
@@ -10813,8 +10805,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W25 = {
 			create_building = {
 				building = "building_cotton_plantation"
 				level = 1
@@ -10827,8 +10817,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W55 = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -10938,7 +10926,7 @@
 		}
 	}
 	s:STATE_LAOS = {
-		region_state:CAM = {
+		region_state:LAO = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -10951,8 +10939,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_no_organization" }
 			}
-		}
-		region_state:CMI = {
 			create_building = {
 				building = "building_logging_camp"
 				level = 1
@@ -10983,8 +10969,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:DAI = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -11003,8 +10987,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:LAO = {
 			create_building = {
 				building = "building_arms_industry"
 				level = 1
@@ -11339,8 +11321,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_simple_organization" }
 			}
-		}
-		region_state:X13 = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -11365,8 +11345,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:X55 = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 2
@@ -13564,46 +13542,6 @@
 		}
 	}
 	s:STATE_NAKHON_RATCHASIMA = {
-		region_state:CAM = {
-			create_building = {
-				building = "building_logging_camp"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_hardwood" "pm_simple_forestry" }
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_silk_plantation"
-				level = 2
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
-		region_state:CMI = {
-			create_building = {
-				building = "building_construction_sector"
-				level = 1
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_logging_camp"
-				level = 1
-				reserves = 1
-				activate_production_methods = { "pm_hardwood" "pm_simple_forestry" }
-			}
-		}
 		region_state:LAO = {
 			create_building = {
 				building = "building_furniture_manufacturies"
@@ -13623,6 +13561,24 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
+			create_building = {
+				building = "building_construction_sector"
+				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_no_organization" }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_hardwood" "pm_simple_forestry" }
+			}
 		}
 		region_state:SIA = {
 			create_building = {
@@ -13640,6 +13596,24 @@
 			create_building = {
 				building = "building_port"
 				level = 1
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_hardwood" "pm_simple_forestry" }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 1
+				reserves = 1
+				activate_production_methods = { "pm_no_organization" }
+			}
+			create_building = {
+				building = "building_silk_plantation"
+				level = 2
 				reserves = 1
 				activate_production_methods = { }
 			}
@@ -14250,15 +14224,13 @@
 		}
 	}
 	s:STATE_NINGXIA = {
-		region_state:TIB = {
+		region_state:W25 = {
 			create_building = {
 				building = "building_livestock_ranch"
 				level = 1
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W25 = {
 			create_building = {
 				building = "building_barracks"
 				level = 9
@@ -16698,7 +16670,7 @@
 		}
 	}
 	s:STATE_PYONGYANG = {
-		region_state:KOR = {
+		region_state:W25 = {
 			create_building = {
 				building = "building_barracks"
 				level = 3
@@ -16717,8 +16689,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W25 = {
 			create_building = {
 				building = "building_naval_base"
 				level = 7
@@ -16777,8 +16747,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_handcrafted_furniture" "pm_no_luxuries" }
 			}
-		}
-		region_state:W25 = {
 			create_building = {
 				building = "building_barracks"
 				level = 1
@@ -18197,8 +18165,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W25 = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 2
@@ -23348,7 +23314,7 @@
 		}
 	}
 	s:STATE_YUNNAN = {
-		region_state:CMI = {
+		region_state:W25 = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -23367,8 +23333,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:DAI = {
 			create_building = {
 				building = "building_barracks"
 				level = 2
@@ -23381,8 +23345,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W25 = {
 			create_building = {
 				building = "building_barracks"
 				level = 8

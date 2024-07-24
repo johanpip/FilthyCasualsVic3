@@ -6096,7 +6096,7 @@
 		}
 	}
 	s:STATE_BANGKOK = {
-		region_state:LAO = {
+		region_state:SIA = {
 			create_pop = {
 				culture = khmer
 				religion = theravada
@@ -6107,8 +6107,6 @@
 				religion = theravada
 				size = 783
 			}
-		}
-		region_state:SIA = {
 			create_pop = {
 				culture = thai
 				religion = theravada
@@ -22002,14 +22000,12 @@
 		}
 	}
 	s:STATE_GUANGXI = {
-		region_state:DAI = {
+		region_state:W25 = {
 			create_pop = {
 				culture = vietnamese
 				religion = mahayana
 				size = 397060
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = zhuang
 				religion = confucian
@@ -24897,8 +24893,6 @@
 				religion = animist
 				size = 1162820
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = japanese
 				religion = shinto
@@ -29705,7 +29699,7 @@
 		}
 	}
 	s:STATE_KHORASAN = {
-		region_state:W03 = {
+		region_state:X63 = {
 			create_pop = {
 				culture = persian
 				religion = nestorian
@@ -29731,8 +29725,6 @@
 				religion = jewish
 				size = 37
 			}
-		}
-		region_state:X63 = {
 			create_pop = {
 				culture = persian
 				religion = nestorian
@@ -30859,15 +30851,11 @@
 				religion = shinto
 				size = 623952
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = japanese
 				religion = shinto
 				size = 1134458
 			}
-		}
-		region_state:W55 = {
 			create_pop = {
 				culture = micronesian
 				religion = animist
@@ -31046,7 +31034,7 @@
 		}
 	}
 	s:STATE_LAOS = {
-		region_state:CAM = {
+		region_state:LAO = {
 			create_pop = {
 				culture = khmer
 				religion = animist
@@ -31087,8 +31075,6 @@
 				religion = theravada
 				size = 4921
 			}
-		}
-		region_state:CMI = {
 			create_pop = {
 				culture = thai
 				religion = theravada
@@ -31129,8 +31115,6 @@
 				religion = mahayana
 				size = 35744
 			}
-		}
-		region_state:DAI = {
 			create_pop = {
 				culture = lao
 				religion = theravada
@@ -31151,8 +31135,6 @@
 				religion = confucian
 				size = 20363
 			}
-		}
-		region_state:LAO = {
 			create_pop = {
 				culture = lao
 				religion = animist
@@ -32059,8 +32041,6 @@
 				religion = sunni
 				size = 128237
 			}
-		}
-		region_state:X13 = {
 			create_pop = {
 				culture = kamarupan
 				religion = hindu
@@ -32091,8 +32071,6 @@
 				religion = mahayana
 				size = 50212
 			}
-		}
-		region_state:X55 = {
 			create_pop = {
 				culture = kachin
 				religion = animist
@@ -38963,50 +38941,6 @@
 		}
 	}
 	s:STATE_NAKHON_RATCHASIMA = {
-		region_state:CAM = {
-			create_pop = {
-				culture = khmer
-				religion = theravada
-				size = 111360
-			}
-			create_pop = {
-				culture = khmer
-				religion = theravada
-				size = 2086
-			}
-			create_pop = {
-				culture = khmer
-				religion = theravada
-				size = 501120
-			}
-			create_pop = {
-				culture = khmer
-				religion = theravada
-				size = 9386
-			}
-		}
-		region_state:CMI = {
-			create_pop = {
-				culture = thai
-				religion = theravada
-				size = 121585
-			}
-			create_pop = {
-				culture = thai
-				religion = theravada
-				size = 2277
-			}
-			create_pop = {
-				culture = thai
-				religion = mahayana
-				size = 193935
-			}
-			create_pop = {
-				culture = thai
-				religion = mahayana
-				size = 3633
-			}
-		}
 		region_state:LAO = {
 			create_pop = {
 				culture = lao
@@ -39077,6 +39011,26 @@
 				culture = lao
 				religion = theravada
 				size = 4520
+			}
+			create_pop = {
+				culture = thai
+				religion = theravada
+				size = 121585
+			}
+			create_pop = {
+				culture = thai
+				religion = theravada
+				size = 2277
+			}
+			create_pop = {
+				culture = thai
+				religion = mahayana
+				size = 193935
+			}
+			create_pop = {
+				culture = thai
+				religion = mahayana
+				size = 3633
 			}
 		}
 		region_state:SIA = {
@@ -39159,6 +39113,26 @@
 				culture = khmer
 				religion = mahayana
 				size = 4328
+			}
+			create_pop = {
+				culture = khmer
+				religion = theravada
+				size = 111360
+			}
+			create_pop = {
+				culture = khmer
+				religion = theravada
+				size = 2086
+			}
+			create_pop = {
+				culture = khmer
+				religion = theravada
+				size = 501120
+			}
+			create_pop = {
+				culture = khmer
+				religion = theravada
+				size = 9386
 			}
 		}
 	}
@@ -41085,14 +41059,12 @@
 		}
 	}
 	s:STATE_NINGXIA = {
-		region_state:TIB = {
+		region_state:W25 = {
 			create_pop = {
 				culture = mongol
 				religion = gelugpa
 				size = 8898
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = tibetan
 				religion = gelugpa
@@ -48958,14 +48930,12 @@
 		}
 	}
 	s:STATE_PYONGYANG = {
-		region_state:KOR = {
+		region_state:W25 = {
 			create_pop = {
 				culture = korean
 				religion = confucian
 				size = 893386
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = korean
 				religion = confucian
@@ -49105,8 +49075,6 @@
 				religion = gelugpa
 				size = 18051
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = mongol
 				religion = gelugpa
@@ -51326,8 +51294,6 @@
 				religion = animist
 				size = 453783
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = siberian
 				religion = tengri_pagan_reformed
@@ -53097,8 +53063,6 @@
 				religion = mahayana
 				size = 9890
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = shan
 				religion = theravada
@@ -67490,7 +67454,7 @@
 		}
 	}
 	s:STATE_YUNNAN = {
-		region_state:CMI = {
+		region_state:W25 = {
 			create_pop = {
 				culture = shan
 				religion = theravada
@@ -67501,8 +67465,6 @@
 				religion = mahayana
 				size = 653159
 			}
-		}
-		region_state:DAI = {
 			create_pop = {
 				culture = lao
 				religion = animist
@@ -67523,8 +67485,6 @@
 				religion = mahayana
 				size = 170169
 			}
-		}
-		region_state:W25 = {
 			create_pop = {
 				culture = yi
 				religion = theravada

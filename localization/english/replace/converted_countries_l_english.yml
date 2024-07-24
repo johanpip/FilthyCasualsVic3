@@ -173,8 +173,6 @@
  X26_ADJ: "Dominion Colombia"
  X28: "Casqui"
  X28_ADJ: "Casqui"
- X29: "Crossbell State"
- X29_ADJ: "Crossbellan"
  X30: "Chu"
  X30_ADJ: "Chu"
  X31: "Champagne"
@@ -285,8 +283,11 @@
  X88_ADJ: "Mori"
  X89: "Mong Yang"
  X89_ADJ: "Mong Yang"
+<<<<<<< HEAD
  X90: "Nexus"
  X90_ADJ: "Nexian"
+=======
+>>>>>>> upstream/land-reclaimation
  X91: "Ning"
  X91_ADJ: "Ning"
  X92: "Nogai"
