@@ -1,0 +1,205 @@
+X90 = { # Nexus
+	# Communist
+	dynamic_country_name = {
+		name = dyn_X90_monarchy
+		adjective = X90_ADJ
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			coa_def_monarchy_flag_trigger = yes
+		}
+	}
+
+	# Communist
+	dynamic_country_name = {
+		name = dyn_X90_communist
+		adjective = X90_ADJ
+
+		is_main_tag_only = yes
+		priority = 2
+
+		trigger = {
+			coa_def_communist_flag_trigger = yes
+		}
+	}
+
+	# Democratic
+	dynamic_country_name = {
+		name = dyn_X90_democratic
+		adjective = X90_ADJ
+
+		is_main_tag_only = yes
+		priority = 1
+
+		trigger = {
+			coa_def_republic_flag_trigger = yes
+		}
+	}
+
+	# Fascist
+	dynamic_country_name = {
+		name = dyn_X90_fascist
+		adjective = X90_ADJ
+
+		is_main_tag_only = yes
+		priority = 1
+
+		trigger = {
+			scope:actor ?= {
+				coa_fascist_trigger = yes
+				NOT = {
+					has_law = law_type:law_council_republic
+				}
+			}
+		}
+	}
+
+	# Theocracy
+	dynamic_country_name = {
+		name = dyn_X90_theocratic
+		adjective = X90_ADJ
+
+		is_main_tag_only = yes
+		priority = 1
+
+		trigger = {
+			scope:actor ?= {
+                has_law = law_type:law_theocracy
+			}
+		}
+	}
+
+	# Anarchist
+	dynamic_country_name = {
+		name = dyn_X90_anarchist
+		adjective = X90_ADJ
+
+		is_main_tag_only = yes
+		priority = 5
+
+		trigger = {
+			scope:actor ?= {
+                has_law = law_type:law_anarchy
+			}
+		}
+	}
+
+	# Technocracy
+	dynamic_country_name = {
+		name = dyn_X90_technocracy
+		adjective = X90_ADJ
+
+		is_main_tag_only = yes
+		priority = 5
+
+		trigger = {
+			scope:actor ?= {
+                has_law = law_type:law_technocracy
+			}
+		}
+	}
+}
+
+# Subjects
+
+X62 = { # Hindustan
+	dynamic_country_name = {
+		name = X62
+		adjective = X62_ADJ
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			coa_def_subject_trigger = yes
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_X62_mandate
+		adjective = dyn_X62_mandate_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 1
+
+		trigger = {
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X62
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X62
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
+		}
+	}
+}
+
+X63 = { # Afghanistan
+	dynamic_country_name = {
+		name = X63
+		adjective = X63_ADJ
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			coa_def_subject_trigger = yes
+		}
+	}
+}
+
+X64 = { # Siberia
+	dynamic_country_name = {
+		name = X64
+		adjective = X64_ADJ
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 0
+
+		trigger = {
+			coa_def_subject_trigger = yes
+		}
+	}
+}
+
+X29 = { # Crossbell
+	dynamic_country_name = {
+		name = dyn_X29_mandate
+		adjective = dyn_X29_mandate_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 1
+
+		trigger = {
+			exists = c:W03
+			c:W03 = {
+                OR = {
+                    has_diplomatic_pact = {
+                        who = c:X29
+                        type = puppet
+                        is_initiator = yes
+                    }
+                    has_diplomatic_pact = {
+                        who = c:X29
+                        type = dominion
+                        is_initiator = yes
+                    }
+                }
+			}
+		}
+	}
+}

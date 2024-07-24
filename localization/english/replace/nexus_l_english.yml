@@ -1,0 +1,23 @@
+﻿l_english:
+ X90: "Nexus"
+ X90_ADJ: "Nexusite"
+ dyn_X90_monarchy: "Empire of Nexus"
+ dyn_X90_communist: "Nexus Workers' Union"
+ dyn_X90_democratic: "Nexus Commonwealth"
+ dyn_X90_fascist: "Eternal Nexus"
+ dyn_X90_theocratic: "Divine Nexus"
+ dyn_X90_anarchist: "Free Territories of Nexus"
+ dyn_X90_technocracy: "Nexus of Technocrats"
+
+ # Dynamic names
+
+
+ # Subjects
+ X62: "Hindustan"
+ X62_ADJ: "Hindustani"
+ X63: "Afghanistan"
+ X63_ADJ: "Afghan"
+ X64: "Siberia"
+ X64_ADJ: "Siberian"
+ X29: "Crossbell State"
+ X29_ADJ: "Crossbellan"
